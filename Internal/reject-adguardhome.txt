@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Wed, 19 Mar 2025 16:00:37 GMT
+! Last modified: Thu, 20 Mar 2025 01:25:20 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -1475,6 +1475,7 @@
 ||dearsdieback.shop^
 ||damageskilan.shop^
 ||curvedtobies.shop^
+||concavobegan.shop^
 ||coblesrondel.shop^
 ||clumpykupper.shop^
 ||a8.classicalelf.shop^
@@ -3920,6 +3921,7 @@
 ||flamssybotic.top^
 ||fixatealaloi.top^
 ||feelfereetoc.top^
+||farmyengrail.top^
 ||externozoner.top^
 ||anal.doubledouble.top^
 ||divotmassage.top^
@@ -6177,6 +6179,7 @@
 ||raitooshamooseg.net^
 ||pturdaumpustool.net^
 ||ptoaheelaishard.net^
+||pteemsoansouthe.net^
 ||psoltoanoucamte.net^
 ||pooraithacuzaum.net^
 ||phoalricmoozils.net^
@@ -6248,6 +6251,7 @@
 ||chicheecmaungee.net^
 ||chekrilsoumpoab.net^
 ||booshoatoocotez.net^
+||bockouphourgait.net^
 ||info.blackhillsgroup.net^
 ||baihoagleewhaum.net^
 ||auvauvixoazedro.net^
@@ -6975,6 +6979,7 @@
 ||zaistouzit.net^
 ||marketing.youththink.net^
 ||xmindchina.net^
+||wuftaustee.net^
 ||wigrooglie.net^
 ||whoucheehy.net^
 ||qlmhin.wholesale7.net^
@@ -18548,6 +18553,7 @@
 ||ewuvpujntjoael.com^
 ||trk.everestblowers.com^
 ||eventexistence.com^
+||etherolasqueal.com^
 ||secureforms.estatesgazette.com^
 ||esculicturbans.com^
 ||load.gtm.errezetaevents.com^
@@ -19227,6 +19233,7 @@
 ||t.whartoncenter.com^
 ||marketing.westwoodgroup.com^
 ||wemplemukente.com^
+||wellworn-lead.com^
 ||shgefd.week-end-turf.com^
 ||wedgierbirsit.com^
 ||bird.webitizevoice.com^
@@ -19671,6 +19678,7 @@
 ||revenuemantra.com^
 ||info.reutersagency.com^
 ||retripmoppers.com^
+||retinaspealer.com^
 ||retinaesprent.com^
 ||retarget2core.com^
 ||marketing.responsepoint.com^
@@ -20418,6 +20426,7 @@
 ||analytics.hollywoodlife.com^
 ||hola-shopping.com^
 ||a8.hoken-connect.com^
+||hobitsaffined.com^
 ||elqtracking.hitachienergy.com^
 ||trackingaa.hitachienergy.com^
 ||go.hitachienergy.com^
@@ -21094,6 +21103,7 @@
 ||bidclickmedia.com^
 ||bidbeneficial.com^
 ||beyourxfriend.com^
+||beylicbesmile.com^
 ||metrics.beveragedaily.com^
 ||hop.betterdaytips.com^
 ||beterrakionan.com^
@@ -23647,6 +23657,7 @@
 ||meerkat.bigcrazylife.com^
 ||barnacle.big-in-japan.com^
 ||bidforclicks.com^
+||bibbysilkmen.com^
 ||biaxalstiles.com^
 ||biancasunlit.com^
 ||tms.betwaysatta1.com^
@@ -24114,6 +24125,7 @@
 ||volatintptr.com^
 ||tags.voazimbabwe.com^
 ||ssc.voazimbabwe.com^
+||vividmeadow.com^
 ||ojwebb.vivaaerobus.com^
 ||vitor304apt.com^
 ||get-supreme-greens-capsules.vitasupreme.com^
@@ -30583,6 +30595,7 @@
 ||adebis.sokamocka.com^
 ||metrics.sofygirls.com^
 ||gdnzwa.sofftshoe.com^
+||sodenneyg.com^
 ||sociocast.com^
 ||marketing.soberlink.com^
 ||web.e.soakaways.com^
@@ -35134,6 +35147,7 @@
 ||metrics.marriott.com^
 ||tms.marriott.com^
 ||target.marlboro.com^
+||api-notify.markarch.com^
 ||marketing.maricich.com^
 ||sst.marcotfx.com^
 ||analytics.marbesta.com^
@@ -48880,6 +48894,7 @@
 ||events.cid.samba.tv^
 ||api.cid.samba.tv^
 ||saa.pluto.tv^
+||service-ad-image-ga.prd.pluto.tv^
 ||data-f59db3288b.nextg.tv^
 ||data-f1e447fbcf.nextg.tv^
 ||ampltd2.medal.tv^
@@ -66067,6 +66082,7 @@
 ||tpjw.cn^
 ||svjj.cn^
 ||7011.stia.cn^
+||spkh.cn^
 ||analytics.sixt.cn^
 |qgnu18wo.sina.cn^
 |l6urqh27.sina.cn^

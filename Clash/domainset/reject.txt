@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-03-21T06:29:47.239Z
-# Size: 69627
+# Last Updated: 2025-03-21T12:40:49.375Z
+# Size: 69629
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2716,6 +2716,7 @@ grs.dbankcloud.asia
 +.84302764.xyz
 +.84055600.xyz
 +.83409127.xyz
++.80582834.xyz
 +.79870085.xyz
 +.79582961.xyz
 +.79391192.xyz
@@ -3717,6 +3718,7 @@ grs.dbankcloud.asia
 +.wkvvzeqybmmlv.top
 +.wkoeoarkqqoez.top
 +.wjzrzwyvzbzbj.top
++.waaz.wjebboljobvaj.top
 +.wewlorozwojrm.top
 +.welbljlvmmyek.top
 +.warkingsudani.top

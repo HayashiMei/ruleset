@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-03-23T05:09:55.923Z
-# Size: 69567
+# Last Updated: 2025-03-23T12:37:57.116Z
+# Size: 69603
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -391,6 +391,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.track.prize-ua.online
 +.fmstigat.online
 +.etherart.online
++.eopuzol1.online
 +.page.clicktrk.online
 +.dc.catuaba2.online
 +.dc.catuaba1.online
@@ -468,6 +469,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.hbidfirrysrvw.global
 +.cwpnnceaolies.global
 +.cgtwccqrpbota.global
++.bqvzsxadeajio.global
 +.aekpzxaghjyxa.global
 +.kmbjerbaafdn.global
 +.scuzgq.greencell.global
@@ -669,6 +671,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.amravati.globalsearch.space
 +.cuttack.globalsearch.space
 +.asansol.globalsearch.space
++.riverzorils.space
 +.gamerplay67.space
 +.bigamybigot.space
 +.uz-kqtecqs.space
@@ -698,6 +701,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.macos.space
 +.dlski.space
 +.stats.unka.space
++.nex8.space
 comments.gazo.space
 +.sub.wildling.shoes
 +.load.gtm.unique.salon
@@ -911,7 +915,9 @@ cdn.matomo.cloud
 +.so.socialmore.click
 +.fiko2.skin-squad.click
 +.easysearch.click
++.cathudnete.click
 +.blueoyster.click
++.bauchvairs.click
 +.wow-click.click
 +.v1.toppromos.click
 +.tazkiaonu.click
@@ -930,6 +936,7 @@ cdn.matomo.cloud
 +.isl.caminos.click
 +.betahit.click
 +.upsups.click
++.dumpei.click
 +.dsfvmx.click
 +.detour.click
 +.see.dailyu.click
@@ -1135,6 +1142,7 @@ cwa.html.zone
 +.lp.seasonedgents.site
 +.rpokplgddrbjg.site
 +.qvglxrsojnyaz.site
++.phburwtzjusbh.site
 +.mrdcykwxiytqs.site
 +.lp.manlywellness.site
 +.lrhyuixtcgnpn.site
@@ -1392,6 +1400,7 @@ bad.third-party.site
 +.masconbaiting.shop
 +.mainoragravic.shop
 +.logriamajesta.shop
++.inuresgrubble.shop
 +.fordullorangs.shop
 +.footlogmerida.shop
 +.ficklepounder.shop
@@ -1412,6 +1421,7 @@ bad.third-party.site
 +.broganswangun.shop
 +.bourlawcamels.shop
 +.blearspellaea.shop
++.binderyvisage.shop
 +.axlikeoedipus.shop
 +.averialuchuan.shop
 +.atellanabdali.shop
@@ -1546,9 +1556,11 @@ bad.third-party.site
 +.sfdsgfg.notice-def.shop
 +.monassumph.shop
 +.mazerflush.shop
++.legatohoch.shop
 +.load.gtm.ladenregal.shop
 +.icodstatus.shop
 +.humpeppier.shop
++.galetmurrs.shop
 +.foldymuist.shop
 +.al.ffs-online.shop
 +.fastiswart.shop
@@ -1625,6 +1637,7 @@ bad.third-party.site
 +.bdncut.pa-man.shop
 +.adebis.lypo-c.shop
 +.febads.shop
++.dsptji.shop
 +.server.bybest.shop
 +.tui07.shop
 +.track.nioba.shop
@@ -1779,6 +1792,7 @@ bad.third-party.site
 +.pinniped.quarantinecup.live
 +.log.cleandesigner.live
 +.server.officeclowns.live
++.news-xponete.live
 +.hnartcqab847.live
 +.yourservice.live
 +.t.themonument.live
@@ -3738,6 +3752,7 @@ grs.dbankcloud.asia
 +.ochroidvedaic.top
 +.nucleinkafirs.top
 +.nerverwrytail.top
++.moisonwarstle.top
 +.malurusoenone.top
 +.lumpilycouped.top
 +.luggieimpeyan.top
@@ -3759,15 +3774,18 @@ grs.dbankcloud.asia
 +.infiledeplant.top
 +.hexinemicerun.top
 +.hellerraucous.top
++.hchus5739dmew.top
 +.hamatumkoodoo.top
 +.gateautriamid.top
 +.gangingwalnut.top
++.fenmanswagman.top
 +.faqirsgoliard.top
 +.emittediodids.top
 +.edenicaurited.top
 +.demeoreisling.top
 +.delianoquassa.top
 +.datingcentral.top
++.cytostalumium.top
 +.corjlougqaicc.top
 +.colentkeruing.top
 +.chymistscaphe.top
@@ -3778,6 +3796,7 @@ grs.dbankcloud.asia
 +.borshtselemis.top
 +.bobblegoobers.top
 +.azazyjjovmker.top
++.arachnesmalts.top
 +.amjllwblmlzbm.top
 +.akvvkmqezvyaa.top
 +.aboveredirect.top
@@ -7084,6 +7103,7 @@ proxyhog.prisma-data.net
 +.espmp-aufr.net
 +.tr.zojh.espmp-aluk.net
 +.espmp-agfr.net
++.epicclicks.net
 +.info.electrifai.net
 +.eertoamogn.net
 +.eepengoons.net
@@ -9835,6 +9855,7 @@ iadmusicmat.music.126.net
 +.frpa-vpdpwc.icu
 +.ejitmssx-rk.icu
 +.m-fmfadcfm.icu
++.birthjeans.icu
 +.zumneojf.icu
 +.ztlkngyj.icu
 +.zthxobgk.icu
@@ -10005,6 +10026,7 @@ iadmusicmat.music.126.net
 +.wnootzc.icu
 +.wnojded.icu
 +.wnmoobz.icu
++.wlwgloo.icu
 +.wlkukrv.icu
 +.wkabios.icu
 +.whrwlxg.icu
@@ -11197,7 +11219,6 @@ sashimi.royli.dev
 +.stats.liveforeverasyouarenowwithalanresnick.com
 +.marketing.home-inspection-franchise-opportunity.com
 +.potentiallypantsreseptivereseptive.com
-+.secure.insightful-enterprise-intelligence.com
 +.a8aspconv.xn--bgm-os4bt98xxicx4fqs5c8e8agvq.com
 +.configurationluxuriantinclination.com
 +.resemblanceilluminatedcigarettes.com
@@ -16731,6 +16752,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.metrics.genentech-forum.com
 +.som.gaservesamerica.com
 +.trk.garocompressors.com
++.gantotireofhisl.com
 +.gamersterritory.com
 +.trk.gamecareerguide.com
 +.stats.galleriacortona.com
@@ -17541,7 +17563,6 @@ charlestownwyllie.oaklawnnonantum.com
 +.marketing.sourceadvisors.com
 +.track.sorteediversao.com
 +.sst.sonus-festival.com
-+.sombersurprise.com
 +.sgtm.soluzionetasse.com
 +.activate.solanabeachsun.com
 +.partner-app.softwareselect.com
@@ -18312,7 +18333,6 @@ charlestownwyllie.oaklawnnonantum.com
 +.sstats.fromyouflowers.com
 +.sepvbm.fromyouflowers.com
 +.stats.fromyouflowers.com
-+.friendlycrayon.com
 +.info.frenchgerleman.com
 +.seniorliving.freedomplazafl.com
 +.freebiesurveys.com
@@ -18416,6 +18436,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.marketing.enhancedvision.com
 +.track.engagesciences.com
 +.tr.jesuis.enformedelotus.com
++.endurosweekday.com
 +.info.enduraproducts.com
 +.enduranceblond.com
 +.endballbemires.com
@@ -19640,6 +19661,7 @@ httpdns.volcengineapi.com
 +.praterswhally.com
 +.load.measure.powerprogress.com
 +.lp.potentformula.com
++.possibleboats.com
 +.track.portalvidabem.com
 +.iframe.porndudegirls.com
 +.marketing.porchlightatl.com
@@ -21658,6 +21680,7 @@ adcdn.tencentmusic.com
 +.swiggermahwa.com
 +.ss.swedishninja.com
 +.swarfamlikar.com
++.swankysquare.com
 +.swagtraffcom.com
 +.swackfylgjur.com
 +.sutiletoroid.com
@@ -21804,6 +21827,7 @@ adcdn.tencentmusic.com
 +.angelfish.shorehamlife.com
 +.sufesj.shop4runners.com
 +.tekdtr.shoecarnival.com
++.shiswashisco.com
 +.metrics.shiremedinfo.com
 +.somni.shinolahotel.com
 +.hsprzf.shinhwaworld.com
@@ -23437,6 +23461,7 @@ httpdns-ocloud.heytapmobile.com
 +.btiwawravxaf.com
 +.marketing.brukeroptics.com
 +.broworkers5s.com
++.brosdefender.com
 +.brocardcored.com
 +.marketing.broadjumpllc.com
 +.brightlybore.com
@@ -23975,6 +24000,7 @@ oppo.yidianzixun.com
 +.volatintptr.com
 +.tags.voazimbabwe.com
 +.ssc.voazimbabwe.com
++.vleigearman.com
 +.vividmeadow.com
 +.ojwebb.vivaaerobus.com
 +.vitor304apt.com
@@ -24099,6 +24125,7 @@ oppo.yidianzixun.com
 +.load.gtm.trfxacademy.com
 +.rtk.trk.trendyburst.com
 +.edge.treehousetv.com
++.treegoalrtb.com
 +.trckmyclick.com
 +.oms.travelocity.com
 +.om.travelocity.com
@@ -24314,7 +24341,6 @@ oppo.yidianzixun.com
 +.stratosbody.com
 +.cxsaev.stratiaskin.com
 +.offers.storagepipe.com
-+.stopstomach.com
 +.stoorgouzoy.com
 +.stoachdarts.com
 +.images.health.stlukes-stl.com
@@ -25881,6 +25907,7 @@ httpdns.huaweicloud.com
 +.ensighten.davidyurman.com
 +.marketing.davidcbaker.com
 +.datesnsluts.com
++.dateskeitai.com
 +.datatechone.com
 +.app.learn.datafoundry.com
 +.marketing.data-source.com
@@ -25920,7 +25947,6 @@ httpdns.huaweicloud.com
 +.secure.analytics.crowneplaza.com
 +.srv.crmixmaster.com
 +.crittercism.com
-+.critictruck.com
 +.cristochris.com
 +.tags.creditkarma.com
 +.cctrkom.creditcards.com
@@ -26038,7 +26064,6 @@ httpdns.huaweicloud.com
 +.chambulwacs.com
 +.ii1.chajiaotong.com
 +.c1.chajiaotong.com
-+.chaireggnog.com
 +.cgqhtithixi.com
 +.ceteembathe.com
 +.metrics.centurylink.com
@@ -26298,6 +26323,7 @@ httpdns.calorietech.com
 +.marketing.autopayplus.com
 +.authcaptcha.com
 +.acv.aun-company.com
++.aumtoassock.com
 +.audiblyjinx.com
 +.aucmoartoas.com
 +.attuneuvito.com
@@ -26585,6 +26611,7 @@ hd.xiaojukeji.com
 +.wubizigeng.com
 +.app.wsucougars.com
 +.t.wsucougars.com
++.wrongwound.com
 +.wqeacqyulq.com
 +.wpiohdquqo.com
 +.v1.wphonelife.com
@@ -27461,6 +27488,7 @@ samsungqbe.com
 +.primaryads.com
 +.aiq-in.prevention.com
 +.td.prevention.com
++.presscllad.com
 +.contactcenter.presenceco.com
 +.ss.preplounge.com
 +.target.premierinn.com
@@ -27972,9 +28000,11 @@ httpdns.push.oppomobile.com
 +.lucidmedia.com
 +.ltengronsa.com
 +.lpmugcevks.com
++.lovemimori.com
 +.hraggz.lovelyskin.com
 +.lovelydrum.com
 +.ip.lovely-app.com
++.loveflirte.com
 +.etracker.louis-moto.com
 +.zlgkpr.lottehotel.com
 +.ssrlot.lotoquebec.com
@@ -29719,6 +29749,7 @@ simple.cloudsmith.com
 +.5eef1ed9ac.com
 +.5bf6d94b92.com
 +.5advertise.com
++.5a5751fd6a.com
 +.579eede9ca.com
 +.5707f9766c.com
 +.562i7aqkxu.com
@@ -30555,6 +30586,7 @@ static.m.sjzhushou.com
 +.cs1470sbeda.schoolasp.com
 +.info.schock-na.com
 +.tracking.schneider.com
++.schizypdq.com
 +.cis.schibsted.com
 +.scesqoikq.com
 +.tracking.scenepass.com
@@ -36764,7 +36796,6 @@ jsadsdisplay.cn-beijing.log.aliyuncs.com
 +.agagaure.com
 +.tag.aftvnews.com
 +.connect.afterpay.com
-+.rsx.afterpay.com
 +.iq.afterpay.com
 +.afswwtrk.com
 +.afrdtech.com
@@ -38907,6 +38938,7 @@ adx-dra.op.hicloud.com
 +.cspmkl.gruppal.com
 +.gruponn.com
 +.taplytics-umami.grubhub.com
++.mi.grubhub.com
 +.grtexch.com
 +.marketing.grplans.com
 +.images.em.groupon.com
@@ -40348,6 +40380,7 @@ api.d.xiaomi.com
 analytics.workos.com
 +.woopra.com
 +.axp.woodtv.com
++.wodfxn.com
 +.wmtten.com
 +.wmpuem.com
 +.wmptpr.com
@@ -40818,6 +40851,7 @@ frontier-aweme-hl.snssdk.com
 +.slfsmf.com
 +.slackb.com
 +.jhprvk.skstoa.com
++.skrhuf.com
 +.ski1.skiset.com
 +.meta-events.skireg.com
 +.analytics.skinit.com
@@ -41157,6 +41191,7 @@ ads.data.pplive.com
 +.metrics.photos.com
 +.metrics.philly.com
 +.om.philly.com
++.phgop1.com
 +.metrics.phesgo.com
 +.pheqae.com
 +.think.phdinc.com
@@ -43239,6 +43274,7 @@ gemini.yahoo.com
 +.where.com
 +.axp.wgntv.com
 +.services.wetek.com
++.wenog.com
 +.alitui.weibo.com
 game.weibo.com
 sdkapp.uve.weibo.com
@@ -43968,6 +44004,7 @@ tongji.meizu.com
 +.metrics.lycos.com
 +.beacon.lycos.com
 +.lx2rv.com
++.lustp.com
 +.luomi.com
 +.ametrics.lumen.com
 +.network.lumen.com
@@ -65090,7 +65127,6 @@ imgg.traffic-media.co
 +.ppctraffic.co
 +.s.pornhammer.co
 +.pickaflick.co
-+.nimblebird.co
 +.waterboa.nighttrain.co
 +.xml-v4.mywaymedia.co
 +.icubeswire.co
@@ -66716,6 +66752,7 @@ hc-ssp.sm.cn
 +.tu3168509469.cc
 +.tu1500919341.cc
 +.tu0379199038.cc
++.news-xzomigu.cc
 +.track.mergenthaler.cc
 +.analytics.wondershare.cc
 +.hotty.sweetadforu.cc
@@ -68475,7 +68512,6 @@ bitanalytics.casperverswijvelt.be
 +.email.sugarresearch.com.au
 +.stats.southernphone.com.au
 +.rdtk.scalemyclinic.com.au
-+.analytics.productreview.com.au
 +.tgmklw.productreview.com.au
 +.tzngbm.noodzboutique.com.au
 +.metrics.newsconcierge.com.au

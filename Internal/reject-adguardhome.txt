@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Mon, 24 Mar 2025 15:21:30 GMT
+! Last modified: Mon, 24 Mar 2025 16:23:01 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -636,6 +636,7 @@
 ||vrqdzfzzlyalb.space^
 ||vplxmpagryjvl.space^
 ||txykmuqzxjitf.space^
+||sjgtsqnmrqswz.space^
 ||olivedinflats.space^
 ||myurphoftafzx.space^
 ||lzljxgqazegmr.space^
@@ -691,6 +692,7 @@
 ||elejwqalsqjbb.rocks^
 ||cyksmcjfyyxxu.rocks^
 ||csqdjsesjbvav.rocks^
+||ckydlxzejeepc.rocks^
 ||todlht-xnm.rocks^
 ||stats.strawberry.rocks^
 ||kgvvvgxtvi.rocks^
@@ -1152,6 +1154,7 @@
 ||churchkhela.site^
 ||mujer.blogdemujer.site^
 ||aqxme-eorex.site^
+||301redirect.site^
 ||xwzbpkku-i.site^
 ||vipgogo123.site^
 ||lp.vibrantman.site^
@@ -3782,6 +3785,7 @@
 ||overfixhater.top^
 ||navaidaosmic.top^
 ||minikenmarls.top^
+||malikabusers.top^
 ||lockianquota.top^
 ||leveesmicker.top^
 ||lalabaos1101.top^
@@ -16672,6 +16676,7 @@
 ||waawuu.highfashionhome.com^
 ||data.service.hibdontiresplus.com^
 ||lezntf.heydudeshoesusa.com^
+||hertouchingthew.com^
 ||herbgreencolumn.com^
 ||helmethomicidal.com^
 ||hedgehoghugsyou.com^
@@ -18776,6 +18781,7 @@
 ||go.bluecrossarena.com^
 ||beaver.bluebunnypaper.com^
 ||blubberspoiled.com^
+||blsznpcpmsjmeq.com^
 ||blog.blogvocebonita.com^
 ||blockchain-ads.com^
 ||analytics.bleacherreport.com^
@@ -21820,6 +21826,7 @@
 ||data.crm.soapandglory.com^
 ||onldlx.snowuniverse.com^
 ||snortedbingo.com^
+||snomoneyandf.com^
 ||lu9xve2c97l898gjjxv4.sneakertoast.com^
 ||wiz.sncf-connect.com^
 ||snarlsfuzzes.com^
@@ -29919,7 +29926,7 @@
 ||388533c5eb.com^
 ||33b39a6e93.3638f4360b.com^
 ||cwobhn.34heritage.com^
-||a398b1fb80.331f7bf198.com^
+||331f7bf198.com^
 ||3221dkf7m2.com^
 ||afae561ed5.3165de3ff8.com^
 ||3103cf02ec.com^
@@ -34495,6 +34502,7 @@
 ||qdzyspjx.com^
 ||mtm.qdqmedia.com^
 ||qarewien.com^
+||pzshzhja.com^
 ||pzapi-ij.com^
 ||pxhuiben.com^
 ||pvclouds.com^

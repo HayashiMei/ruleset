@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-03-24T15:21:20.409Z
-# Size: 70186
+# Last Updated: 2025-03-24T16:22:44.201Z
+# Size: 70194
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -652,6 +652,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.vrqdzfzzlyalb.space
 +.vplxmpagryjvl.space
 +.txykmuqzxjitf.space
++.sjgtsqnmrqswz.space
 +.olivedinflats.space
 +.myurphoftafzx.space
 +.lzljxgqazegmr.space
@@ -707,6 +708,7 @@ comments.gazo.space
 +.elejwqalsqjbb.rocks
 +.cyksmcjfyyxxu.rocks
 +.csqdjsesjbvav.rocks
++.ckydlxzejeepc.rocks
 +.todlht-xnm.rocks
 +.stats.strawberry.rocks
 +.kgvvvgxtvi.rocks
@@ -1167,6 +1169,7 @@ bad.third-party.site
 +.churchkhela.site
 +.mujer.blogdemujer.site
 +.aqxme-eorex.site
++.301redirect.site
 +.xwzbpkku-i.site
 +.vipgogo123.site
 +.lp.vibrantman.site
@@ -3796,6 +3799,7 @@ grs.dbankcloud.asia
 +.overfixhater.top
 +.navaidaosmic.top
 +.minikenmarls.top
++.malikabusers.top
 +.lockianquota.top
 +.leveesmicker.top
 +.lalabaos1101.top
@@ -16680,6 +16684,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.waawuu.highfashionhome.com
 +.data.service.hibdontiresplus.com
 +.lezntf.heydudeshoesusa.com
++.hertouchingthew.com
 +.herbgreencolumn.com
 +.helmethomicidal.com
 +.hedgehoghugsyou.com
@@ -18784,6 +18789,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.go.bluecrossarena.com
 +.beaver.bluebunnypaper.com
 +.blubberspoiled.com
++.blsznpcpmsjmeq.com
 +.blog.blogvocebonita.com
 +.blockchain-ads.com
 +.analytics.bleacherreport.com
@@ -21828,6 +21834,7 @@ adcdn.tencentmusic.com
 +.data.crm.soapandglory.com
 +.onldlx.snowuniverse.com
 +.snortedbingo.com
++.snomoneyandf.com
 +.lu9xve2c97l898gjjxv4.sneakertoast.com
 +.wiz.sncf-connect.com
 +.snarlsfuzzes.com
@@ -29924,7 +29931,7 @@ simple.cloudsmith.com
 +.388533c5eb.com
 +.33b39a6e93.3638f4360b.com
 +.cwobhn.34heritage.com
-+.a398b1fb80.331f7bf198.com
++.331f7bf198.com
 +.3221dkf7m2.com
 +.afae561ed5.3165de3ff8.com
 +.3103cf02ec.com
@@ -34499,6 +34506,7 @@ news.qhstatic.com
 +.qdzyspjx.com
 +.mtm.qdqmedia.com
 +.qarewien.com
++.pzshzhja.com
 +.pzapi-ij.com
 +.pxhuiben.com
 +.pvclouds.com

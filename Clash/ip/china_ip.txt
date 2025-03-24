@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2025-03-23T12:37:58.707Z
-# Size: 4180
+# Last Updated: 2025-03-24T12:43:10.298Z
+# Size: 4181
 # License: CC BY-SA 2.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -812,6 +812,7 @@
 101.52.236.0/22
 101.52.240.0/20
 101.53.100.0/22
+101.55.59.0/24
 101.64.0.0/13
 101.72.0.0/14
 101.76.0.0/15

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-03-25T14:16:10.646Z
-# Size: 70204
+# Last Updated: 2025-03-25T15:43:44.739Z
+# Size: 70253
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10,8 +10,9 @@
 #
 # Build from:
 #  - https://cdn.jsdelivr.net/gh/crazy-max/WindowsSpyBlocker@master/data/hosts/spy.txt
-#  - https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt
-#  - https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Huawei-AdBlock.txt
+#  - https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Extension/GoodbyeAds-Xiaomi-Extension.txt
+#  - https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Extension/GoodbyeAds-Huawei-AdBlock.txt
+#  - https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Extension/GoodbyeAds-Samsung-AdBlock.txt
 #  - https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
 #  - https://easylist.to/easylist/easyprivacy.txt
 #  - https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt
@@ -556,6 +557,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.loxodo-ct.ext.nile.works
 +.stats.micv.works
 +.pixel.watch
++.nimiq.watch
 +.interplanetary.video
 +.discover.streamly.video
 +.ad.moe.video
@@ -5970,6 +5972,9 @@ ynuf.aliapp.org
 +.confiant-integrations.net
 +.yieldlove-ad-serving.net
 samsungcloudsolution.net
+lcprd2.samsungcloudsolution.net
+lcprd1.samsungcloudsolution.net
+fkp.samsungcloudsolution.net
 +.cdn.samsungcloudsolution.net
 +.data-b80f3dd5d8.rhein-neckar-zeitung.net
 +.info.premierstaffservices.net
@@ -6940,6 +6945,7 @@ proxyhog.prisma-data.net
 +.stats.searchftps.net
 +.savefromad.net
 +.khcdhu.saraschool.net
+samsungotn.net
 +.rwww.samsungotn.net
 +.sackeelroy.net
 +.sacedoamte.net
@@ -7615,6 +7621,7 @@ proxyhog.prisma-data.net
 +.d1p7gp5w97u7t7.cloudfront.net
 +.d1p7elpjrt6qav.cloudfront.net
 +.d1p3zboe6tz3yy.cloudfront.net
+d1oxlq5h9kq8q5.cloudfront.net
 +.d1on4urq8lvsb1.cloudfront.net
 +.d1okyw2ay5msiy.cloudfront.net
 +.d1of5w8unlzqtg.cloudfront.net
@@ -8119,6 +8126,8 @@ proxyhog.prisma-data.net
 +.shaidraup.net
 +.scriptcdn.net
 +.sc-static.net
+samsungrm.net
+test.samsungrm.net
 +.saipeevit.net
 +.s0-greate.net
 +.static.rxnetwork.net
@@ -8284,6 +8293,7 @@ proxyhog.prisma-data.net
 +.track.analitycs.net
 +.tags.aljazeera.net
 +.analytics2-3-meride-tv.akamaized.net
+audio-ak-spotify-com.akamaized.net
 +.analytics2-meride-tv.akamaized.net
 +.freewheel-mtgx-tv.akamaized.net
 +.hydro-ma-proxy.akamaized.net
@@ -9268,6 +9278,7 @@ test.api.xlmc.sandai.net
 +.images.engage.mettel.net
 +.xeoezl.major7.net
 +.luxins.net
+samsung.apps.linkpc.net
 +.pathfinder.analytics.komoot.net
 +.utklhk.kojima.net
 +.l.kitemi.net
@@ -12380,10 +12391,13 @@ samsungcloudsolution.com
 +.noticecdn.samsungcloudsolution.com
 +.amauthprd.samsungcloudsolution.com
 +.vdterms.samsungcloudsolution.com
+oempprd.samsungcloudsolution.com
 +.musicid.samsungcloudsolution.com
 +.notice.samsungcloudsolution.com
 +.prov.samsungcloudsolution.com
+acr0.samsungcloudsolution.com
 +.sas.samsungcloudsolution.com
+fkp.samsungcloudsolution.com
 +.tracking.info.rochesterknighthawks.com
 +.go.rochesterknighthawks.com
 +.metrics.rituxanforgpampa-hcp.com
@@ -15680,6 +15694,7 @@ samsungcloudsolution.com
 +.dchioj.brookhollowcards.com
 +.resources.broadleafresults.com
 +.broadensilkslush.com
++.brightinitiative.com
 +.edge.bridgetrusttitle.com
 +.news.bridgetowermedia.com
 +.hfd.bridgetowermedia.com
@@ -16206,7 +16221,9 @@ display.360totalsecurity.com
 +.marketing.sanitysolutions.com
 +.api-hub.samsungyosemite.com
 +.us-api.samsungyosemite.com
+invitation.samsungiotcloud.com
 +.analytics-api.samsunghealthcn.com
+otn.samsungcloudcdn.com
 +.salbraddrepilly.com
 +.ssitectlyst.saksfifthavenue.com
 +.sitectlyst.saksfifthavenue.com
@@ -27381,6 +27398,10 @@ ads-shopping.shouqianba.com
 +.contact.samsungsds.com
 samsungqbe.com
 +.osb-apps-v2.samsungqbe.com
+osb-ussvc.samsungqbe.com
+osb-krsvc.samsungqbe.com
+osb.samsungqbe.com
+gpm.samsungqbe.com
 +.gld.samsungosp.com
 +.ctydel.samsungctc.com
 +.samsungads.com
@@ -29364,6 +29385,7 @@ simple.cloudsmith.com
 +.content.brightmine.com
 +.elq.brightmine.com
 +.bia.brightinfo.com
++.brightdata.com
 +.metrics.brightcove.com
 +.bright-sdk.com
 +.jmcnwr.bricoprive.com
@@ -30921,6 +30943,7 @@ static.m.sjzhushou.com
 +.querylead.com
 +.quensillo.com
 +.email.social.qualtrics.com
+samsungeurope.eu.qualtrics.com
 +.raspnd.quadratec.com
 +.marketing.quadramed.com
 +.a.qsjiajiao.com
@@ -32944,6 +32967,7 @@ ad.caiyunapp.com
 +.brocode2s.com
 +.brocode1s.com
 +.track.briskfile.com
++.brightvpn.com
 +.bridgeoos.com
 +.bremphumz.com
 +.bred4tula.com
@@ -35021,6 +35045,7 @@ geolocation.onetrust.com
 +.naettarq.com
 +.nabalpal.com
 +.mzwdiyfp.com
+dzc-metrics.mzstatic.com
 +.metrics.mzstatic.com
 +.mzol7lbm.com
 +.mzidpylu.com
@@ -37226,6 +37251,8 @@ t.yesware.com
 +.reg.xrdconf.com
 +.secureforms.xperthr.com
 +.forms.xperthr.com
+lockersamsungs8.s.xoxknct.com
+lockersamsungs8.r.xoxknct.com
 +.cmcyne.xoticpc.com
 +.metrics.xofluza.com
 +.xml-v4.xmlwolf.com
@@ -39521,6 +39548,7 @@ log-sdk.gifshow.com
 +.sanl.eastbay.com
 +.bee.tc.easebar.com
 +.earnify.com
++.earnapp.com
 +.online.eaglepi.com
 +.yryxcn.e-ohaka.com
 +.adebis.e-ohaka.com
@@ -42891,6 +42919,7 @@ links.services.disqus.com
 +.uqcvxi.burpee.com
 +.bupatp.com
 +.bulrev.com
+samsungus.btttag.com
 +.btpnav.com
 +.news.btmbiz.com
 +.btdnav.com
@@ -44343,6 +44372,7 @@ tongji.meizu.com
 +.uofcdl.lagos.com
 +.ladsp.com
 +.go.l-com.com
++.l-cdn.com
 +.technical.kyzen.com
 +.lofi.kylnk.com
 +.axp.kxnet.com
@@ -45217,9 +45247,12 @@ events-analytics.apple.com
 +.supportmetrics.apple.com
 +.api-adservices.apple.com
 securemetrics.apple.com
++.iadworkbench.apple.com
++.advertising.apple.com
 +.iadcontent.apple.com
 +.securemvt.apple.com
 +.metrics.apple.com
+launch.apple.com
 +.iadmoo.apple.com
 +.iad.apple.com
 +.xp.apple.com
@@ -48996,6 +49029,7 @@ osscach2023.hicloud.tw
 +.stats.learnlinux.tv
 +.a.jerkdevice.tv
 +.game.internetat.tv
+sso.internetat.tv
 +.log.internetat.tv
 +.adrouter-charter-vod.cadenttech.tv
 +.cdn-media.brightline.tv
@@ -50512,6 +50546,7 @@ grs.platform.dbankcloud.ru
 +.mc.yandex.ru
 +.bs.yandex.ru
 +.count.yandeg.ru
+samsung.yaload.ru
 +.edfyqv.x-moda.ru
 +.w4h5ae.ru
 +.1l-hit.vkplay.ru
@@ -51167,6 +51202,7 @@ mine.torrent.pw
 +.stats.staging.hex.pm
 +.load.gtm.edu-consulting-szkolenia.pl
 +.gtm.certyfikaty-energetyczne.pl
+samsung-klimatyzacja.pl
 +.pvrugd.nieruchomosci-online.pl
 +.statystyki.ekspertyzy-szkolenia.pl
 +.ss.wychowaninawinylach.pl
@@ -51644,6 +51680,8 @@ mine.torrent.pw
 +.trc.gpcdn.pl
 +.clnbze.gol24.pl
 +.trk.flora.pl
+samsung-akcja.e-kei.pl
+akcjasamsung.e-kei.pl
 +.saa.dyson.pl
 +.jifbxa.dajar.pl
 +.mzldzb.crocs.pl
@@ -51704,6 +51742,7 @@ mine.torrent.pw
 +.stat.lex.pl
 +.email-em.jll.pl
 +.cookies.jll.pl
+akcja-samsung.h2g.pl
 +.ypzktj.fly.pl
 +.xhohnr.fdm.pl
 +.nczwsy.yourhomestory.com.pl
@@ -53990,6 +54029,7 @@ a.tool.lu
 +.weblog.zdnet.co.kr
 +.log.zdnet.co.kr
 +.tkzvse.whois.co.kr
+ns11.whois.co.kr
 +.edavbu.vittz.co.kr
 +.cdn.smlog.co.kr
 +.ksrqsw.slim9.co.kr
@@ -54882,6 +54922,7 @@ a.tool.lu
 +.rgecga.piary.jp
 +.tracking.nokai.jp
 +.sekaopi.nocre.jp
++.nimiq.jp
 +.ebis.n-pri.jp
 +.a8.n-pri.jp
 +.visitor-service.mtgec.jp
@@ -58389,6 +58430,7 @@ ad.yixin.im
 +.hgf4.zanzicar.fr
 +.gtm.yessmile.fr
 +.hutkse.wecandoo.fr
+samsung3.solution.weborama.fr
 +.sanalytics.warnertv.fr
 +.analytics.warnertv.fr
 +.tk.verisure.fr
@@ -59500,6 +59542,9 @@ grs.dbankcloud.eu
 +.np6.eu
 +.marketing.hmg.eu
 +.vovdsb.fbs.eu
+samsung-produkcja.24.eu
+samsung-stop.24.eu
+samsung.24.eu
 +.load.ssgtm.certificadonacimientoonline.es
 +.sm.farmacias-parafarmacias.es
 +.adbmetrics.xn--futuroenespaol-1nb.es
@@ -64083,6 +64128,7 @@ grs.dbankcloud.eu
 +.data-e3d4300b49.sport.de
 +.data-3823552b7a.sport.de
 +.data-01a4b5d23e.sport.de
+a460.cell.phone.ringtone.samsung.sms13.de
 +.stats.sim24.de
 +.tracking.seton.de
 +.load.d.sauer.de
@@ -65766,6 +65812,7 @@ p.cloudcraft.co
 +.fpa-events.decrypt.co
 +.fpa-cdn.decrypt.co
 +.stats.dashbit.co
++.brdtest.co
 +.ss.bootnow.co
 +.tr.batiweb.co
 +.alitems.co
@@ -65877,6 +65924,7 @@ p.cloudcraft.co
 +.adop.co
 +.trx-cdn.zip.co
 +.trx.zip.co
+s.w-x.co
 +.deer.m1x.co
 +.grouse.i21.co
 +.reuniondepadres.unisabana.edu.co
@@ -67712,6 +67760,7 @@ hc-ssp.sm.cn
 +.edge.stacktv.ca
 +.marketing.sensoft.ca
 +.quebec.savills.ca
+t.email1.samsung.ca
 +.marketing.orionti.ca
 +.redtrack.myrocky.ca
 +.insights.mckimcg.ca
@@ -67913,6 +67962,7 @@ hc-ssp.sm.cn
 +.a8.fpo.bz
 +.native.cli.bz
 +.pudalz.gismeteo.by
++.nimiq.by
 +.matomo.a1.by
 +.stbg.stanbicbank.co.bw
 +.data.relacionamento.uniderp.br

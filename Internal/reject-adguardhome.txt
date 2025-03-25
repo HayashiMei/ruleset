@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 25 Mar 2025 12:42:05 GMT
+! Last modified: Tue, 25 Mar 2025 14:16:20 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -2279,6 +2279,7 @@
 ||xbwkskazmgbyk.buzz^
 ||tlswzfbujtgzi.buzz^
 ||skgpzivadwdte.buzz^
+||nzyqdqbfixkmq.buzz^
 ||ntmreohudibfo.buzz^
 ||jzqscvqlgasxh.buzz^
 ||lust-goddess.buzz^
@@ -5731,6 +5732,7 @@
 ||info.coyfc.org^
 ||hakurei.cdnbo.org^
 ||1991482557.rsc.cdn77.org^
+||1985536323.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1560807123.rsc.cdn77.org^
 ||1558334541.rsc.cdn77.org^
@@ -5738,6 +5740,7 @@
 ||1437953666.rsc.cdn77.org^
 ||1361424968.rsc.cdn77.org^
 ||1352924994.rsc.cdn77.org^
+||1305314473.rsc.cdn77.org^
 ||1208344341.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
@@ -6708,6 +6711,7 @@
 ||mudrouraung.net^
 ||moumaiphuch.net^
 ||moowhaufipt.net^
+||moograwhire.net^
 ||mongailrids.net^
 ||rdt.mkaffiliate.net^
 ||mihaivibsaz.net^
@@ -19014,6 +19018,7 @@
 ||sgtm.zugspitzezone.com^
 ||zpgetworker11.com^
 ||go.zippymagazine.com^
+||zipperszebecs.com^
 ||analytics.ziftsolutions.com^
 ||dynamic.ziftsolutions.com^
 ||leadership.zengerfolkman.com^
@@ -19108,6 +19113,7 @@
 ||windlebrogues.com^
 ||trk.williamspumps.com^
 ||marketing.wildhorsepass.com^
+||wigneebaimtoa.com^
 ||widow5blackfr.com^
 ||uqhpej.wiberrentacar.com^
 ||whoppercreaky.com^
@@ -24103,6 +24109,7 @@
 ||info.vcsolutions.com^
 ||vcommission.com^
 ||marketing.vcasoftware.com^
+||vazticlkivi.com^
 ||imxfck.varusteleka.com^
 ||varshacundy.com^
 ||info.vaporstream.com^
@@ -25548,6 +25555,7 @@
 ||hockeyhavoc.com^
 ||hoalaicheey.com^
 ||hoabauwezow.com^
+||hnpiwmegpdv.com^
 ||hnmikeloarp.com^
 ||eqkwat.histoiredor.com^
 ||ea.histoiredor.com^
@@ -27010,6 +27018,7 @@
 ||data-ff5b197ecc.traceparts.com^
 ||tr-bouncer.com^
 ||info.tpctrainco.com^
+||tpbkmusefo.com^
 ||totogetica.com^
 ||totesnobis.com^
 ||log.tossinvest.com^
@@ -31824,6 +31833,7 @@
 ||jergocast.com^
 ||yvdbva.jemutshop.com^
 ||trk.jemacoair.com^
+||jegyojben.com^
 ||hornet.jeffgable.com^
 ||jeeryzest.com^
 ||metrics.jcwhitney.com^
@@ -34753,6 +34763,7 @@
 ||app.paciolan.com^
 ||t.paciolan.com^
 ||tracking.pacharge.com^
+||p8wj9zko.com^
 ||ozvtuton.com^
 ||ozongees.com^
 ||ozobsaib.com^

@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 25 Mar 2025 04:39:05 GMT
+! Last modified: Tue, 25 Mar 2025 12:42:05 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -12480,7 +12480,6 @@
 ||go.janesvilleinnovation.com^
 ||ozjzsu.intelligentsiacoffee.com^
 ||intelligenceretarget.com^
-||secure.insightful-cloud-365.com^
 ||marketing.innovamarketinsights.com^
 ||tracking.innovamarketinsights.com^
 ||tagging.inittogetherfestival.com^
@@ -20324,7 +20323,6 @@
 ||hoodoosdonsky.com^
 ||hoodingluster.com^
 ||honoursdashed.com^
-||honorableland.com^
 ||honestlyquick.com^
 ||stape.homemfinancas.com^
 ||holmicnebbish.com^
@@ -25653,7 +25651,6 @@
 ||glowingnews.com^
 ||globeofnews.com^
 ||glo-glo-oom.com^
-||glasscoyote.com^
 ||glaikrolsoa.com^
 ||gimpsgenips.com^
 ||gigacpmserv.com^
@@ -27179,7 +27176,6 @@
 ||st-rdirect.com^
 ||ssqyuvavse.com^
 ||srootshare.com^
-||squeakzinc.com^
 ||inmenw.squaredeco.com^
 ||tracker.sqreemtech.com^
 ||sprysummit.com^
@@ -32934,6 +32930,7 @@
 ||brocode1s.com^
 ||track.briskfile.com^
 ||bridgeoos.com^
+||bremphumz.com^
 ||bred4tula.com^
 ||brealtime.com^
 ||brandclik.com^
@@ -40056,6 +40053,7 @@
 ||event-dot-learning-piano.appspot.com^
 ||tracker-dot-optimeeze.appspot.com^
 ||goo-access-analytics.appspot.com^
+||ohm-dot-hackster-io.appspot.com^
 ||literally-analytics.appspot.com^
 ||amp-error-reporting.appspot.com^
 ||javascriptcounter.appspot.com^
@@ -46594,6 +46592,7 @@
 ||metrics.sun.com^
 ||dwbotr.ssg.com^
 ||act-on.snb.com^
+||idstatus.sky.com^
 ||metrics.sky.com^
 ||analytics.global.sky.com^
 ||stats.ski.com^
@@ -66462,6 +66461,7 @@
 ||zjen.cn^
 ||xue.zbyw.cn^
 ||xwma.cn^
+||xluz.cn^
 ||miniye.xjts.cn^
 ||bd1.xiby.cn^
 ||xbqm.cn^

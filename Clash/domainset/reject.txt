@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-03-26T05:55:40.731Z
-# Size: 70608
+# Last Updated: 2025-03-26T06:00:23.551Z
+# Size: 70609
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -19499,7 +19499,6 @@ api-ads.tiantianqutao.com
 +.silurehoghood.com
 +.silpharapidly.com
 +.views.sikerproducts.com
-wx.sifakaoshi360.com
 +.a8.shukatsu-note.com
 +.shticksyahuna.com
 +.shredvealdone.com
@@ -26619,6 +26618,7 @@ httpdns.calorietech.com
 +.xml.admozartppc.com
 +.trk.admmontreal.com
 +.adtrack.adleadevent.com
+stats.adityathebe.com
 +.adfrontiers.com
 +.addthisedge.com
 +.ssl.o.additudemag.com
@@ -49649,6 +49649,7 @@ gif.7mmtv.sx
 +.ev.kck.st
 +.t.kck.st
 +.gibbon.711.st
+udata.namespace.so
 +.analytics.pgncs.notion.so
 +.exp.notion.so
 +.stats.cohere.so

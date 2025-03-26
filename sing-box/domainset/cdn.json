@@ -1971,6 +1971,7 @@
         "0x0.st",
         "udata.namespace.so",
         "image-forwarder.notaku.so",
+        "bucket1.notaku.so",
         "static.cohere.so",
         "cdn.circle.so",
         "cdn.birdie.so",

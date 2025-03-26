@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - LAN
-# Last Updated: 2025-03-17T09:22:02.826Z
-# Size: 48
+# Last Updated: 2025-03-26T15:35:27.580Z
+# Size: 84
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,16 +21,6 @@ DOMAIN,pi.hole
 DOMAIN-SUFFIX,168.192.in-addr.arpa
 DOMAIN-SUFFIX,31.172.in-addr.arpa
 DOMAIN-SUFFIX,30.172.in-addr.arpa
-DOMAIN-SUFFIX,29.172.in-addr.arpa
-DOMAIN-SUFFIX,28.172.in-addr.arpa
-DOMAIN-SUFFIX,27.172.in-addr.arpa
-DOMAIN-SUFFIX,26.172.in-addr.arpa
-DOMAIN-SUFFIX,25.172.in-addr.arpa
-DOMAIN-SUFFIX,24.172.in-addr.arpa
-DOMAIN-SUFFIX,23.172.in-addr.arpa
-DOMAIN-SUFFIX,22.172.in-addr.arpa
-DOMAIN-SUFFIX,21.172.in-addr.arpa
-DOMAIN-SUFFIX,20.172.in-addr.arpa
 DOMAIN-SUFFIX,19.172.in-addr.arpa
 DOMAIN-SUFFIX,18.172.in-addr.arpa
 DOMAIN-SUFFIX,17.172.in-addr.arpa
@@ -56,4 +46,50 @@ DOMAIN,repeater.asus.com
 DOMAIN,router.asus.com
 DOMAIN,aterm.me
 DOMAIN-SUFFIX,tplogin.cn
+DOMAIN-REGEX,^127\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.127\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^10\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.10\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^172\.16\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.172\.16\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^172\.17\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.172\.17\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^172\.18\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.172\.18\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^172\.19\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.172\.19\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^172\.2[\w.-]\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.172\.2[\w.-]\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^172\.30\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.172\.30\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^172\.31\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.172\.31\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^192\.168\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.192\.168\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^169\.254\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.169\.254\.[\w.-]*?\.sslip\.io$
+DOMAIN-REGEX,^127\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.127\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^10\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.10\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^172\.16\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.172\.16\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^172\.17\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.172\.17\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^172\.18\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.172\.18\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^172\.19\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.172\.19\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^172\.2[\w.-]\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.172\.2[\w.-]\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^172\.30\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.172\.30\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^172\.31\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.172\.31\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^192\.168\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.192\.168\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^169\.254\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^[\w.-]*?\.169\.254\.[\w.-]*?\.nip\.io$
+DOMAIN-REGEX,^2[\w.-]\.172\.in-addr\.arpa$
+DOMAIN-REGEX,^[\w.-]*?\.2[\w.-]\.172\.in-addr\.arpa$
 ################## EOF ##################

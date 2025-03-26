@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-03-26T11:05:28.372Z
-# Size: 3308
+# Last Updated: 2025-03-26T14:26:27.396Z
+# Size: 3309
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -361,6 +361,7 @@ assets.visioncritical.net
 vscode-sync-insiders.trafficmanager.net
 vscode-sync.trafficmanager.net
 +.msftauthimages.net
+media.minecraftforum.net
 +.licensebuttons.net
 headway-widget.net
 cdn.consentmanager.net

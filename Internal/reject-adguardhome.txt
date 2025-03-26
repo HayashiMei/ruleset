@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Wed, 26 Mar 2025 11:05:41 GMT
+! Last modified: Wed, 26 Mar 2025 14:26:39 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -8923,9 +8923,7 @@
 ||click-rtb2-apac.affinity.net^
 ||win-rtb2-apac.affinity.net^
 ||static-rtb2.affinity.net^
-||xml-eu-v4.adsfloow.net^
-||xml-v4.adsfloow.net^
-||xml.adsfloow.net^
+||adsfloow.net^
 ||adserved.net^
 ||adsbuddy.net^
 ||adsafety.net^
@@ -37547,7 +37545,7 @@
 ||eloqua-trackings.unity3d.com^
 ||eloqua-tracking.unity3d.com^
 ||mediation.unity3d.com^
-||collect.analytics.unity3d.com^
+||analytics.unity3d.com^
 ||unityads.unity3d.com^
 ||mediation-tracking.prd.mz.internal.unity3d.com^
 ||tracking.prd.mz.internal.unity3d.com^

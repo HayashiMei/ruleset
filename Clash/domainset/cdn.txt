@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-03-25T17:13:18.557Z
-# Size: 3302
+# Last Updated: 2025-03-26T05:55:41.410Z
+# Size: 3304
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -476,7 +476,6 @@ s.midishow.net
 +.kakaocdn.net
 +.jsdelivr.net
 img.javstore.net
-ik.imagekit.net
 +.forgecdn.net
 connect.facebook.net
 static.esimplus.net
@@ -567,6 +566,7 @@ az700632.vo.msecnd.net
 +.mercdn.net
 images.mattel.net
 fiddle.jshell.net
+ik.imgkit.net
 +.imgair.net
 images.idgesg.net
 alt.idgesg.net
@@ -2016,6 +2016,7 @@ cf.hamreus.com
 i.hamreus.com
 public-files.gumroad.com
 assets.gumroad.com
+gstatic.com
 connectivitycheck.gstatic.com
 encrypted-vtbn3.gstatic.com
 encrypted-vtbn2.gstatic.com
@@ -2392,6 +2393,7 @@ cdnstatic.w4nkr.com
 assets.volvo.com
 assets.vogue.com
 player.vimeo.com
+static.vanta.com
 +.uvcdn.com
 +.unpkg.com
 +.twimg.com

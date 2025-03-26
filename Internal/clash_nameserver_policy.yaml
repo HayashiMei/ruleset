@@ -386,94 +386,6 @@ dns:
       - system://
       - system
       - dhcp://system
-    +.127.*.sslip.io:
-      - system://
-      - system
-      - dhcp://system
-    +.10.*.sslip.io:
-      - system://
-      - system
-      - dhcp://system
-    +.172.16.*.sslip.io:
-      - system://
-      - system
-      - dhcp://system
-    +.172.17.*.sslip.io:
-      - system://
-      - system
-      - dhcp://system
-    +.172.18.*.sslip.io:
-      - system://
-      - system
-      - dhcp://system
-    +.172.19.*.sslip.io:
-      - system://
-      - system
-      - dhcp://system
-    +.172.2?.*.sslip.io:
-      - system://
-      - system
-      - dhcp://system
-    +.172.30.*.sslip.io:
-      - system://
-      - system
-      - dhcp://system
-    +.172.31.*.sslip.io:
-      - system://
-      - system
-      - dhcp://system
-    +.192.168.*.sslip.io:
-      - system://
-      - system
-      - dhcp://system
-    +.169.254.*.sslip.io:
-      - system://
-      - system
-      - dhcp://system
-    +.127.*.nip.io:
-      - system://
-      - system
-      - dhcp://system
-    +.10.*.nip.io:
-      - system://
-      - system
-      - dhcp://system
-    +.172.16.*.nip.io:
-      - system://
-      - system
-      - dhcp://system
-    +.172.17.*.nip.io:
-      - system://
-      - system
-      - dhcp://system
-    +.172.18.*.nip.io:
-      - system://
-      - system
-      - dhcp://system
-    +.172.19.*.nip.io:
-      - system://
-      - system
-      - dhcp://system
-    +.172.2?.*.nip.io:
-      - system://
-      - system
-      - dhcp://system
-    +.172.30.*.nip.io:
-      - system://
-      - system
-      - dhcp://system
-    +.172.31.*.nip.io:
-      - system://
-      - system
-      - dhcp://system
-    +.192.168.*.nip.io:
-      - system://
-      - system
-      - dhcp://system
-    +.169.254.*.nip.io:
-      - system://
-      - system
-      - dhcp://system
     +.10.in-addr.arpa:
       - system://
       - system
@@ -495,6 +407,46 @@ dns:
       - system
       - dhcp://system
     +.2?.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.20.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.21.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.22.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.23.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.24.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.25.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.26.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.27.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.28.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.29.172.in-addr.arpa:
       - system://
       - system
       - dhcp://system

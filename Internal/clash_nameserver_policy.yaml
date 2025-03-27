@@ -406,10 +406,6 @@ dns:
       - system://
       - system
       - dhcp://system
-    +.2?.172.in-addr.arpa:
-      - system://
-      - system
-      - dhcp://system
     +.20.172.in-addr.arpa:
       - system://
       - system

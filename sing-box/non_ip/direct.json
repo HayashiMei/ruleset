@@ -184,10 +184,6 @@
         "deepdyve",
         "els-cdn"
       ],
-      "domain_regex": [
-        "^2[\\w.-]\\.172\\.in-addr\\.arpa$",
-        "^[\\w.-]*?\\.2[\\w.-]\\.172\\.in-addr\\.arpa$"
-      ],
       "process_name": [
         "v2ray",
         "xray",

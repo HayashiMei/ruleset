@@ -54,10 +54,6 @@
         "routerlogin.com",
         "asusrouter.com",
         "tplogin.cn"
-      ],
-      "domain_regex": [
-        "^2[\\w.-]\\.172\\.in-addr\\.arpa$",
-        "^[\\w.-]*?\\.2[\\w.-]\\.172\\.in-addr\\.arpa$"
       ]
     }
   ]

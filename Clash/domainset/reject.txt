@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-03-27T07:50:28.934Z
-# Size: 70641
+# Last Updated: 2025-03-27T14:01:45.485Z
+# Size: 70642
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -35386,6 +35386,7 @@ mepodownload.mediatek.com
 +.list-ads.com
 +.stape-shopify.lisagrue.com
 +.lirretsn.com
++.linksprf.com
 +.linkmink.com
 +.linkmepu.com
 +.st.linkfire.com

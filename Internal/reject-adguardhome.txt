@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sun, 30 Mar 2025 12:38:46 GMT
+! Last modified: Sun, 30 Mar 2025 16:28:21 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -560,6 +560,7 @@
 ||wfexxzpmengpk.today^
 ||uzaiowvlhtxbh.today^
 ||uhrvjjkbnucvb.today^
+||qqqdsrjovklsr.today^
 ||porbzpfmverzb.today^
 ||otbydhpfhzbjd.today^
 ||oglrrokbbxoyw.today^
@@ -1326,6 +1327,7 @@
 ||fusionslygaeid.shop^
 ||foamingjessant.shop^
 ||fleabagviniest.shop^
+||emeriedlimmock.shop^
 ||elytronkantele.shop^
 ||ectypalnonbank.shop^
 ||duckingcodeias.shop^
@@ -1394,6 +1396,7 @@
 ||acrazelaccase.shop^
 ||accuserhorste.shop^
 ||yarranpyrope.shop^
+||wilfreddrear.shop^
 ||weightypikas.shop^
 ||vangsligulae.shop^
 ||unhatedkrubi.shop^
@@ -2372,6 +2375,7 @@
 ||moagrejinubiko.xyz^
 ||lbdfynckjyqbau.xyz^
 ||koomoaboatapoa.xyz^
+||kfmsltodvutodo.xyz^
 ||jidroumsaghetu.xyz^
 ||groazaimsadroa.xyz^
 ||gorillatraffic.xyz^
@@ -3671,6 +3675,7 @@
 ||nucleinkafirs.top^
 ||nerverwrytail.top^
 ||moisonwarstle.top^
+||misgyeflative.top^
 ||malurusoenone.top^
 ||lumpilycouped.top^
 ||luggieimpeyan.top^
@@ -3681,6 +3686,7 @@
 ||lingetunearth.top^
 ||lihqutwoiumpd.top^
 ||lehmerrociest.top^
+||labitecurtals.top^
 ||jzokkejvjrvrb.top^
 ||jzleekzaovelw.top^
 ||jybaekaqbmwyj.top^
@@ -3852,6 +3858,7 @@
 ||uzbeknisse.top^
 ||toforebhut.top^
 ||sugganhypt.top^
+||sedumchela.top^
 ||new.searchadsw.top^
 ||revaywendi.top^
 ||refpamjeql.top^
@@ -3879,6 +3886,7 @@
 ||flamebeard.top^
 ||fendeyrziz.top^
 ||dvxrxm-cxo.top^
+||dictaaloha.top^
 ||daksflkalq.top^
 ||dajiahao17.top^
 ||dajiahao10.top^
@@ -10653,6 +10661,7 @@
 ||circlejavgg124.fun^
 ||careerjavgg124.fun^
 ||activejavgg124.fun^
+||wvwaerpeqvzpb.fun^
 ||utbxvmsgpcznb.fun^
 ||umrdtmhwfahct.fun^
 ||mhhfgxvqgsxio.fun^
@@ -11299,6 +11308,7 @@
 ||electricalglimmerexasperate.com^
 ||effectiveperformancenetwork.com^
 ||easygoingasperitydisconnect.com^
+||dismisscomplicatedfoolproof.com^
 ||www2s.discountcatalyticconverters.com^
 ||tr.devisminute-geolocalisation.com^
 ||contemnomnipresentinstantly.com^
@@ -11974,6 +11984,7 @@
 ||manufacturing.autodeskcommunications.com^
 ||automotive.autodeskcommunications.com^
 ||ss.autobiographieschronos.com^
+||assortmentrestrictions.com^
 ||gmuccv.ashesmemorialjewellery.com^
 ||rtk.af.asesoramientoholistico.com^
 ||artlesscontagionseated.com^
@@ -12310,6 +12321,7 @@
 ||link.undergroundlifehacks.com^
 ||marketing.ultimateriskservices.com^
 ||wdbcus.ultimatepetnutrition.com^
+||turnipplumpositively.com^
 ||clk.trustedharvestoutlet.com^
 ||trustedgatetocontent.com^
 ||activate.tribunecontentagency.com^
@@ -18511,6 +18523,7 @@
 ||cpxinteractive.com^
 ||somni.cporotarytools.com^
 ||cpmrevenuegate.com^
+||cpmpodmkqdjlsb.com^
 ||cpmgatenetwork.com^
 ||cpalabtracking.com^
 ||courageousaway.com^
@@ -20139,6 +20152,7 @@
 ||hipersushiads.com^
 ||hexingteeting.com^
 ||hermlenizetrk.com^
+||hereofcineols.com^
 ||bxumze.heraldtribune.com^
 ||metrics.herald-review.com^
 ||metrics.her2treatment.com^
@@ -23735,6 +23749,7 @@
 ||imxfck.varusteleka.com^
 ||varshacundy.com^
 ||info.vaporstream.com^
+||vapjcfgihnu.com^
 ||vannaxacqpm.com^
 ||mdws.valleyfirst.com^
 ||vacqfuaggah.com^
@@ -31447,6 +31462,7 @@
 ||hhuobnajd.com^
 ||czvdlp.hgregoire.com^
 ||marketing.hfgagents.com^
+||hevepyrmt.com^
 ||mugcix.hessnatur.com^
 ||zilhvf.hesperide.com^
 ||collection-endpoint-staging.herokuapp.com^
@@ -66199,6 +66215,7 @@
 ||pqav.cn^
 ||pjwk.cn^
 ||pisb.cn^
+||piln.cn^
 ||pfhe.cn^
 ||otfy.cn^
 ||orup.cn^

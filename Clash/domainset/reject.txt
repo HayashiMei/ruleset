@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-04-01T09:14:47.008Z
+# Last Updated: 2025-04-01T12:44:29.700Z
 # Size: 70339
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -43643,7 +43643,6 @@ adsence.sogou.com
 +.reeokx.reima.com
 +.tracking.regus.com
 +.contact.regus.com
-+.res.regoo.com
 +.mfxsrb.reeds.com
 +.sjbaiduadv1.redou.com
 +.ads.recon.com
@@ -66075,6 +66074,7 @@ ad.api.youshiad.cn
 +.adpai.thepaper.cn
 +.testplus.cn
 +.answers.teradata.cn
++.telecome.cn
 test.surepush.cn
 susapi.dev.surepush.cn
 lcs.dev.surepush.cn

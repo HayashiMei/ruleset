@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Wed, 02 Apr 2025 10:09:23 GMT
+! Last modified: Wed, 02 Apr 2025 12:43:40 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -1482,6 +1482,7 @@
 ||aneuchoutfit.shop^
 ||andanteaiger.shop^
 ||accurstscaur.shop^
+||zygoticroud.shop^
 ||yawltelurgy.shop^
 ||willawaseta.shop^
 ||tyrannikaon.shop^
@@ -4775,6 +4776,7 @@
 ||collector.retailcrm.pro^
 ||restights.pro^
 ||ptekuwiny.pro^
+||prizeking.pro^
 ||pixelplay.pro^
 ||phiduvuka.pro^
 ||phenidudo.pro^
@@ -6476,6 +6478,7 @@
 ||vophothoorom.net^
 ||redtrack.virtualvenus.net^
 ||vidrugnirtop.net^
+||vauglistesou.net^
 ||tusheedrosep.net^
 ||trafficjunky.net^
 ||rotator.tradetracker.net^
@@ -17867,6 +17870,7 @@
 ||questionmarket.com^
 ||querulous-type.com^
 ||icare.quantum-health.com^
+||qijpoaplprskvo.com^
 ||qclruwltqxojpo.com^
 ||pyrroylceriums.com^
 ||pushmobilenews.com^
@@ -19652,6 +19656,7 @@
 ||ptookirgoonsa.com^
 ||ptoftashulsee.com^
 ||psvpromo.psvgamestudio.com^
+||psumpupsauket.com^
 ||pseexauboorsu.com^
 ||uwezxr.provenwinners.com^
 ||nsnomj.protur-hotels.com^
@@ -21322,6 +21327,7 @@
 ||ssc.voacantonese.com^
 ||vlqkqetudtvb.com^
 ||vizoalygrenn.com^
+||vizierspavan.com^
 ||yojcpv.vivobarefoot.com^
 ||response.visualsonics.com^
 ||secure.visualsonics.com^
@@ -23913,6 +23919,7 @@
 ||outreach.veritivcorp.com^
 ||images.connect.veritivcorp.com^
 ||forms.verisigninc.com^
+||verbsponsor.com^
 ||hwyytk.verabradley.com^
 ||ventrequmus.com^
 ||somniture.ventingpipe.com^
@@ -26669,6 +26676,7 @@
 ||uncrobator.com^
 ||metrics.uncoverpkd.com^
 ||uncleffaan.com^
+||unactkiosk.com^
 ||ebis.umulin-lab.com^
 ||pages.contact.umpquabank.com^
 ||trk.contact.umpquabank.com^
@@ -29585,7 +29593,7 @@
 ||666bb777ww.com^
 ||666aa777bb.com^
 ||6657e4f5c2.com^
-||dff4adcb3a.65a16dd098.com^
+||65a16dd098.com^
 ||e91ab5975e.623efad9ac.com^
 ||5nt1gx7o57.com^
 ||5h3oyhv838.com^
@@ -29683,6 +29691,7 @@
 ||d37586d118.054f8d0c5a.com^
 ||9fbdae5525.042108fc0c.com^
 ||03b5f525af.com^
+||039858f297.com^
 ||e792462996.034b9fd2c9.com^
 ||029519cbdc.com^
 ||0214217ebc.com^
@@ -32959,6 +32968,7 @@
 ||akxopgjuw.com^
 ||pstat.akathists.com^
 ||ajplugins.com^
+||ajjcpertu.com^
 ||1.ajiyuming.com^
 ||ajestigie.com^
 ||counter.ajansspor.com^
@@ -34554,6 +34564,7 @@
 ||sadbmetrics.oferplan.com^
 ||ofdittor.com^
 ||ofbrtaod.com^
+||oebxwlmq.com^
 ||odtrtadl.com^
 ||sss.oderland.com^
 ||a8.st.oddspark.com^
@@ -34661,6 +34672,7 @@
 ||aerezb.nepamall.com^
 ||mdws.nelsoncu.com^
 ||neldatsy.com^
+||neladyhe.com^
 ||neegreez.com^
 ||nearbyad.com^
 ||images.ncigroup.com^

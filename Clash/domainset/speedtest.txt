@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2025-04-04T09:10:48.960Z
-# Size: 1031
+# Last Updated: 2025-04-05T12:37:57.253Z
+# Size: 1032
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -597,6 +597,7 @@ istanbul.sth.tr
 speedtest.sarnettelekom.net.tr
 +.speednet.net.tr
 speedtest.sunucum.net.tr
+spdtes.phoenix.net.tr
 mars-speedtest.guzel.net.tr
 +.speedtest.gibir.net.tr
 speedtest.wifi.net.tr

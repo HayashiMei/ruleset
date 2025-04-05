@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-04-05T12:37:57.251Z
-# Size: 77691
+# Last Updated: 2025-04-05T15:08:06.878Z
+# Size: 77713
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -538,6 +538,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.vcsxfynmtgwwj.global
 +.tfaxtyhedrwub.global
 +.qpwvhsxxzwgft.global
++.qnsxtvhfnajnw.global
 +.pkehswqnitpvr.global
 +.kvbojuxkwvcfk.global
 +.cwpnnceaolies.global
@@ -781,6 +782,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.myurphoftafzx.space
 +.lzljxgqazegmr.space
 +.lxvsjdmjygqcc.space
++.dkpvbyvscxraq.space
 +.amfzugolptnpo.space
 +.akfteothobqbk.space
 +.ueykjfltxqsb.space
@@ -1539,6 +1541,7 @@ bad.third-party.site
 +.emeriedlimmock.shop
 +.elytronkantele.shop
 +.duckingcodeias.shop
++.datapacstereos.shop
 +.curtiserosetta.shop
 +.cerilloeelboat.shop
 +.carneolmulsify.shop
@@ -1607,6 +1610,7 @@ bad.third-party.site
 +.yarranpyrope.shop
 +.wilfreddrear.shop
 +.weightypikas.shop
++.vitryraising.shop
 +.vangsligulae.shop
 +.unhatedkrubi.shop
 +.undigrecombs.shop
@@ -1680,6 +1684,7 @@ bad.third-party.site
 +.ritsubrince.shop
 +.riledbiders.shop
 +.praxeandean.shop
++.persesdates.shop
 +.peglessbath.shop
 +.mickblowess.shop
 +.megmhokluck.shop
@@ -1714,11 +1719,13 @@ bad.third-party.site
 +.slimturpis.shop
 +.capi.schuhtrend.shop
 +.sallecoast.shop
++.ridrahdari.shop
 +.richeighth.shop
 +.predownset.shop
 +.phillfogon.shop
 +.legatohoch.shop
 +.load.gtm.ladenregal.shop
++.jingocaggy.shop
 +.intimaeetc.shop
 +.icodstatus.shop
 +.humpeppier.shop
@@ -2829,6 +2836,7 @@ grs.dbankcloud.asia
 +.parteonroll.xyz
 +.ocheejacheb.xyz
 +.nizarstream.xyz
++.nhvyafmsoet.xyz
 +.newbluetrue.xyz
 +.naehqgcanrh.xyz
 +.stats.makingknown.xyz
@@ -3900,6 +3908,7 @@ grs.dbankcloud.asia
 +.bestcontentfee.top
 +.bespawleffendi.top
 +.bandanamarhala.top
++.bagfulswhitely.top
 +.asceticknishes.top
 +.antennaprowled.top
 +.ansariecaroche.top
@@ -4090,6 +4099,7 @@ grs.dbankcloud.asia
 +.daiwofei2019.top
 +.crowderpedro.top
 +.credenskagos.top
++.coonsapodema.top
 +.cardoltenets.top
 +.cachuadirked.top
 +.bortschtinea.top
@@ -4187,6 +4197,7 @@ grs.dbankcloud.asia
 +.formatinfo.top
 +.flamebeard.top
 +.fendeyrziz.top
++.engpolitei.top
 +.dvxrxm-cxo.top
 +.dittopreen.top
 +.dictaaloha.top
@@ -4898,6 +4909,7 @@ collect.foresightnews.pro
 +.complex-nasty.pro
 +.tr.buenasofertas.pro
 +.woeful-trash.pro
++.wheptostethy.pro
 +.vanderlisten.pro
 +.tense-winter.pro
 +.relievedsong.pro
@@ -5137,6 +5149,7 @@ fumiad.dxys.pro
 +.metrics.stanfordhealthcare.org
 +.marketing.shreveport-bossier.org
 +.pestilenttidefilth.org
++.ncipledeclinerybel.org
 +.moonheappyrincenev.org
 +.marketing.middlemarketcenter.org
 +.stats.mein-futterlexikon.org
@@ -5236,6 +5249,7 @@ fumiad.dxys.pro
 +.billybobandirect.org
 +.redtrack.beautyandglamour.org
 +.seniorliving.atriumatnavesink.org
++.ashsateamplayera.org
 +.edcmktg.ashevillechamber.org
 +.go.apostabrasileira.org
 +.profile.americanprogress.org
@@ -7779,6 +7793,7 @@ samsungotn.net
 +.d2tc1zttji8e3a.cloudfront.net
 +.d2tbszkvx1p56e.cloudfront.net
 +.d2t77mnxyo7adj.cloudfront.net
++.d2t3s3gh1l6poi.cloudfront.net
 +.d2sucq8qh4zqzj.cloudfront.net
 +.d2sp5g360gsxjh.cloudfront.net
 +.d2sffavqvyl9dp.cloudfront.net
@@ -10102,6 +10117,7 @@ front-perf.imoim.net
 +.9b583af3.b-cdn.net
 +.91fbab6d.b-cdn.net
 +.87fa4b7e.b-cdn.net
++.27051a00.b-cdn.net
 +.1f506eaf.b-cdn.net
 +.propsid.b-cdn.net
 +.1wincdn.b-cdn.net
@@ -19094,6 +19110,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.mediaedge-info.com
 +.mediaappletree.com
 +.measuringrules.com
++.mdnwtuscsybglw.com
 +.marketing.mcdermottcosta.com
 +.mbmgivexdvpajr.com
 +.stats.mazlandscaping.com
@@ -20274,6 +20291,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.gybhmx.whateverworks.com
 +.app.whartoncenter.com
 +.t.whartoncenter.com
++.wflgiultfaqop.com
 +.marketing.westwoodgroup.com
 +.wemplemukente.com
 +.wellworn-lead.com
@@ -23418,6 +23436,7 @@ adcdn.tencentmusic.com
 +.discover.pharmaignite.com
 +.pgmediaserve.com
 +.branch.pgatour-mail.com
++.pfzubljsustf.com
 +.pf34zdjoeycr.com
 +.images.lubricants.petro-canada.com
 +.affiliate.petitwedding.com
@@ -30236,6 +30255,7 @@ httpdns.push.heytapmobi.com
 +.nala.headuplabs.com
 +.app.headuplabs.com
 +.jkzoac.headphones.com
++.hdogyhefdq.com
 +.hbloveinfo.com
 +.tracking-na.hawksearch.com
 +.havenwrite.com
@@ -37366,6 +37386,7 @@ static.g.ppstream.com
 +.ad.phaserep.com
 +.phaivaju.com
 +.pflexads.com
++.pfkynahx.com
 +.metrics.petsmart.com
 +.suriwl.petsmart.com
 +.hntnca.petpetgo.com
@@ -39827,6 +39848,7 @@ log.b612kaji.com
 +.yqtrfl.apexfoot.com
 +.load.app.apelbaum.com
 +.ape78cn2.com
++.anzeretp.com
 +.ansuksar.com
 +.ankdoier.com
 +.logs.animaapp.com

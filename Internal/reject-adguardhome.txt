@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sat, 05 Apr 2025 12:38:07 GMT
+! Last modified: Sat, 05 Apr 2025 15:08:16 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -521,6 +521,7 @@
 ||vcsxfynmtgwwj.global^
 ||tfaxtyhedrwub.global^
 ||qpwvhsxxzwgft.global^
+||qnsxtvhfnajnw.global^
 ||pkehswqnitpvr.global^
 ||kvbojuxkwvcfk.global^
 ||cwpnnceaolies.global^
@@ -764,6 +765,7 @@
 ||myurphoftafzx.space^
 ||lzljxgqazegmr.space^
 ||lxvsjdmjygqcc.space^
+||dkpvbyvscxraq.space^
 ||amfzugolptnpo.space^
 ||akfteothobqbk.space^
 ||ueykjfltxqsb.space^
@@ -1523,6 +1525,7 @@
 ||emeriedlimmock.shop^
 ||elytronkantele.shop^
 ||duckingcodeias.shop^
+||datapacstereos.shop^
 ||curtiserosetta.shop^
 ||cerilloeelboat.shop^
 ||carneolmulsify.shop^
@@ -1591,6 +1594,7 @@
 ||yarranpyrope.shop^
 ||wilfreddrear.shop^
 ||weightypikas.shop^
+||vitryraising.shop^
 ||vangsligulae.shop^
 ||unhatedkrubi.shop^
 ||undigrecombs.shop^
@@ -1664,6 +1668,7 @@
 ||ritsubrince.shop^
 ||riledbiders.shop^
 ||praxeandean.shop^
+||persesdates.shop^
 ||peglessbath.shop^
 ||mickblowess.shop^
 ||megmhokluck.shop^
@@ -1698,11 +1703,13 @@
 ||slimturpis.shop^
 ||capi.schuhtrend.shop^
 ||sallecoast.shop^
+||ridrahdari.shop^
 ||richeighth.shop^
 ||predownset.shop^
 ||phillfogon.shop^
 ||legatohoch.shop^
 ||load.gtm.ladenregal.shop^
+||jingocaggy.shop^
 ||intimaeetc.shop^
 ||icodstatus.shop^
 ||humpeppier.shop^
@@ -2814,6 +2821,7 @@
 ||parteonroll.xyz^
 ||ocheejacheb.xyz^
 ||nizarstream.xyz^
+||nhvyafmsoet.xyz^
 ||newbluetrue.xyz^
 ||naehqgcanrh.xyz^
 ||stats.makingknown.xyz^
@@ -3885,6 +3893,7 @@
 ||bestcontentfee.top^
 ||bespawleffendi.top^
 ||bandanamarhala.top^
+||bagfulswhitely.top^
 ||asceticknishes.top^
 ||antennaprowled.top^
 ||ansariecaroche.top^
@@ -4075,6 +4084,7 @@
 ||daiwofei2019.top^
 ||crowderpedro.top^
 ||credenskagos.top^
+||coonsapodema.top^
 ||cardoltenets.top^
 ||cachuadirked.top^
 ||bortschtinea.top^
@@ -4172,6 +4182,7 @@
 ||formatinfo.top^
 ||flamebeard.top^
 ||fendeyrziz.top^
+||engpolitei.top^
 ||dvxrxm-cxo.top^
 ||dittopreen.top^
 ||dictaaloha.top^
@@ -4883,6 +4894,7 @@
 ||complex-nasty.pro^
 ||tr.buenasofertas.pro^
 ||woeful-trash.pro^
+||wheptostethy.pro^
 ||vanderlisten.pro^
 ||tense-winter.pro^
 ||relievedsong.pro^
@@ -5122,6 +5134,7 @@
 ||metrics.stanfordhealthcare.org^
 ||marketing.shreveport-bossier.org^
 ||pestilenttidefilth.org^
+||ncipledeclinerybel.org^
 ||moonheappyrincenev.org^
 ||marketing.middlemarketcenter.org^
 ||stats.mein-futterlexikon.org^
@@ -5221,6 +5234,7 @@
 ||billybobandirect.org^
 ||redtrack.beautyandglamour.org^
 ||seniorliving.atriumatnavesink.org^
+||ashsateamplayera.org^
 ||edcmktg.ashevillechamber.org^
 ||go.apostabrasileira.org^
 ||profile.americanprogress.org^
@@ -7765,6 +7779,7 @@
 ||d2tc1zttji8e3a.cloudfront.net^
 ||d2tbszkvx1p56e.cloudfront.net^
 ||d2t77mnxyo7adj.cloudfront.net^
+||d2t3s3gh1l6poi.cloudfront.net^
 ||d2sucq8qh4zqzj.cloudfront.net^
 ||d2sp5g360gsxjh.cloudfront.net^
 ||d2sffavqvyl9dp.cloudfront.net^
@@ -10091,6 +10106,7 @@
 ||9b583af3.b-cdn.net^
 ||91fbab6d.b-cdn.net^
 ||87fa4b7e.b-cdn.net^
+||27051a00.b-cdn.net^
 ||1f506eaf.b-cdn.net^
 ||propsid.b-cdn.net^
 ||1wincdn.b-cdn.net^
@@ -19085,6 +19101,7 @@
 ||mediaedge-info.com^
 ||mediaappletree.com^
 ||measuringrules.com^
+||mdnwtuscsybglw.com^
 ||marketing.mcdermottcosta.com^
 ||mbmgivexdvpajr.com^
 ||stats.mazlandscaping.com^
@@ -20265,6 +20282,7 @@
 ||gybhmx.whateverworks.com^
 ||app.whartoncenter.com^
 ||t.whartoncenter.com^
+||wflgiultfaqop.com^
 ||marketing.westwoodgroup.com^
 ||wemplemukente.com^
 ||wellworn-lead.com^
@@ -23409,6 +23427,7 @@
 ||discover.pharmaignite.com^
 ||pgmediaserve.com^
 ||branch.pgatour-mail.com^
+||pfzubljsustf.com^
 ||pf34zdjoeycr.com^
 ||images.lubricants.petro-canada.com^
 ||affiliate.petitwedding.com^
@@ -30230,6 +30249,7 @@
 ||nala.headuplabs.com^
 ||app.headuplabs.com^
 ||jkzoac.headphones.com^
+||hdogyhefdq.com^
 ||hbloveinfo.com^
 ||tracking-na.hawksearch.com^
 ||havenwrite.com^
@@ -37362,6 +37382,7 @@
 ||ad.phaserep.com^
 ||phaivaju.com^
 ||pflexads.com^
+||pfkynahx.com^
 ||metrics.petsmart.com^
 ||suriwl.petsmart.com^
 ||hntnca.petpetgo.com^
@@ -39828,6 +39849,7 @@
 ||yqtrfl.apexfoot.com^
 ||load.app.apelbaum.com^
 ||ape78cn2.com^
+||anzeretp.com^
 ||ansuksar.com^
 ||ankdoier.com^
 ||logs.animaapp.com^

@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-04-05T15:08:08.719Z
+// # Build 2025-04-05T15:43:01.900Z
 
 declare(strict_types=1);
 
@@ -1895,6 +1895,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,jsdelivr.com,Global',
         'DOMAIN-SUFFIX,instatus.com,Global',
         'DOMAIN-SUFFIX,iloveimg.com,Global',
+        'DOMAIN-SUFFIX,iboysoft.com,Global',
         'DOMAIN-SUFFIX,gofundme.com,Global',
         'DOMAIN-SUFFIX,gmodules.com,Global',
         'DOMAIN-SUFFIX,ghostery.com,Global',
@@ -1985,6 +1986,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,9to5mac.com,Global',
         'DOMAIN-SUFFIX,4shared.com,Global',
         'DOMAIN-SUFFIX,yandex.com,Global',
+        'DOMAIN,sgminorshort.wechat.com,Global',
         'DOMAIN-SUFFIX,vmware.com,Global',
         'DOMAIN-SUFFIX,vikacg.com,Global',
         'DOMAIN-SUFFIX,vercel.com,Global',

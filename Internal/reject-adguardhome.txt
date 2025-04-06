@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sun, 06 Apr 2025 12:52:30 GMT
+! Last modified: Sun, 06 Apr 2025 13:53:57 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -346,6 +346,7 @@
 ||ssp.subsidiesplan.online^
 ||rdfeesvsxhsyn.online^
 ||plorvexmoon13.online^
+||pajbmenfaridd.online^
 ||paihfzqlznxdn.online^
 ||track.myquotehealth.online^
 ||track.malelifestyle.online^
@@ -1566,6 +1567,7 @@
 ||aitchesmillken.shop^
 ||winningenveil.shop^
 ||volcaedecants.shop^
+||uranylshazers.shop^
 ||undeanoviform.shop^
 ||uleticgulches.shop^
 ||thongakreuzer.shop^
@@ -1653,6 +1655,7 @@
 ||poojahniding.shop^
 ||parkersapele.shop^
 ||outwavedowny.shop^
+||outtoiltuarn.shop^
 ||nunciodekare.shop^
 ||nowelslicers.shop^
 ||naganabeacon.shop^
@@ -1661,6 +1664,7 @@
 ||lindenfourre.shop^
 ||lactasetooth.shop^
 ||kalkvisrecit.shop^
+||kalimbadanic.shop^
 ||iodateschoky.shop^
 ||imbedbedroom.shop^
 ||hondaskashga.shop^
@@ -1684,6 +1688,7 @@
 ||clumpykupper.shop^
 ||a8.classicalelf.shop^
 ||chuteraholds.shop^
+||chauteunquod.shop^
 ||cawquawwoldy.shop^
 ||calcescutler.shop^
 ||bonnetsgunks.shop^
@@ -2570,6 +2575,7 @@
 ||ndvqhobnheivh.club^
 ||mwsvsmhfwpffc.club^
 ||kstnyuhvyrtpp.club^
+||klltoghtuhydo.club^
 ||kjyytxyetnueu.club^
 ||kbqihabjlufvf.club^
 ||ittoxicroakon.club^
@@ -4096,6 +4102,7 @@
 ||joorekbzwrbaq.top^
 ||jiggledanezeh.top^
 ||jelokerrvvjoq.top^
+||jekzyyyljvyww.top^
 ||infiledeplant.top^
 ||hellerraucous.top^
 ||hchus5739dmew.top^
@@ -4119,6 +4126,7 @@
 ||cangueunsheet.top^
 ||clk.burningritual.top^
 ||burgeraphrite.top^
+||braverychinol.top^
 ||botoneedisbar.top^
 ||borshtselemis.top^
 ||bobblegoobers.top^
@@ -4213,6 +4221,7 @@
 ||5201l41kuvl7.top^
 ||4k7kca7aj0s4.top^
 ||zhengzhou12.top^
+||zamiasbrass.top^
 ||wacapousoth.top^
 ||tutorygarua.top^
 ||tombaltiled.top^
@@ -4230,6 +4239,7 @@
 ||rethankhush.top^
 ||quatrehobos.top^
 ||prismlacers.top^
+||peruvibioid.top^
 ||persaeargot.top^
 ||peniblecoop.top^
 ||oursexhance.top^
@@ -5045,6 +5055,7 @@
 ||unlinedmake.pro^
 ||go.tracksearch.pro^
 ||rt.totalhealth.pro^
+||styshowuwhe.pro^
 ||t.smartverify.pro^
 ||proeroclips.pro^
 ||phiphepsome.pro^
@@ -5075,6 +5086,7 @@
 ||numb-price.pro^
 ||molypsigry.pro^
 ||lutachechu.pro^
+||lucky-work.pro^
 ||kymirasite.pro^
 ||hugregregy.pro^
 ||gruphuriju.pro^
@@ -14883,6 +14895,7 @@
 ||aws.userlogsanalytics.com^
 ||marketing.usequityadvantage.com^
 ||path.usaresourcestoday.com^
+||uptodatecraftsman.com^
 ||rtk.trk.updatehealthtoday.com^
 ||path.unitedautosavings.com^
 ||secure-wa-na.unileversolutions.com^
@@ -22527,6 +22540,7 @@
 ||parallax.askmediagroup.com^
 ||dabu.askmediagroup.com^
 ||asklinklanger.com^
+||ashtraysuburb.com^
 ||link.ascension-app.com^
 ||connecttest.arubanetworks.com^
 ||etrack.ext.arubanetworks.com^
@@ -23533,6 +23547,7 @@
 ||my.navigator.ptvlogistics.com^
 ||confirm.ptvlogistics.com^
 ||trck.ptvlogistics.com^
+||ptoptaglyphi.com^
 ||ptoahaistais.com^
 ||utiq.psychologies.com^
 ||l.psychologies.com^
@@ -24175,6 +24190,7 @@
 ||marketing.kainmcarthur.com^
 ||gqmuky.kaigonohonne.com^
 ||kaigaidoujin.com^
+||jydhqvvacwij.com^
 ||jvgmwdtvwnxw.com^
 ||justrelevant.com^
 ||hot.justpornflix.com^
@@ -24635,6 +24651,7 @@
 ||marketing.experiencegr.com^
 ||exclplatmain.com^
 ||a8.exam-katekyo.com^
+||exaltedsleep.com^
 ||ewruuqe5p8ca.com^
 ||s4.everydayporn.com^
 ||info.evergagecorp.com^
@@ -25885,6 +25902,7 @@
 ||page.thalesgroup.com^
 ||lp.thalesgroup.com^
 ||t.thalesgroup.com^
+||thagrechulo.com^
 ||sales.texturacorp.com^
 ||app.texassports.com^
 ||t.texassports.com^
@@ -27952,6 +27970,7 @@
 ||go.callersmart.com^
 ||get.call-levels.com^
 ||fly.caljetelite.com^
+||calefbelial.com^
 ||fancyrat.calebporzio.com^
 ||data.clientes.caixabankpc.com^
 ||tags.caixabankpc.com^
@@ -30069,6 +30088,7 @@
 ||hraggz.lovelyskin.com^
 ||ip.lovely-app.com^
 ||loveflirte.com^
+||loveamikoi.com^
 ||etracker.louis-moto.com^
 ||zlgkpr.lottehotel.com^
 ||email.lottehotel.com^
@@ -30414,6 +30434,7 @@
 ||dm.huochepiao.com^
 ||hunter-hub.com^
 ||hunt-leads.com^
+||humble-gap.com^
 ||ievdpg.humanscale.com^
 ||stats.hugoreeves.com^
 ||rtb-useast.hueadsortb.com^
@@ -35766,6 +35787,7 @@
 ||bhanphevg.com^
 ||marketing.bftwealth.com^
 ||beyanmaan.com^
+||bewhidare.com^
 ||betriolua.com^
 ||trk.bestopten.com^
 ||bestaryua.com^

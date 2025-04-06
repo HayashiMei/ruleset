@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-04-06T07:40:00.717Z
+// # Build 2025-04-06T09:30:18.757Z
 
 declare(strict_types=1);
 
@@ -1590,6 +1590,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,archive.org,Global',
         'DOMAIN-SUFFIX,adguard.org,Global',
         'DOMAIN-SUFFIX,18comic.org,Global',
+        'DOMAIN-SUFFIX,xhlive.org,Global',
         'DOMAIN-SUFFIX,webrtc.org,Global',
         'DOMAIN-SUFFIX,signal.org,Global',
         'DOMAIN-SUFFIX,schema.org,Global',
@@ -2053,6 +2054,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,chrome.com,Global',
         'DOMAIN-SUFFIX,bitmex.com,Global',
         'DOMAIN-SUFFIX,bet365.com,Global',
+        'DOMAIN-SUFFIX,apnews.com,Global',
         'DOMAIN-SUFFIX,apk-dl.com,Global',
         'DOMAIN-SUFFIX,amazon.com,Global',
         'DOMAIN-SUFFIX,aimoon.com,Global',
@@ -2177,6 +2179,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,wp.com,Global',
         'DOMAIN-SUFFIX,vk.com,Global',
         'DOMAIN-SUFFIX,ui.com,Global',
+        'DOMAIN-SUFFIX,nj.com,Global',
         'DOMAIN-SUFFIX,c.mi.com,Global',
         'DOMAIN-SUFFIX,gv.com,Global',
         'DOMAIN-SUFFIX,g2.com,Global',
@@ -2725,7 +2728,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,38.71.124.0/24,Domestic',
         'IP-CIDR,38.71.126.0/23,Domestic',
         'IP-CIDR,38.77.248.0/24,Domestic',
-        'IP-CIDR,38.95.119.0/24,Domestic',
+        'IP-CIDR,38.95.118.0/23,Domestic',
         'IP-CIDR,38.95.121.0/24,Domestic',
         'IP-CIDR,38.95.122.0/23,Domestic',
         'IP-CIDR,38.95.124.0/22,Domestic',

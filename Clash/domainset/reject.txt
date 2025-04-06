@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-04-06T12:34:40.256Z
-# Size: 78198
+# Last Updated: 2025-04-06T12:52:20.066Z
+# Size: 78209
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -363,6 +363,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.ssp.subsidiesplan.online
 +.rdfeesvsxhsyn.online
 +.plorvexmoon13.online
++.paihfzqlznxdn.online
 +.track.myquotehealth.online
 +.track.malelifestyle.online
 +.track.lifebetterman.online
@@ -1593,6 +1594,7 @@ bad.third-party.site
 +.retrosowenian.shop
 +.replowupcover.shop
 +.regainchiasmi.shop
++.refloodbirkie.shop
 +.reeshlecampal.shop
 +.reekedtravels.shop
 +.randanvivific.shop
@@ -1635,6 +1637,7 @@ bad.third-party.site
 +.circeanmailed.shop
 +.chiverlogical.shop
 +.chiningpassen.shop
++.butylspulsars.shop
 +.broganswangun.shop
 +.bourlawcamels.shop
 +.binderyvisage.shop
@@ -1765,6 +1768,7 @@ bad.third-party.site
 +.bedetestril.shop
 +.bagabeshear.shop
 +.atrochaxctl.shop
++.ariosigruis.shop
 +.abutsclaval.shop
 +.zinkeroleo.shop
 +.ss.yumedatest.shop
@@ -2697,6 +2701,7 @@ tag.safary.club
 +.ntmreohudibfo.buzz
 +.mqpmivxywvxef.buzz
 +.jzqscvqlgasxh.buzz
++.jhbjkqqykibyt.buzz
 +.dpkpnzbtbkqmg.buzz
 +.dmojymtmhtguv.buzz
 +.lust-goddess.buzz
@@ -4184,6 +4189,7 @@ grs.dbankcloud.asia
 +.lalabaos1025.top
 +.lalabaos1021.top
 +.lalabaos1020.top
++.kaphsfruiter.top
 +.jewbushpisay.top
 +.jaygeeceibas.top
 +.inlautmanuao.top
@@ -4257,6 +4263,7 @@ grs.dbankcloud.asia
 +.gismoarette.top
 +.fridgesbunt.top
 +.eburnaboost.top
++.dyeroratory.top
 +.droopcomate.top
 +.datingtoday.top
 +.datingstyle.top
@@ -4324,6 +4331,7 @@ grs.dbankcloud.asia
 +.dajiahao10.top
 +.cdn-server.top
 +.carverloyd.top
++.bowsawnail.top
 +.bobobo6688.top
 +.balili2024.top
 +.askdlajfbv.top
@@ -19904,6 +19912,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.decadedisplace.com
 +.a.deadlinefunnel.com
 +.ea.dcshoes-europe.com
++.dcjrrglrieycgj.com
 +.marketing.dcihollowmetal.com
 +.publicidad.daviviendaintl.com
 +.saa.daveandbusters.com
@@ -24341,6 +24350,7 @@ c.kuaiduizuoye.com
 +.links.e.historyvault.com
 +.track.historictalk.com
 +.mcuclf.hismileteeth.com
++.hikbzyfwomky.com
 +.lmorsb.highstreettv.com
 +.sstats.hickoryfarms.com
 +.stats.hickoryfarms.com
@@ -35757,6 +35767,7 @@ ad.caiyunapp.com
 +.td.bicycling.com
 +.app.biblelens.com
 +.bhoscopop.com
++.bholneath.com
 +.bhohreatz.com
 +.bhanphevg.com
 +.marketing.bftwealth.com

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-04-07T15:42:37.498Z
-# Size: 3351
+# Last Updated: 2025-04-08T06:52:13.830Z
+# Size: 3357
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -265,6 +265,7 @@ static.tronscan.org
 open-vsx.org
 demotiles.maplibre.org
 image.lichess1.org
+api.indexnow.org
 assets.exercism.org
 david-dm.org
 fonts.codeberg.org
@@ -333,6 +334,7 @@ static.ietf.org
 jaws.pbs.org
 +.cdn.pbs.org
 +.tile.osm.org
++.pool.ntp.org
 static-assets.npr.org
 bundles.npr.org
 media.npr.org
@@ -400,7 +402,9 @@ cdn.devolutions.net
 cdn.arstechnica.net
 +.vscode-cdn.net
 +.ungrounded.net
+businessunitprofile-cdn.trustpilot.net
 consumersite-assets.trustpilot.net
+consumersiteimages.trustpilot.net
 cdn.trustpilot.net
 +.nelreports.net
 cdn.macstories.net
@@ -1218,6 +1222,7 @@ cdn.userreport.com
 static.typingclub.com
 ecommplugins-trustboxsettings.trustpilot.com
 ecommplugins-scripts.trustpilot.com
+images-static.trustpilot.com
 user-images.trustpilot.com
 simplicity.trustpilot.com
 widget.trustpilot.com
@@ -3328,6 +3333,7 @@ images.ptt.cc
 static-cache.k2s.cc
 static.k2s.cc
 +.1passwordusercontent.ca
+ntp.api.bz
 +.abc-cdn.net.au
 res.abc.net.au
 +.newscdn.com.au

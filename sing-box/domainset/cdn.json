@@ -2024,6 +2024,7 @@
         "gitpkg-fork.vercel.sh",
         "openapi.vercel.sh",
         "binaries.prisma.sh",
+        "s3.doujin.sh",
         "static.scarf.sh",
         "proxy.cors.sh",
         "flo.uri.sh",

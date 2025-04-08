@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 08 Apr 2025 12:55:57 GMT
+! Last modified: Tue, 08 Apr 2025 15:58:28 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -1643,6 +1643,7 @@
 ||sharpbethels.shop^
 ||samalcuratic.shop^
 ||resiftepacme.shop^
+||refixxylidic.shop^
 ||poojahniding.shop^
 ||parkersapele.shop^
 ||outwavedowny.shop^
@@ -2682,6 +2683,7 @@
 ||yojbiagdemrac.buzz^
 ||xtrgqmnflnfnj.buzz^
 ||xbwkskazmgbyk.buzz^
+||tvoiioftvfzzc.buzz^
 ||tlswzfbujtgzi.buzz^
 ||tbsxkmwsmksjj.buzz^
 ||skgpzivadwdte.buzz^
@@ -3877,6 +3879,7 @@
 ||tpvmdlxpvcenz.vip^
 ||tomdsfpeyrsoo.vip^
 ||pnhorlcjtrfau.vip^
+||nlztpmhcxyzwh.vip^
 ||mpwhizbkgewzg.vip^
 ||kkieeoxcjpqah.vip^
 ||iouyechctsbmz.vip^
@@ -5556,6 +5559,7 @@
 ||info.laconservancy.org^
 ||analytics.islamicfinder.org^
 ||marketing.hospicecarelc.org^
+||hemathematica.org^
 ||ssl.graham-center.org^
 ||cdnads.geeksforgeeks.org^
 ||featureassets.org^
@@ -5668,6 +5672,7 @@
 ||info.tscpainsure.org^
 ||sts.tour-europe.org^
 ||seniorliving.theculpeper.org^
+||tanbarshenh.org^
 ||t.streetsblog.org^
 ||marketing.sportsworld.org^
 ||sst.somatheeram.org^
@@ -19632,6 +19637,7 @@
 ||images.link.pentonaviation.com^
 ||pelghvmmtultsk.com^
 ||dncxgm.pegadorfashion.com^
+||pefsustazvzgop.com^
 ||odkvrg.pedrodelhierro.com^
 ||plo.pearlinsurance.com^
 ||pll.pearlinsurance.com^
@@ -20354,6 +20360,7 @@
 ||go.fabplaygrounds.com^
 ||stats.fabiofranchino.com^
 ||ozkkuy.fabianafilippi.com^
+||ezkeidkanjmvya.com^
 ||eyewondermedia.com^
 ||news.expoprotection.com^
 ||gfxxen.explorimmoneuf.com^
@@ -26923,6 +26930,7 @@
 ||youngmarble.com^
 ||log.yougameover.com^
 ||youdontcare.com^
+||youdloaners.com^
 ||yigvbmhqxwo.com^
 ||yieldselect.com^
 ||static-ssp.yidianzixun.com^
@@ -34035,7 +34043,7 @@
 ||92ac005936.7958bd57cc.com^
 ||7900c936fb.com^
 ||58c19941c7.78af853196.com^
-||1b88cc6bce.7898a9d175.com^
+||7898a9d175.com^
 ||77b0d74a17.com^
 ||777bb111ww.com^
 ||777aa888bb.com^
@@ -63987,7 +63995,7 @@
 ||elq.insource.co.jp^
 ||wfdqtl.inet-sec.co.jp^
 ||elqtrk.ibbotson.co.jp^
-||i-mobile.co.jp^
+||imp-adedge.i-mobile.co.jp^
 ||adebis.hotstaff.co.jp^
 ||bahyei.himaraya.co.jp^
 ||a8.golfland.co.jp^

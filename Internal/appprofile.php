@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-04-08T06:52:12.583Z
+// # Build 2025-04-08T08:09:18.071Z
 
 declare(strict_types=1);
 
@@ -2317,6 +2317,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,cz,Global',
         'DOMAIN-SUFFIX,cy,Global',
         'DOMAIN-SUFFIX,huggingface.co,Global',
+        'DOMAIN-SUFFIX,convertio.co,Global',
         'DOMAIN-SUFFIX,snapkit.co,Global',
         'DOMAIN-SUFFIX,xchina.co,Global',
         'DOMAIN-SUFFIX,twimg.co,Global',
@@ -3069,7 +3070,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,45.253.192.0/19,Domestic',
         'IP-CIDR,45.253.224.0/20,Domestic',
         'IP-CIDR,45.253.240.0/22,Domestic',
-        'IP-CIDR,45.254.9.0/24,Domestic',
+        'IP-CIDR,45.254.8.0/23,Domestic',
         'IP-CIDR,45.254.20.0/22,Domestic',
         'IP-CIDR,45.254.48.0/23,Domestic',
         'IP-CIDR,45.254.50.0/24,Domestic',

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-04-09T12:43:57.310Z
-# Size: 78337
+# Last Updated: 2025-04-09T13:50:08.692Z
+# Size: 78372
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -628,6 +628,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.nkdccsiwixvzj.world
 +.mizytadpwfswa.world
 +.lwmpocteuzldy.world
++.gdajuytgupptx.world
 +.galgkaaqhxhuz.world
 +.crdgbpgzdoicy.world
 +.brutuzzzymudq.world
@@ -769,10 +770,12 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.uitjngvykqxxk.space
 +.uidhhiduhkier.space
 +.txykmuqzxjitf.space
++.sxqxvcymtiwxo.space
 +.sjgtsqnmrqswz.space
 +.oxzuwixbqdakn.space
 +.olivedinflats.space
 +.lxvsjdmjygqcc.space
++.fhjrpcmkyrkvi.space
 +.dkpvbyvscxraq.space
 +.amfzugolptnpo.space
 +.akfteothobqbk.space
@@ -1437,6 +1440,7 @@ bad.third-party.site
 +.prlik.site
 +.ogaku.site
 +.ofgik.site
++.juska.site
 +.juggo.site
 +.jezer.site
 +.jamez.site
@@ -1541,6 +1545,7 @@ bad.third-party.site
 +.difformcanzoni.shop
 +.datapacstereos.shop
 +.curtiserosetta.shop
++.craichybudgets.shop
 +.coupletfoamers.shop
 +.cheriesruewort.shop
 +.cerilloeelboat.shop
@@ -1588,6 +1593,7 @@ bad.third-party.site
 +.kishkethingum.shop
 +.jacobytintack.shop
 +.inuresgrubble.shop
++.helpersantlia.shop
 +.heimishcresyl.shop
 +.hectarbiddies.shop
 +.footlogmerida.shop
@@ -1631,6 +1637,7 @@ bad.third-party.site
 +.sharpbethels.shop
 +.samalcuratic.shop
 +.resiftepacme.shop
++.refuterquilt.shop
 +.refixxylidic.shop
 +.poojahniding.shop
 +.parkersapele.shop
@@ -1684,6 +1691,7 @@ bad.third-party.site
 +.yawltelurgy.shop
 +.willawaseta.shop
 +.whoalinseed.shop
++.unautonsure.shop
 +.tyrannikaon.shop
 +.tiddygrylli.shop
 +.thymehearth.shop
@@ -2955,6 +2963,7 @@ grs.dbankcloud.asia
 +.aos01070ss.xyz
 +.xyz0k4gfs.xyz
 +.rtb-uswest.wxadserve.xyz
++.vnxisingv.xyz
 +.videobaba.xyz
 +.tr-monday.xyz
 +.theehouho.xyz
@@ -2963,6 +2972,7 @@ grs.dbankcloud.asia
 +.link.roveworld.xyz
 +.rgentssep.xyz
 +.rexadvert.xyz
++.quihrnucr.xyz
 +.pushvisit.xyz
 +.pogothere.xyz
 +.partyroll.xyz
@@ -3985,6 +3995,7 @@ grs.dbankcloud.asia
 +.wkmorvzawmryv.top
 +.wkamwqeoqozzm.top
 +.waaz.wjebboljobvaj.top
++.wewlorozwolyz.top
 +.welbljlvmmyek.top
 +.vqrozzojjlwbz.top
 +.vqoqlebqqammj.top
@@ -4042,6 +4053,7 @@ grs.dbankcloud.asia
 +.labitecurtals.top
 +.kbqqavwjqemea.top
 +.kbkewkqrkqkzy.top
++.jzokkejvjrvwj.top
 +.jybaekaqbmwyj.top
 +.jwnmnnwjaezyw.top
 +.joorekbzwrbaq.top
@@ -4218,6 +4230,7 @@ grs.dbankcloud.asia
 +.refpaiozdg.top
 +.refpaikgai.top
 +.refpabuyoj.top
++.podgejufti.top
 +.pavedmawks.top
 +.partookopp.top
 +.oretracker.top
@@ -4240,6 +4253,7 @@ grs.dbankcloud.asia
 +.fendeyrziz.top
 +.eroderidge.top
 +.engpolitei.top
++.earscosign.top
 +.dvxrxm-cxo.top
 +.dittopreen.top
 +.dictaaloha.top
@@ -4981,6 +4995,7 @@ collect.foresightnews.pro
 +.phiphepsome.pro
 +.stats.paysagistes.pro
 +.newvideoapp.pro
++.nechythithy.pro
 +.track.meltfatfast.pro
 +.martafatass.pro
 +.latest-news.pro
@@ -5543,6 +5558,7 @@ fumiad.dxys.pro
 +.analytics.infosysprize.org
 +.fpc.immattersacp.org
 +.httpsecurity.org
++.heflewrounda.org
 +.info.health-quest.org
 +.sgms.greatschools.org
 +.gms.greatschools.org
@@ -5612,6 +5628,7 @@ ssl.360antivirus.org
 +.trends.privacywall.org
 +.marketing.polymerohio.org
 +.stats.opensurge2d.org
++.noisseurlin.org
 +.analytics.navyfederal.org
 +.img2021.navyfederal.org
 +.email.msg.navyfederal.org
@@ -6805,6 +6822,7 @@ fkp.samsungcloudsolution.net
 +.grashaksoudry.net
 +.gougligloupha.net
 +.goothoozuptut.net
++.goazooviwhail.net
 +.metrics.goalfinancial.net
 +.countly.globaldelight.net
 +.globaladmedia.net
@@ -8076,6 +8094,7 @@ samsungotn.net
 +.d1twn22x8kvw17.cloudfront.net
 +.d1tt3ye7u0e0ql.cloudfront.net
 +.d1tprjo2w7krrh.cloudfront.net
++.d1tlfk2mmne2t6.cloudfront.net
 +.d1tjxs5ylo6ah7.cloudfront.net
 +.d1tjcziy9n8hnk.cloudfront.net
 +.d1tbj6eaenapdy.cloudfront.net
@@ -10162,6 +10181,7 @@ front-perf.imoim.net
 +.91fbab6d.b-cdn.net
 +.87fa4b7e.b-cdn.net
 +.31def833.b-cdn.net
++.30032c91.b-cdn.net
 +.27051a00.b-cdn.net
 +.1f506eaf.b-cdn.net
 +.propsid.b-cdn.net
@@ -10434,6 +10454,7 @@ msgv6.qy.net
 +.comilar-efferiff.icu
 +.vckeyscqjreer.icu
 +.tslamrzckfctp.icu
++.sppynxuilxodo.icu
 +.samage-bility.icu
 +.responservbzh.icu
 +.oxfygsqqgnfts.icu
@@ -12333,6 +12354,7 @@ sashimi.royli.dev
 +.s.thepeterboroughexaminer.com
 +.go.theautoconnectiononline.com
 +.sympathizecrewfrugality.com
++.straightforwardaudition.com
 +.path.statewidesavingslocator.com
 +.spokentomatoestraumatic.com
 +.kbx.spinadiscmetaldetectors.com
@@ -17611,6 +17633,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.madrogueindulge.com
 +.avptfg.madeinfrancebox.com
 +.m73lae5cpmgrv38.com
++.ltpvtnrugvpihwj.com
 +.lovingboulevard.com
 +.nfhfye.lovelywholesale.com
 +.lp.lostparcelclaim.com
@@ -18995,6 +19018,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.load.gtm.pantheonparfum.com
 +.marketing.page1solutions.com
 +.marketing.oxfordlearning.com
++.oxdpcmoajzrzbc.com
 +.outflednailbin.com
 +.outelectrodean.com
 +.oulsaultaulert.com
@@ -22694,6 +22718,7 @@ badjs.weixinbridge.com
 +.xxwstajt.vela-medical.com
 +.vekseptaufin.com
 +.t.vcuathletics.com
++.vcqrhjrcmbhr.com
 +.load.arthurbrent.vandervelden.com
 +.sadbmetrics.vamosacorrer.com
 +.adbmetrics.vamosacorrer.com
@@ -24388,6 +24413,7 @@ httpdns-ocloud.heytapmobile.com
 +.sljeyr.flexioffices.com
 +.info.flexibleplan.com
 +.info.fleetlanding.com
++.flearmordent.com
 +.fancyrat.flatuicolors.com
 +.flatepicbats.com
 +.flashtalking.com
@@ -24513,6 +24539,7 @@ httpdns-ocloud.heytapmobile.com
 +.mdws.eaglerivercu.com
 +.dynamitedata.com
 +.microsite2.dylansnoddon.com
++.dxvxblkbjzdi.com
 +.marketing.dwdtechgroup.com
 +.dutorterraom.com
 +.s.durhamregion.com
@@ -24647,6 +24674,7 @@ a.dounanhuahui.com
 +.sitebeat.crazydomains.com
 +.crazy-baboon.com
 +.stape.craftkoerper.com
++.cpyahxlsjcrn.com
 +.cpvadvertise.com
 +.marketing.cpicompanies.com
 +.covertcourse.com
@@ -25305,6 +25333,7 @@ a.dounanhuahui.com
 +.your-notice.com
 +.log.yougameover.com
 +.youdontcare.com
++.youdloaners.com
 +.yigvbmhqxwo.com
 +.yieldselect.com
 +.static-ssp.yidianzixun.com
@@ -25432,6 +25461,7 @@ oppo.yidianzixun.com
 +.stat.vulkanvegas.com
 +.dfhs.vuahanghieu.com
 +.vruaskogjsu.com
++.vpovuwtwuzu.com
 +.analytics.vortexscans.com
 +.vtd.vontobelsfa.com
 +.images.performance.volvotrucks.com
@@ -28303,6 +28333,7 @@ hd.xiaojukeji.com
 +.t.wmubroncos.com
 +.wmptengate.com
 +.xggjgl.wjthinkbig.com
++.wiwqhootrf.com
 +.gtm.wittypower.com
 +.cbheuy.wishraiser.com
 +.approach.wise1-golf.com
@@ -29195,6 +29226,7 @@ gpm.samsungqbe.com
 +.load.sgtm.racesquare.com
 +.qxdownload.com
 +.qwuopcbilw.com
++.qwkryrwrwo.com
 +.quzxatapvz.com
 +.parakeet.quotetweet.com
 +.quilkintax.com
@@ -30962,6 +30994,7 @@ adx-dra.op.dbankcloud.com
 +.jvfhfc.coutureusa.com
 +.track.coupongini.com
 +.oms.country600.com
++.coudpigdom.com
 +.qdnxys.cotswoldco.com
 +.cotomucaro.com
 +.stats.coronalabs.com
@@ -35565,6 +35598,7 @@ ad.caiyunapp.com
 +.bidiology.com
 +.metrics.biddertmz.com
 +.bidderads.com
++.bidarblam.com
 +.aiq-in.bicycling.com
 +.td.bicycling.com
 +.app.biblelens.com
@@ -36353,6 +36387,7 @@ ftpcontent.worldnow.com
 +.stape.vhgstore.com
 +.marketing.vgmgroup.com
 +.vfvdsati.com
++.vezeqzyb.com
 +.vexolinu.com
 +.links.vestoapp.com
 +.vessoupy.com

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-04-10T10:13:44.308Z
-# Size: 3375
+# Last Updated: 2025-04-10T15:34:03.538Z
+# Size: 3376
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -301,6 +301,7 @@ plugins-artifacts.gradle.org
 repo.gradle.org
 proxy.golang.org
 eslint.org
+storage.deepin.org
 assets-fe.change.org
 static.change.org
 assets.change.org

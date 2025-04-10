@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-04-10T07:31:49.599Z
-# Size: 78302
+# Last Updated: 2025-04-10T10:13:42.239Z
+# Size: 78343
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -4077,6 +4077,7 @@ grs.dbankcloud.asia
 +.zitzithquaff.top
 +.yemeniharmel.top
 +.worritsyogic.top
++.waywortlaten.top
 +.vinertoxamin.top
 +.tyfuufdp-xbd.top
 +.theftdarling.top
@@ -7311,6 +7312,7 @@ proxyhog.prisma-data.net
 +.marketing.arenasports.net
 +.ainouzaudre.net
 +.aimukreegee.net
++.aidouzoumpe.net
 +.aduptaihafy.net
 +.adscampaign.net
 +.ad-delivery.net
@@ -18364,6 +18366,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.ychpbvjmubomgu.com
 +.ybrwhqhjetuagi.com
 +.yardianalytics.com
++.yamanaisleepry.com
 +.great.xxxbanglavideo.com
 +.ads.xglobalmarkets.com
 +.metrics.xfinityprepaid.com
@@ -18821,6 +18824,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.rosolicdalapon.com
 +.homecareresources.rosemarksystem.com
 +.cp.rootielearning.com
++.rompishvariola.com
 +.romperspardesi.com
 +.romashk9arfk10.com
 +.rolpenszimocca.com
@@ -18976,6 +18980,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.utiq.paroledemamans.com
 +.l.paroledemamans.com
 +.server.parnasse-store.com
++.parentsbirling.com
 +.load.gtm.pantheonparfum.com
 +.marketing.page1solutions.com
 +.marketing.oxfordlearning.com
@@ -19001,8 +19006,10 @@ charlestownwyllie.oaklawnnonantum.com
 +.discover.oneofakindshow.com
 +.j423.oneidadispatch.com
 +.a8.onecoinenglish.com
++.ondatraflemish.com
 +.refwkk.omnicalculator.com
 +.server.olliehorncooks.com
++.olichoogrulsom.com
 +.ebis-tracking.okinawa-keisei.com
 +.app.okcciviccenter.com
 +.t.okcciviccenter.com
@@ -19303,6 +19310,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.ja2n2u30a6rgyd.com
 +.ebiscname.j-esthe-yoyaku.com
 +.itemperrycreek.com
++.isthmaluncoyly.com
 +.tr.ispaconsulting.com
 +.isotopeweeping.com
 +.ioniserpinones.com
@@ -19429,6 +19437,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.hostadsmarkets.com
 +.horsiergrassed.com
 +.telemetry.horizonfitness.com
++.hoopersnonpoet.com
 +.oms.hometownhockey.com
 +.marketing.homesteadplans.com
 +.path.homeownerstart.com
@@ -19476,6 +19485,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.gristleupanaya.com
 +.gripping-bread.com
 +.page.griffinshockey.com
++.greeterstaniel.com
 +.gblock.greenhousedata.com
 +.cnwcdc.greenfarmparts.com
 +.trk.greenbuildexpo.com
@@ -19528,6 +19538,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.st.fussballreisen.com
 +.solutions.fusedequipment.com
 +.plans.fundtherebuild.com
++.fumeuseaudibly.com
 +.go.fullcarepayout.com
 +.fugginredtrack.com
 +.ftertheyhagete.com
@@ -19715,6 +19726,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.forms.direxionshares.com
 +.tr.email.directindustry.com
 +.dippingearlier.com
++.dinkiersenhora.com
 +.marketing.diningalliance.com
 +.info.dimplexthermal.com
 +.digitalmediapp.com
@@ -19805,6 +19817,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.cpalabtracking.com
 +.deals.couponhotdeals.com
 +.durlwq.cosmetic-times.com
++.corylussunroof.com
 +.tr.news.corsicaferries.com
 +.coreldrawchina.com
 +.cor8ni3shwerex.com
@@ -19912,6 +19925,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.buzzardcraizey.com
 +.buy-briteblaze.com
 +.bushsurprising.com
++.burleskspoiler.com
 +.bunjaraserumal.com
 +.bundasnovinhas.com
 +.m.bumrungrad1378.com
@@ -19922,6 +19936,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.bufmjknaeprvyd.com
 +.budsminepatent.com
 +.buckeyekantars.com
++.bubblessudsman.com
 +.btnativedirect.com
 +.marketing.btcelectronics.com
 +.images.engage.brunswickgroup.com
@@ -20070,6 +20085,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.marketing.asmarterwindow.com
 +.asleavannychan.com
 +.ashrivetgulped.com
++.ashlingzanyish.com
 +.campaigns.ashfieldengage.com
 +.asgorebysschan.com
 +.asferaligatron.com
@@ -20130,6 +20146,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.ss.altafitgymclub.com
 +.almonryminuter.com
 +.allworkovergot.com
++.alluviopurreic.com
 +.allfreecounter.com
 +.allergicloaded.com
 +.t-s.allergicasthma.com
@@ -20382,6 +20399,7 @@ httpdns.volcengineapi.com
 +.tr.newsletter.veuveclicquot.com
 +.webcontr.vetter-pharma.com
 +.raven.vethelpdirect.com
++.versinehopper.com
 +.blrhel.veronicabeard.com
 +.load.server.ventoclothing.com
 +.jeprze.ventinosilver.com
@@ -21370,6 +21388,7 @@ api-ads.tiantianqutao.com
 +.komarchlupoid.com
 +.koiaripolymny.com
 +.koanewhaideeb.com
++.koacucooptour.com
 +.metrics.knowyourtrigs.com
 +.kneeletromero.com
 +.znmtka.kikocosmetics.com
@@ -21837,6 +21856,7 @@ api-ads.tiantianqutao.com
 +.educedsteeped.com
 +.images.explore.editionhotels.com
 +.stape.edge-creative.com
++.ecuelleribose.com
 +.ss.ecobiomanager.com
 +.sfp7.eco-conscient.com
 +.marketing.echohealthinc.com
@@ -22167,6 +22187,7 @@ api-ads.tiantianqutao.com
 +.load.sgtm.burkerwatches.com
 +.nurflv.bureauxlocaux.com
 +.bureautrickle.com
++.burdenmapwise.com
 +.api.bunzlaucastle.com
 +.marketing.bulkbookstore.com
 +.builthousefor.com
@@ -22289,6 +22310,7 @@ api-ads.tiantianqutao.com
 +.bup.bankofamerica.com
 +.trk.bakewithstork.com
 +.baguioattalea.com
++.baghlachalked.com
 +.info.backbonemedia.com
 +.babyniceshark.com
 +.ss.azuremagazine.com
@@ -22512,6 +22534,7 @@ ad.zuimeitianqi.com
 +.sp.yorkdispatch.com
 +.yonsandileer.com
 +.fqosmc.yoderleather.com
++.yocksniacins.com
 +.ylfmlahzmzsw.com
 +.pamzqm.yitechnology.com
 +.yieldtraffic.com
@@ -22584,6 +22607,7 @@ ad.zuimeitianqi.com
 +.flea.welikeoliver.com
 badjs.weixinbridge.com
 +.xml.wehavein-bid.com
++.weensydudler.com
 +.webspectator.com
 +.counter.websitevoice.com
 +.anaconda.webitizeicts.com
@@ -23302,6 +23326,7 @@ adcdn.tencentmusic.com
 +.tags.tiq.rbcinsurance.com
 +.images.rjf.raymondjames.com
 +.metrics.rapidadvance.com
++.rameshdeisin.com
 +.app.ramblinwreck.com
 +.t.ramblinwreck.com
 +.load.gtm.radschlaeger.com
@@ -23457,6 +23482,7 @@ adcdn.tencentmusic.com
 +.a.perfumesclub.com
 +.metrics.performgroup.com
 +.spt.performgroup.com
++.perdurepeeve.com
 +.mdws.penfinancial.com
 +.marketing.pelotongroup.com
 +.jviyau.pelicanwater.com
@@ -23739,6 +23765,7 @@ apps.mobilityware.com
 +.wavzlt.michaelstars.com
 +.info.michaelfoods.com
 +.mi82ltk3veb7.com
++.mezcalumlaut.com
 +.clicks.metronautapp.com
 +.rtk.metodoqu4tro.com
 +.metavertizer.com
@@ -23905,6 +23932,7 @@ stats.leavemealone.com
 +.ukaxwr.leastedisoha.com
 +.marketing.leading-edge.com
 +.lead-watcher.com
++.lazuliempall.com
 +.srepdata.lavozarizona.com
 +.images.lauthorities.com
 +.latheendsmoo.com
@@ -24445,6 +24473,7 @@ httpdns-ocloud.heytapmobile.com
 +.info.evergagecorp.com
 +.trk.everestturbo.com
 +.tgcxtq.eveniahotels.com
++.eurosexcuses.com
 +.load.ss.europe-books.com
 +.euizhltcd6ih.com
 +.ethaistoothi.com
@@ -25067,6 +25096,7 @@ a.dounanhuahui.com
 +.anonymousads.com
 +.annesuspense.com
 +.dkxwqu.annefontaine.com
++.ankolisiloam.com
 +.anjanstarved.com
 +.emails.animalplanet.com
 +.links.animalplanet.com
@@ -25082,6 +25112,7 @@ a.dounanhuahui.com
 +.sadbmetrics.andorrataste.com
 +.analytics-sm.com
 +.pages.info.anaheimducks.com
++.amyrinbitume.com
 +.amtracking01.com
 +.go.amienaturals.com
 +.amhpbhyxfgvd.com
@@ -25406,6 +25437,7 @@ oppo.yidianzixun.com
 +.marketing.watercannon.com
 +.link.watchoxygen.com
 +.wary-corner.com
++.warselanlet.com
 +.atom-qa.warnermedia.com
 +.atom.warnermedia.com
 +.kpbzar.warbyparker.com
@@ -25906,6 +25938,7 @@ in.vipliangmei.com
 +.smartadtags.com
 +.tracker-rec.smart-bdash.com
 +.tracker.smart-bdash.com
++.slurpsbeets.com
 +.tgmtav.slumberland.com
 +.trk.sleepsutera.com
 +.pulse.sleepnumber.com
@@ -26708,6 +26741,7 @@ c.medialytics.com
 +.twdhec.marioeletro.com
 +.gtm.mariaeluisa.com
 +.load.gtm.maria-black.com
++.maraywreath.com
 +.data-1842699cc4.mapandroute.com
 +.manualquiet.com
 +.manconsider.com
@@ -27120,6 +27154,7 @@ httpdns.huaweicloud.com
 +.vip.gophersport.com
 +.go.gopeakbiome.com
 +.marketing.goodfunding.com
++.gooddemands.com
 +.goobakocaup.com
 +.hkxust.goneforarun.com
 +.fpc.golubgrowth.com
@@ -27776,6 +27811,7 @@ httpdns.calorietech.com
 +.browsermine.com
 +.broworker6s.com
 +.broworker4s.com
++.broosnighed.com
 +.broghpiquet.com
 +.images.go.broadridge1.com
 +.brithungown.com
@@ -28042,6 +28078,7 @@ httpdns.calorietech.com
 +.links.aopcongress.com
 +.antiaecroon.com
 +.t.antalisperu.com
++.anestriberi.com
 +.anamaembush.com
 +.insure.amsservices.com
 +.fpa-cdn.amontalenti.com
@@ -29817,6 +29854,7 @@ ads2.mediaarmor.com
 +.marketing.mailersusa.com
 +.statistics.mailerlite.com
 +.track.mailerlite.com
++.maiabarkan.com
 +.aff.magneticjv.com
 +.technical.magnalytix.com
 +.crane.maggsgroup.com
@@ -31227,6 +31265,7 @@ simple.cloudsmith.com
 +.bowerywill.com
 +.a8.bousui-pro.com
 +.pix.boursorama.com
++.botakissed.com
 +.bostonwall.com
 +.tr-ms.bosch-home.com
 +.geoip.boredpanda.com
@@ -31553,6 +31592,7 @@ simple.cloudsmith.com
 +.info.chs.aleragroup.com
 +.alecclause.com
 +.hxbt.alading123.com
++.alackzokor.com
 +.ak03211hou.com
 +.ak03150hou.com
 +.ak-tracker.com
@@ -42443,6 +42483,7 @@ i.ipinyou.com
 +.id-ward.com
 +.cnt.iceporn.com
 +.dxrlkh.icanvas.com
++.ibmfunk.com
 +.wneia.iaskhot.com
 +.qiyeb.iaskbus.com
 +.tpa7.iahorro.com

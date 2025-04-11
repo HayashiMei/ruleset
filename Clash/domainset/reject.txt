@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-04-11T10:05:12.365Z
+# Last Updated: 2025-04-11T12:42:24.715Z
 # Size: 78483
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -35103,7 +35103,7 @@ v2.fm.n.duokanbox.com
 +.engage.dorngroup.com
 +.dorimnews.com
 +.marketing.doprocess.com
-+.doppiocdn.com
++.metrics.doppiocdn.com
 +.sensors-log.dongqiudi.com
 +.stat.dongqiudi.com
 +.xrnyhc.dongasisa.com

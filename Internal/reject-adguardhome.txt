@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Fri, 11 Apr 2025 12:42:34 GMT
+! Last modified: Fri, 11 Apr 2025 16:12:52 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -4400,6 +4400,7 @@
 ||kronosoolites.top^
 ||kbqqavwjqemea.top^
 ||kbkewkqrkqkzy.top^
+||jzqbyykjorqkq.top^
 ||jzokkejvjrvwj.top^
 ||jybaekaqbmwyj.top^
 ||jwnmnnwjaezyw.top^
@@ -4488,6 +4489,7 @@
 ||gmso01010oka.top^
 ||gigsmanhowls.top^
 ||gamingonline.top^
+||fulahfencers.top^
 ||flawsfairish.top^
 ||flamssybotic.top^
 ||fixatealaloi.top^
@@ -4506,6 +4508,7 @@
 ||bortschtinea.top^
 ||blazedizafat.top^
 ||aruminmustnt.top^
+||apiosstocked.top^
 ||aoao12011iis.top^
 ||aoao11211iis.top^
 ||aoao11201iis.top^
@@ -5838,6 +5841,7 @@
 ||hurricanepools.org^
 ||check.homeownerneeds.org^
 ||hinkhimunpract.org^
+||hehadstoppedto.org^
 ||hikaria.healthy365days.org^
 ||info.girlswhoinvest.org^
 ||fullmworkhovdi.org^
@@ -6357,6 +6361,7 @@
 ||seniorliving.heronskey.org^
 ||marketing.heronskey.org^
 ||images.health.hendricks.org^
+||handcoves.org^
 ||grin-pool.org^
 ||getmonero.org^
 ||freshpool.org^
@@ -7068,6 +7073,7 @@
 ||stats.ksr.onl^
 ||ztlcrzmjshgfc.one^
 ||wktyyxtvwthxp.one^
+||tqlqfhmvainmn.one^
 ||omoevcozeezhg.one^
 ||masogjmltljhl.one^
 ||lugwzalsqvacb.one^
@@ -7299,6 +7305,7 @@
 ||coashoohathaija.net^
 ||chicheecmaungee.net^
 ||chekrilsoumpoab.net^
+||chatsuptocachee.net^
 ||booshoatoocotez.net^
 ||bockouphourgait.net^
 ||info.blackhillsgroup.net^
@@ -11463,6 +11470,7 @@
 ||hvywllhiwgbjj.icu^
 ||exists-mazard.icu^
 ||aqgyncebdxmpw.icu^
+||agnqolfmjebpk.icu^
 ||kubicserves.icu^
 ||kbjn-sibltg.icu^
 ||ejitmssx-rk.icu^
@@ -20483,6 +20491,7 @@
 ||marketing.konareefresort.com^
 ||statistik.komputerkampus.com^
 ||adebis.kodomohamigaki.com^
+||knpxyreredpaam.com^
 ||discover.kloverproducts.com^
 ||a8net.kitamura-print.com^
 ||metrics.kimberly-clark.com^
@@ -23147,6 +23156,7 @@
 ||marketing.echohealthinc.com^
 ||ecerpgqnohelf.com^
 ||eatmenttogeth.com^
+||easytomessage.com^
 ||marketing.eastviewpress.com^
 ||mdws.easternedgecu.com^
 ||earbossysavvy.com^
@@ -23181,6 +23191,7 @@
 ||domicileperil.com^
 ||analytics-secure.dollargeneral.com^
 ||metrics.dollargeneral.com^
+||dokpzhzmqhyqx.com^
 ||rd.doggytreatbox.com^
 ||jcpjfyikk.dogbonemarket.com^
 ||gtm.doersoflondon.com^
@@ -25503,6 +25514,7 @@
 ||hvtsxseblxie.com^
 ||gdknnd.hushblankets.com^
 ||humatecortin.com^
+||hugobsqkulab.com^
 ||insights.hugheseurope.com^
 ||hub.hubfinancial.com^
 ||htplayground.com^
@@ -26916,6 +26928,7 @@
 ||vcommission.com^
 ||marketing.vcasoftware.com^
 ||vazticlkivi.com^
+||vastilymoid.com^
 ||imxfck.varusteleka.com^
 ||varshacundy.com^
 ||info.vaporstream.com^
@@ -27249,6 +27262,7 @@
 ||ln.strongdudes.com^
 ||ycjhuh.stripe-club.com^
 ||stringclass.com^
+||stridesbile.com^
 ||stratosbody.com^
 ||cxsaev.stratiaskin.com^
 ||chiefinvestmentofficer.strategic-i.com^
@@ -33396,6 +33410,7 @@
 ||load.sgtm.aaronrosat.com^
 ||solutions.aampglobal.com^
 ||marketing.aamcompany.com^
+||a9684972c2.com^
 ||a91e9c75f8.com^
 ||a8e8c59504.com^
 ||1ca6e3e357.a8ca394de0.com^
@@ -33445,6 +33460,7 @@
 ||4b0ee437b9.84f017b608.com^
 ||84a15bc0e3.com^
 ||835images1.com^
+||8231e5c33a.com^
 ||8162f6c343.com^
 ||7fkm2r4pzi.com^
 ||0600abfc6e.7ec3ad2512.com^
@@ -33556,6 +33572,7 @@
 ||stat.24liveplus.com^
 ||22cbbac9cd.com^
 ||22c29c62b3.com^
+||22b664d9ce.com^
 ||analytics.2290online.com^
 ||222aa333bb.com^
 ||22-trk-srv.com^
@@ -34877,6 +34894,7 @@
 ||link.podercard.com^
 ||trk.pndtrack1.com^
 ||pncloudfl.com^
+||pmvwuxdlp.com^
 ||pmpmining.com^
 ||data.mails.pluspagos.com^
 ||dnklry.plushbeds.com^
@@ -36653,6 +36671,7 @@
 ||marketing.emplicity.com^
 ||marketing.empire-pa.com^
 ||emphidaho.com^
+||emifkodfq.com^
 ||emeu0circ.com^
 ||site2.emarketer.com^
 ||site.emarketer.com^
@@ -37037,6 +37056,7 @@
 ||clixvista.com^
 ||clixsense.com^
 ||engage.clinipace.com^
+||cliffgown.com^
 ||tr.news.clicochic.com^
 ||tr.info.clicochic.com^
 ||clickupto.com^
@@ -38908,6 +38928,7 @@
 ||metrics.seabourn.com^
 ||sdrfghyd.com^
 ||sdk4push.com^
+||sdhmvkxf.com^
 ||metrics.sdcvisit.com^
 ||scrugokl.com^
 ||scroscoi.com^
@@ -40476,6 +40497,7 @@
 ||ie8eamus.com^
 ||uutumb.idsblast.com^
 ||jhwwtm.idmarket.com^
+||idhaiafq.com^
 ||id5-sync.com^
 ||track.icowhide.com^
 ||iconnode.com^
@@ -46456,6 +46478,8 @@
 |wtradv.market.xiaomi.com^
 |video.market.xiaomi.com^
 |xadx.file.market.xiaomi.com^
+|vd1.market.xiaomi.com^
+|vd0.market.xiaomi.com^
 |sf0.market.xiaomi.com^
 |f8.market.xiaomi.com^
 |f7.market.xiaomi.com^
@@ -46493,6 +46517,7 @@
 |tz.sec.xiaomi.com^
 ||mistat.rus.xiaomi.com^
 ||ad.rus.xiaomi.com^
+|cdn.exp.xiaomi.com^
 |image.box.xiaomi.com^
 |a0.app.xiaomi.com^
 |awsusor0-cdn.fds-ssl.api.xiaomi.com^
@@ -49438,6 +49463,7 @@
 |miniapp-ad.cdn.bcebos.com^
 |fc-feed.cdn.bcebos.com^
 ||ys2000.cdn.bcebos.com^
+|fyb-2.cdn.bcebos.com^
 ||qwe0231141.bj.bcebos.com^
 ||baiducom.bj.bcebos.com^
 |tob-cms.bj.bcebos.com^
@@ -54683,7 +54709,8 @@
 ||union.mi.com^
 |sg.a.stat.mi.com^
 ||dun.mi.com^
-||jr.mi.com^
+|api.jr.mi.com^
+|m.jr.mi.com^
 |c.id.mi.com^
 |a.hl.mi.com^
 ||ad.mi.com^
@@ -77414,6 +77441,7 @@
 ||s7vf.cn^
 ||rxys.cn^
 ||rwix.cn^
+||rvxo.cn^
 ||rojj.cn^
 ||riym.cn^
 ||rinl.cn^
@@ -77437,6 +77465,7 @@
 ||otfy.cn^
 ||orup.cn^
 ||oqea.cn^
+||opdh.cn^
 ||ojmv.cn^
 ||oieo.cn^
 ||oelj.cn^

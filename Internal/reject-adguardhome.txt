@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sat, 12 Apr 2025 07:55:21 GMT
+! Last modified: Sat, 12 Apr 2025 12:38:23 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -1864,6 +1864,7 @@
 ||praxeandean.shop^
 ||persesdates.shop^
 ||peglessbath.shop^
+||pangiumsulu.shop^
 ||ss.nutrientify.shop^
 ||mickblowess.shop^
 ||megmhokluck.shop^
@@ -4336,6 +4337,7 @@
 ||wkamwqeoqozzm.top^
 ||waaz.wjebboljobvaj.top^
 ||wewlorozwolyz.top^
+||wevrwqjqemkyj.top^
 ||welbljlvmmyzw.top^
 ||vqrozzojjlwbz.top^
 ||vqoqlebqqammj.top^
@@ -5719,6 +5721,7 @@
 ||smetrics2.kaiserpermanente.org^
 ||marketing.johnstoncountync.org^
 ||ismypersonalreco.org^
+||ildrendreaminger.org^
 ||edm.healthroundtable.org^
 ||t.hartfordsymphony.org^
 ||web.health.hannibalregional.org^
@@ -5925,6 +5928,7 @@
 ||trk.mydailyapples.org^
 ||connect.montagehealth.org^
 ||tracking.your.montagehealth.org^
+||mnverylittlec.org^
 ||minecraftplay.org^
 ||connect.medstarhealth.org^
 ||healthier.luminishealth.org^
@@ -12543,6 +12547,7 @@
 ||dsda21.fun^
 ||cdcs34.fun^
 ||bgbg00.fun^
+||viurl.fun^
 ||mytrack.ph143.fun^
 ||hyhy2.fun^
 ||data-c0c484e9be.funke.fun^
@@ -20748,6 +20753,7 @@
 ||omni.hallmarkecards.com^
 ||haithalaneroid.com^
 ||gxn-miningpool.com^
+||gvypnjoucrsfep.com^
 ||ad-specs.guoshipartners.com^
 ||tr.qualite.groupebarriere.com^
 ||tr.news.groupe-armonia.com^
@@ -25759,6 +25765,7 @@
 ||genesismedia.com^
 ||marketing.geigerwealth.com^
 ||geegleshoaph.com^
+||gddshvkrawod.com^
 ||news-info.gcgfinancial.com^
 ||ts.gastronomixs.com^
 ||marketing.gasandsupply.com^
@@ -33472,6 +33479,7 @@
 ||9xob25oszs.com^
 ||9d87b35397.com^
 ||9cd4abb9e0.com^
+||9c867e2056.com^
 ||9adbbad978.com^
 ||999xx999kk.com^
 ||999xx333kk.com^
@@ -35626,6 +35634,7 @@
 ||elqtracking.macegroup.com^
 ||m1ll1c4n0.com^
 ||m0rsq075u.com^
+||lzoorgpta.com^
 ||lzolanahk.com^
 ||lysim-lre.com^
 ||lycheebit.com^
@@ -41256,6 +41265,7 @@
 ||dszdtt.drawelry.com^
 ||drandoxo.com^
 ||draktash.com^
+||dqbmatfh.com^
 ||dpuppers.com^
 ||dpooltop.com^
 ||sgtm.dpmanual.com^

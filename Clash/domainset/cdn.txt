@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-04-13T13:13:41.280Z
+# Last Updated: 2025-04-13T13:14:51.793Z
 # Size: 3378
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -409,7 +409,7 @@ consumersiteimages.trustpilot.net
 cdn.trustpilot.net
 +.nelreports.net
 cdn.macstories.net
-+.hls.live-video.net
++.live-video.net
 +.hs-scripts.net
 +.faceit-cdn.net
 hub-assets.displaycal.net

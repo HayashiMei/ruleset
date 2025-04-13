@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2025-04-10T15:34:02.279Z
-# Size: 1050
+# Last Updated: 2025-04-13T12:38:49.484Z
+# Size: 1051
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -879,6 +879,7 @@ teste.dstelecom.net.br
 speedtest.webturbo.net.br
 speedtestmacapa.webflash.net.br
 speedtest.unifica.net.br
+sp01.rbfibra.net.br
 test.accesso.net.br
 stmanaquiri.pplink.net.br
 speedtest.idnet.net.br

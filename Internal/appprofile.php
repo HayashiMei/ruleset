@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-04-13T12:38:51.294Z
+// # Build 2025-04-13T13:13:40.861Z
 
 declare(strict_types=1);
 
@@ -1635,6 +1635,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,trustpilot.net,Global',
         'DOMAIN-SUFFIX,south-plus.net,Global',
         'DOMAIN-SUFFIX,slideshare.net,Global',
+        'DOMAIN-SUFFIX,live-video.net,Global',
         'DOMAIN-SUFFIX,deviantart.net,Global',
         'DOMAIN-SUFFIX,cloudfront.net,Global',
         'DOMAIN-SUFFIX,speedtest.net,Global',
@@ -2072,6 +2073,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,9cache.com,Global',
         'DOMAIN-SUFFIX,91porn.com,Global',
         'DOMAIN-SUFFIX,360ssh.com,Global',
+        'DOMAIN-SUFFIX,zndsk.com,Global',
         'DOMAIN-SUFFIX,ytimg.com,Global',
         'DOMAIN-SUFFIX,yahoo.com,Global',
         'DOMAIN-SUFFIX,xhcdn.com,Global',
@@ -6399,6 +6401,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,212.103.62.0/24,Domestic',
         'IP-CIDR,212.129.128.0/17,Domestic',
         'IP-CIDR,217.194.133.0/24,Domestic',
+        'IP-CIDR,217.194.135.0/24,Domestic',
         'IP-CIDR,218.0.0.0/11,Domestic',
         'IP-CIDR,218.56.0.0/13,Domestic',
         'IP-CIDR,218.64.0.0/11,Domestic',

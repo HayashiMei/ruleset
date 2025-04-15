@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2025-04-13T12:38:49.484Z
-# Size: 1051
+# Last Updated: 2025-04-15T09:20:56.452Z
+# Size: 1055
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -34,7 +34,10 @@ speedtest-kix.xtom.info
 dc-spdtst.treas.host
 speedtest.ams14.usenet.farm
 speedtest.brooketel.coop
+speedtest04.ber.server.camp
+speedtest03.ber.server.camp
 sg.cloudhost.asia
+ccs.los-angeles.ca.speedtest.6667890.xyz
 +.measurement-lab.org
 speed.lax-1.serverforge.org
 +.backend.librespeed.org
@@ -223,6 +226,7 @@ speedtest21.hkbn.net
 spdfra.cndd.net
 spd.cndd.net
 lg-ffm.aeza.net
+speedtest.par1.adky.net
 speedtest.ams.wd6.net
 speedtest.uia.net
 +.ookla.rcp.net

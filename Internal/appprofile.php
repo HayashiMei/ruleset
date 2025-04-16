@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-04-16T14:18:03.440Z
+// # Build 2025-04-16T14:25:51.072Z
 
 declare(strict_types=1);
 
@@ -1871,6 +1871,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,atlassian.com,Global',
         'DOMAIN-SUFFIX,askubuntu.com,Global',
         'DOMAIN-SUFFIX,apkmirror.com,Global',
+        'DOMAIN-SUFFIX,amplience.com,Global',
         'DOMAIN-SUFFIX,amazonaws.com,Global',
         'DOMAIN-SUFFIX,1password.com,Global',
         'DOMAIN-SUFFIX,xhamster.com,Global',

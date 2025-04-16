@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-04-16T14:16:41.464Z
-# Size: 3391
+# Last Updated: 2025-04-16T14:25:51.550Z
+# Size: 3393
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -457,6 +457,7 @@ decart-oasis.azureedge.net
 typescript.azureedge.net
 edgestatic.azureedge.net
 ni-assets.azureedge.net
++.static.amplience.net
 +.media.amplience.net
 cdn.c1.amplience.net
 statics-marketingsites-eas-ms-com.akamaized.net
@@ -1637,6 +1638,7 @@ images.anandtech.com
 ip-ranges.amazonaws.com
 +.assets.as2.amazonaws.com
 +.abcnewsfe.com
+app.1password.com
 i.1password.com
 c.1password.com
 ws-assets.zoominfo.com

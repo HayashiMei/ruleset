@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Wed, 16 Apr 2025 16:12:01 GMT
+! Last modified: Wed, 16 Apr 2025 16:25:33 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -22605,6 +22605,7 @@
 ||ssuperstats.observepoint.com^
 ||superstats.observepoint.com^
 ||observativus.com^
+|events.observablehq.com^
 ||oatchoagnoud.com^
 ||irgddc.oasishoteles.com^
 ||oaksouhafaik.com^
@@ -24532,6 +24533,7 @@
 ||get.thisisvegas.com^
 ||marketing.thisisalpha.com^
 ||tracker.thinkermail.com^
+|visitors.thingiverse.com^
 ||thiltoocmom.com^
 ||email.thewithotel.com^
 ||srepdata.thetowntalk.com^
@@ -50101,7 +50103,7 @@
 ||data.crm-edm.thsrc.com.tw^
 ||fufbgj.pazzo.com.tw^
 ||onead.com.tw^
-|elads.kocpc.com.tw^
+||elads.kocpc.com.tw^
 ||starget.intel.com.tw^
 ||elqtrk.intel.com.tw^
 ||www91.intel.com.tw^

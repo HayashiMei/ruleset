@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-04-16T16:11:51.850Z
-# Size: 69619
+# Last Updated: 2025-04-16T16:25:23.355Z
+# Size: 69621
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21382,6 +21382,7 @@ js.partnerstack.com
 +.ssuperstats.observepoint.com
 +.superstats.observepoint.com
 +.observativus.com
+events.observablehq.com
 +.oatchoagnoud.com
 +.irgddc.oasishoteles.com
 +.oaksouhafaik.com
@@ -23236,6 +23237,7 @@ in.vipliangmei.com
 +.get.thisisvegas.com
 +.marketing.thisisalpha.com
 +.tracker.thinkermail.com
+visitors.thingiverse.com
 +.thiltoocmom.com
 +.email.thewithotel.com
 +.srepdata.thetowntalk.com
@@ -47737,7 +47739,7 @@ drd.hauchi.com.tw
 +.data.crm-edm.thsrc.com.tw
 +.fufbgj.pazzo.com.tw
 +.onead.com.tw
-elads.kocpc.com.tw
++.elads.kocpc.com.tw
 +.starget.intel.com.tw
 +.elqtrk.intel.com.tw
 +.www91.intel.com.tw

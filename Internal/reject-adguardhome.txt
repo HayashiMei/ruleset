@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Wed, 16 Apr 2025 14:16:49 GMT
+! Last modified: Wed, 16 Apr 2025 16:12:01 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -3779,6 +3779,7 @@
 ||miningzhizhong.top^
 ||laridaetrionfo.top^
 ||fuddlerpanther.top^
+||frogeyeparaiba.top^
 ||fittiercutlets.top^
 ||falcatasestina.top^
 ||excretegonging.top^
@@ -3861,6 +3862,7 @@
 ||qaebaywwzvbbo.top^
 ||premium4kflix.top^
 ||poiejdhmkjcnd.top^
+||plmqlbihwqket.top^
 ||pizzlessclimb.top^
 ||phoceansteaks.top^
 ||patakaendymal.top^
@@ -3889,6 +3891,7 @@
 ||jzokkejvjrvwj.top^
 ||jybaekaqbmwyj.top^
 ||jwnmnnwjaezyw.top^
+||jovqyymemwzzj.top^
 ||joqowqymkrowl.top^
 ||jobmkewkzwrkb.top^
 ||jkajyrkqaoyjl.top^
@@ -3902,6 +3905,7 @@
 ||fenmanswagman.top^
 ||faqirsgoliard.top^
 ||fanxmfllqbyoy.top^
+||evictsunlyric.top^
 ||enteraingrown.top^
 ||demeoreisling.top^
 ||delianoquassa.top^
@@ -4315,6 +4319,7 @@
 ||tweisii.top^
 ||tvcnmti.top^
 ||turesdi.top^
+||tucnmti.top^
 ||ttimiyi.top^
 ||ttgbnmk.top^
 ||trohycv.top^
@@ -4866,6 +4871,7 @@
 ||lucky-work.pro^
 ||hugregregy.pro^
 ||gruphuriju.pro^
+||green-mark.pro^
 ||googleplay.pro^
 ||glopsujuba.pro^
 ||dizzy-drag.pro^
@@ -5234,6 +5240,7 @@
 ||marketing.visitannapolis.org^
 ||veideasandcome.org^
 ||unblocktheship.org^
+||troadforristol.org^
 ||tracking.email.trinity-health.org^
 ||page.email.trinity-health.org^
 ||theweeklydonut.org^
@@ -5527,6 +5534,7 @@
 ||stats.elixir-lang.org^
 ||ecretaboutt.org^
 ||easy-dating.org^
+||dittlecompa.org^
 ||go.dailyrelief.org^
 ||traka8.crypto-mall.org^
 ||coronatoken.org^
@@ -6400,6 +6408,7 @@
 ||omoevcozeezhg.one^
 ||masogjmltljhl.one^
 ||lugwzalsqvacb.one^
+||lecubzcgozcgk.one^
 ||jgubbpypmlxbk.one^
 ||inxgfxylzkkgi.one^
 ||gplywfirosiwd.one^
@@ -8241,6 +8250,7 @@
 ||dmg0877nfcvqj.cloudfront.net^
 ||dmeq7blex6x1u.cloudfront.net^
 ||dm7gsepi27zsx.cloudfront.net^
+||dm50eugvywuiu.cloudfront.net^
 ||dm0ly9ibqkdxn.cloudfront.net^
 ||dm0acvguygm9h.cloudfront.net^
 ||dlxk2dj1h3e83.cloudfront.net^
@@ -11901,6 +11911,7 @@
 ||osimg.universalorlandovacations.com^
 ||oimg.universalorlandovacations.com^
 ||sstats.truistleadershipinstitute.com^
+||transistorizedbirleanimal.com^
 ||info.transcontinental-printing.com^
 ||synthesissocietysplitting.com^
 ||stressfulproperlyrestrain.com^
@@ -13964,6 +13975,7 @@
 ||go.official-pronerve6.com^
 ||offerwall-adnative.com^
 ||track.oequilibrionatural.com^
+||octobertheatrenosy.com^
 ||oainternetservices.com^
 ||ntativesathyasesum.com^
 ||a8aspconv.ns-softbank-hikari.com^
@@ -22545,6 +22557,7 @@
 ||outwingullom.com^
 ||outchinchour.com^
 ||oundandround.com^
+||otsscaowfabk.com^
 ||so.otrestaurant.com^
 ||o.otrestaurant.com^
 ||otnolabttmup.com^
@@ -26960,6 +26973,7 @@
 ||oaprodlogging.yo-digital.com^
 ||ymtracking.com^
 ||ymrdsajjsq.com^
+||ykmjrnicvb.com^
 ||yieldscale.com^
 ||yieldbuild.com^
 ||ans.yesnetwork.com^
@@ -28224,6 +28238,7 @@
 ||o.musicnotes.com^
 ||jlijkn.mudandsnow.com^
 ||yst4.muchoviaje.com^
+||muaymqzrme.com^
 ||mtzenhigqg.com^
 ||track.mtraq145ps.com^
 ||track.mtraq135si.com^
@@ -30387,6 +30402,7 @@
 ||a.xixiyishu.com^
 ||xisxrxtrk.com^
 ||a2.xinhuanet.com^
+||ximhirsew.com^
 ||xielloltv.com^
 ||xiaopinwo.com^
 ||cc.xiaodapei.com^
@@ -33852,6 +33868,7 @@
 ||zmpeotrk.com^
 ||zmjagawa.com^
 ||zlacraft.com^
+||zklvzxmw.com^
 ||s.zixuntop.com^
 ||ziqniduy.com^
 ||dash.zintrack.com^
@@ -68977,6 +68994,7 @@
 ||ujmz.cn^
 ||uivc.cn^
 ||bdjs.uimg.cn^
+||ufgl.cn^
 ||txvq.cn^
 ||tuia.cn^
 ||go.tuev.cn^

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2025-04-16T14:16:39.906Z
-# Size: 1063
+# Last Updated: 2025-04-17T14:09:14.170Z
+# Size: 1067
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -39,6 +39,8 @@ speedtest04.ber.server.camp
 speedtest03.ber.server.camp
 sg.cloudhost.asia
 ccs.los-angeles.ca.speedtest.6667890.xyz
+tyo.st.spacecore.pro
+sea.st.spacecore.pro
 sg.st.spacecore.pro
 de.st.spacecore.pro
 au.st.spacecore.pro
@@ -174,6 +176,7 @@ msk-speedtest2.corbina.net
 +.speedtest.contabo.net
 speedtester.comwave.net
 stosat-rvlt-01.sys.comcast.net
+spd.basefix.net
 speedtest-ookla-par.as62000.net
 speedtest.ams0.nl.as61049.net
 perf-01.ixn.as42689.net
@@ -976,6 +979,7 @@ speedtest.embrasnet.com.br
 speedtest.cyberline.com.br
 velocidade.conectato.com.br
 acrenettecnologia.brsserver.com.br
+seveninternet.brsserver.com.br
 speednet-atn.brsserver.com.br
 uplinkfibra.brsserver.com.br
 lifitelecom.brsserver.com.br

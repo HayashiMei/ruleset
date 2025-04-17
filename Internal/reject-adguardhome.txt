@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Thu, 17 Apr 2025 09:38:56 GMT
+! Last modified: Thu, 17 Apr 2025 12:43:04 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -483,6 +483,7 @@
 ||vxpcarcapffdp.global^
 ||vuzhzlzswecvc.global^
 ||vdeiseyswdfco.global^
+||vbptgoyketwhv.global^
 ||tfaxtyhedrwub.global^
 ||qnsxtvhfnajnw.global^
 ||pkehswqnitpvr.global^
@@ -1861,6 +1862,7 @@
 ||yvdxhbuupndqo.love^
 ||ursvgeoaweeli.love^
 ||oaocrxsgsemdg.love^
+||lwxegrybymzah.love^
 ||lucnxzoylxmvu.love^
 ||foccqbujbfcyj.love^
 ||dkipfdjvrlird.love^
@@ -2373,6 +2375,7 @@
 ||aleapeact.club^
 ||abtaurosa.club^
 ||tdsshark.club^
+||sungtoaz.club^
 ||pushdrop.club^
 ||mecrypto.club^
 ||loading.maxdealz.club^
@@ -3691,6 +3694,7 @@
 ||diploeshobnobs.top^
 ||denierswildest.top^
 ||demosesoverate.top^
+||copycatsoirees.top^
 ||commoveartists.top^
 ||buzzersunpaled.top^
 ||v1.bonnesaffaires.top^
@@ -3710,6 +3714,7 @@
 ||zhangqifeng12.top^
 ||ywusfyjhnpflr.top^
 ||xqwrdegbmdfrv.top^
+||wywkwqzkavlvw.top^
 ||wylmzwklklyaz.top^
 ||wwwwzerblvvqv.top^
 ||wwvqboerllqqz.top^
@@ -5286,6 +5291,7 @@
 ||mukindwouldm.org^
 ||connect.memorialcare.org^
 ||web.health.memorialcare.org^
+||medlikeamate.org^
 ||matterforiwa.org^
 ||gtm.match-talent.org^
 ||discover.maringeneral.org^
@@ -5352,6 +5358,7 @@
 ||silkworm.westwoodmbc.org^
 ||info.westerville.org^
 ||wasalwayssu.org^
+||voidthemhen.org^
 ||marketing.visittucson.org^
 ||marketing.valleyforge.org^
 ||ok.usahelpline.org^
@@ -29067,6 +29074,7 @@
 ||rtb-useast.adcannyads.com^
 ||contact.adaptavist.com^
 ||adactioner.com^
+||ad2f8c6f8e.com^
 ||cueohf.actifforum.com^
 ||cueohf.actieforum.com^
 ||actglimpse.com^
@@ -31723,6 +31731,7 @@
 ||eildralfl.com^
 ||eulerian.eidershop.com^
 ||7mx.eidershop.com^
+||ehkualecb.com^
 ||ptvurg.egricayir.com^
 ||analytics.egernsund.com^
 ||efreecode.com^
@@ -32434,6 +32443,7 @@
 ||tr.email.archiexpo.com^
 ||a8cllk.arahataen.com^
 ||gkcqyo.aquazzura.com^
+||aqndcybah.com^
 ||aptimorph.com^
 ||aprilcoin.com^
 ||srqinq.apricotte.com^
@@ -33961,6 +33971,7 @@
 ||p8wj9zko.com^
 ||ozongees.com^
 ||ozobsaib.com^
+||ozmbzowg.com^
 ||analytics.oyorooms.com^
 ||lxswqh.oyorooms.com^
 ||oxwafbjf.com^
@@ -34055,7 +34066,6 @@
 ||omclacrv.com^
 ||d.ombriere.com^
 ||omasatra.com^
-||omappapi.com^
 ||event-router.olympics.com^
 ||primate.oleggera.com^
 ||olayomad.com^

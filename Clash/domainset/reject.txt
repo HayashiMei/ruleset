@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-04-17T09:38:47.216Z
-# Size: 67933
+# Last Updated: 2025-04-17T12:42:54.395Z
+# Size: 67943
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -432,6 +432,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.vxpcarcapffdp.global
 +.vuzhzlzswecvc.global
 +.vdeiseyswdfco.global
++.vbptgoyketwhv.global
 +.tfaxtyhedrwub.global
 +.qnsxtvhfnajnw.global
 +.pkehswqnitpvr.global
@@ -1689,6 +1690,7 @@ miniapp.qiluyidian.mobi
 +.yvdxhbuupndqo.love
 +.ursvgeoaweeli.love
 +.oaocrxsgsemdg.love
++.lwxegrybymzah.love
 +.lucnxzoylxmvu.love
 +.foccqbujbfcyj.love
 +.dkipfdjvrlird.love
@@ -2119,6 +2121,7 @@ nmbr.info
 +.cima-club.club
 +.aleapeact.club
 +.abtaurosa.club
++.sungtoaz.club
 +.pushdrop.club
 +.loading.maxdealz.club
 +.jmpmedia.club
@@ -3332,6 +3335,7 @@ grs.dbankcloud.asia
 +.diploeshobnobs.top
 +.denierswildest.top
 +.demosesoverate.top
++.copycatsoirees.top
 +.commoveartists.top
 +.buzzersunpaled.top
 +.v1.bonnesaffaires.top
@@ -3351,6 +3355,7 @@ grs.dbankcloud.asia
 +.zhangqifeng12.top
 +.ywusfyjhnpflr.top
 +.xqwrdegbmdfrv.top
++.wywkwqzkavlvw.top
 +.wylmzwklklyaz.top
 +.wwwwzerblvvqv.top
 +.wwvqboerllqqz.top
@@ -4829,6 +4834,7 @@ fumiad.dxys.pro
 +.mukindwouldm.org
 +.connect.memorialcare.org
 +.web.health.memorialcare.org
++.medlikeamate.org
 +.matterforiwa.org
 +.gtm.match-talent.org
 +.discover.maringeneral.org
@@ -4883,6 +4889,7 @@ ssl.360antivirus.org
 +.silkworm.westwoodmbc.org
 +.info.westerville.org
 +.wasalwayssu.org
++.voidthemhen.org
 +.marketing.visittucson.org
 +.marketing.valleyforge.org
 +.ok.usahelpline.org
@@ -27515,6 +27522,7 @@ simple.cloudsmith.com
 +.rtb-useast.adcannyads.com
 +.contact.adaptavist.com
 +.adactioner.com
++.ad2f8c6f8e.com
 +.cueohf.actifforum.com
 +.cueohf.actieforum.com
 +.actglimpse.com
@@ -30057,6 +30065,7 @@ tracking.klickthru.com
 +.eildralfl.com
 +.eulerian.eidershop.com
 +.7mx.eidershop.com
++.ehkualecb.com
 +.ptvurg.egricayir.com
 +.analytics.egernsund.com
 +.efreecode.com
@@ -30721,6 +30730,7 @@ advertise.baicizhan.com
 +.tr.email.archiexpo.com
 +.a8cllk.arahataen.com
 +.gkcqyo.aquazzura.com
++.aqndcybah.com
 +.aptimorph.com
 +.srqinq.apricotte.com
 +.appodealx.com
@@ -32185,6 +32195,7 @@ static.g.ppstream.com
 +.p8wj9zko.com
 +.ozongees.com
 +.ozobsaib.com
++.ozmbzowg.com
 +.analytics.oyorooms.com
 +.lxswqh.oyorooms.com
 +.oxwafbjf.com
@@ -32278,7 +32289,6 @@ geolocation.onetrust.com
 +.omclacrv.com
 +.d.ombriere.com
 +.omasatra.com
-+.omappapi.com
 +.event-router.olympics.com
 +.primate.oleggera.com
 +.olayomad.com

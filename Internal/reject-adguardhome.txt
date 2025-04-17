@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Thu, 17 Apr 2025 14:09:24 GMT
+! Last modified: Thu, 17 Apr 2025 14:14:03 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -2517,6 +2517,7 @@
 ||redtrack.cauly.asia^
 ||ad-m.asia^
 ||st-a.cdp.asia^
+||0.0.198.in-addr.arpa^
 ||load.msr.globaljet.aero^
 ||load.sgtm.aerotime.aero^
 ||marketing.cla.aero^
@@ -67423,7 +67424,7 @@
 ||godloveme.cn^
 ||freedrive.cn^
 |dsa-mfp.fengshows.cn^
-||mcdn.bilivideo.cn^
+||bilivideo.cn^
 ||pic.baihuawen.cn^
 ||somni.australia.cn^
 ||bd-china-1.appmobile.cn^

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-04-17T14:09:14.169Z
-# Size: 68551
+# Last Updated: 2025-04-17T14:13:53.800Z
+# Size: 68552
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -40700,6 +40700,7 @@ mobads-pre-config.cdn.bcebos.com
 miniapp-ad.cdn.bcebos.com
 fc-feed.cdn.bcebos.com
 +.ys2000.cdn.bcebos.com
+fyb-2.cdn.bcebos.com
 +.qwe0231141.bj.bcebos.com
 +.baiducom.bj.bcebos.com
 tob-cms.bj.bcebos.com

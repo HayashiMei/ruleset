@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-04-18T01:48:24.932Z
+// # Build 2025-04-18T03:12:04.324Z
 
 declare(strict_types=1);
 
@@ -1628,6 +1628,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,telega.one,Global',
         'DOMAIN-SUFFIX,minecraft-services.net,Global',
         'DOMAIN-SUFFIX,minecraftforum.net,Global',
+        'DOMAIN-SUFFIX,hubspotstarter.net,Global',
         'DOMAIN-SUFFIX,cloudfunctions.net,Global',
         'DOMAIN-SUFFIX,azurewebsites.net,Global',
         'DOMAIN-SUFFIX,azure-mobile.net,Global',
@@ -1712,6 +1713,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,returnyoutubedislikeapi.com,Global',
         'DOMAIN-SUFFIX,privateinternetaccess.com,Global',
         'DOMAIN-SUFFIX,returnyoutubedislike.com,Global',
+        'DOMAIN-SUFFIX,hubspotlinksstarter.com,Global',
         'DOMAIN-SUFFIX,lineshoppingseller.com,Global',
         'DOMAIN-SUFFIX,minecraftservices.com,Global',
         'DOMAIN-SUFFIX,githubusercontent.com,Global',

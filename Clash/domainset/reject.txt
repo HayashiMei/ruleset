@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-04-18T01:48:22.993Z
-# Size: 68571
+# Last Updated: 2025-04-18T03:12:02.603Z
+# Size: 68574
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -154,6 +154,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.data-8ec206415a.gnd.network
 +.progaming.monster
 +.headshot.monster
++.bundle.ppas.monster
 +.rgdkmg.maisonetloisirs.leclerc
 +.load.gtm.burnout.kitchen
 +.stats.madethis.gallery
@@ -4216,6 +4217,7 @@ grs.dbankcloud.asia
 +.ioaiqp.top
 +.hptidc.top
 +.hhausq.top
++.henqnv.top
 +.hauqou.top
 +.hauqks.top
 +.hahusa.top
@@ -64730,6 +64732,7 @@ render-web.11222.cn
 +.wn6y.cn
 +.bdjiaoben.wmxa.cn
 +.bdasd.wmxa.cn
++.wigk.cn
 +.wbe4.cn
 +.bd.watu.cn
 delivery-pc.wasu.cn

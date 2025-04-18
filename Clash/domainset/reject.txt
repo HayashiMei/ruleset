@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-04-17T14:13:53.800Z
-# Size: 68552
+# Last Updated: 2025-04-18T01:48:22.993Z
+# Size: 68571
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3424,6 +3424,7 @@ grs.dbankcloud.asia
 +.lqbvjmkoomyrj.top
 +.lmzhpzoycxjfn.top
 +.lmoozvlklrorj.top
++.llvlzvroqowmm.top
 +.ljybybyerzkry.top
 +.lingetunearth.top
 +.laqwnrajqknwe.top
@@ -3749,6 +3750,7 @@ grs.dbankcloud.asia
 +.jdyurlia.top
 +.jdipsuma.top
 +.jcokamia.top
++.jcfbgdbd.top
 +.iwursero.top
 +.iwerilxo.top
 +.iuytfvhl.top
@@ -3940,6 +3942,7 @@ grs.dbankcloud.asia
 +.ovcnmtk.top
 +.ouresdk.top
 +.ouiokaq.top
++.oucnmtk.top
 +.otimiyk.top
 +.osyliek.top
 +.ortlisk.top
@@ -5151,6 +5154,7 @@ advertise.baicizhan.org
 +.ssl.o.medscape.org
 +.masklink.org
 +.utiq.marmiton.org
++.tealium-proxy.libertex.org
 +.layer-ad.org
 +.ketchapp.org
 +.stats.indyhall.org
@@ -5425,6 +5429,7 @@ umdc.aliapp.org
 +.nexus.ensighten.tiaa.org
 +.metrics.tiaa.org
 +.target.tiaa.org
++.check3.tiaa.org
 +.target.test.tiaa.org
 +.marketing.stmh.org
 +.tr.etude.sncd.org
@@ -6099,6 +6104,7 @@ ads.weilitoutiao.net
 +.ptoorauptoud.net
 +.ptolauwadoay.net
 +.ptackoucmaib.net
++.psophagrooky.net
 +.psoostelrupt.net
 +.psoacickoots.net
 +.psoabojaksou.net
@@ -12403,6 +12409,7 @@ fkp.samsungcloudsolution.com
 +.hbbtv-track.prosiebensat1puls4.com
 +.ss.prorepubliqfitness.com
 +.propeller-tracking.com
++.promdamagecomplain.com
 +.progressproceeding.com
 +.load.gtm.profumidipolignano.com
 +.proftrafficcounter.com
@@ -21529,6 +21536,7 @@ httpdns-ocloud.heytapmobile.com
 +.info.drawingboard.com
 +.dracatwpeajg.com
 +.dpuopxowjops.com
++.dozenshallow.com
 +.tracker.downdetector.com
 +.toeopa.doutornature.com
 a.dounanhuahui.com
@@ -21750,6 +21758,7 @@ a.dounanhuahui.com
 +.target.champssports.com
 +.sanl.champssports.com
 +.chaipoodrort.com
++.cesarebientt.com
 +.ceryldelaine.com
 +.analytics.certifriedit.com
 +.centumshough.com
@@ -22274,6 +22283,7 @@ oppo.yidianzixun.com
 +.clownfish.wrestlingiq.com
 +.wowad.wow-classic.com
 +.metrics.worldmarket.com
++.workcahoots.com
 +.load.gtn.woollypanda.com
 +.woolenabled.com
 +.go.woodsidecap.com
@@ -23058,6 +23068,7 @@ visitors.thingiverse.com
 +.pretty-fly4.com
 +.preonesetro.com
 +.preferouter.com
++.pqyydjswkyc.com
 +.ppezijkacga.com
 +.moreinfo.powerpro360.com
 +.sst.power-ecard.com
@@ -24598,6 +24609,7 @@ httpdns.calorietech.com
 +.awjnkashupk.com
 +.avvzamazdpa.com
 +.gtm.avenuedusol.com
++.avaulroocke.com
 +.metrics.avastin-hcp.com
 +.t-s.avastin-hcp.com
 +.t.avastin-hcp.com
@@ -26249,6 +26261,7 @@ ads2.mediaarmor.com
 +.mapcommand.com
 +.api.manuarango.com
 +.mamydirect.com
++.eventsv2balanced.malpagames.com
 +.llama.mallardbay.com
 +.trck.asset.malcotools.com
 +.go.malcotools.com
@@ -27832,6 +27845,7 @@ simple.cloudsmith.com
 +.agagolemon.com
 +.agacelebir.com
 +.a8.aga-hakata.com
++.afvrolvial.com
 +.sc.afterelton.com
 +.metrics.affymetrix.com
 +.affiliride.com
@@ -29851,6 +29865,7 @@ tracking.klickthru.com
 +.bdcm.kandianla.com
 +.stat-ssl.kakakumag.com
 +.k3718qw08.com
++.geo.justwatch.com
 +.track.juststarz.com
 +.stat.juridicas.com
 +.p.junshi881.com
@@ -33655,7 +33670,7 @@ log-sdk.ksapisrv.com
 +.owl.heidipay.com
 +.metrics.heathrow.com
 +.tags.heathrow.com
-+.c.us.heap-api.com
++.heap-api.com
 +.hdmtools.com
 +.tmetrics.hdfcbank.com
 +.metrics.hdfcbank.com
@@ -35330,7 +35345,9 @@ feedback.windows.com
 +.analytics.unity3d.com
 +.unityads.unity3d.com
 +.mediation-tracking.prd.mz.internal.unity3d.com
++.ads-privacy-api.prd.mz.internal.unity3d.com
 +.tracking.prd.mz.internal.unity3d.com
++.pls.prd.mz.internal.unity3d.com
 +.ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 +.publisher-event.ads.prd.ie.internal.unity3d.com
 +.hwstats.unity3d.com
@@ -45474,6 +45491,7 @@ api-scout.vercel.app
 +.stats.geobox.app
 +.t.buyist.app
 +.tncid.app
++.data.replo.app
 +.badger.pager.app
 +.load.ss.hyred.app
 +.track.extra.app
@@ -64793,6 +64811,7 @@ adlaunch.qtfm.cn
 +.qnki.cn
 +.qnhi.cn
 +.qkax.cn
++.qjuy.cn
 +.news.qcyz.cn
 +.pqav.cn
 +.pjwk.cn

@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Fri, 18 Apr 2025 07:41:56 GMT
+! Last modified: Fri, 18 Apr 2025 12:41:17 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -769,6 +769,7 @@
 ||wspfskknmnzvq.rocks^
 ||uwqsacaoeshlz.rocks^
 ||texsxhprkkljb.rocks^
+||ntsnaeutglamx.rocks^
 ||nrdpfnpqunyle.rocks^
 ||mdrwjsijuqvtn.rocks^
 ||kxdxsbyomyuim.rocks^
@@ -1102,6 +1103,7 @@
 ||obvdcylwtpaaa.tech^
 ||nghlsfshnptix.tech^
 ||lxiapwwqfcbms.tech^
+||gjjaefsketwgi.tech^
 ||ehlrxixabvzbo.tech^
 ||dxakvollzguju.tech^
 ||dtrurjpkugcsv.tech^
@@ -1592,6 +1594,7 @@
 ||ritsubrince.shop^
 ||riledbiders.shop^
 ||praxeandean.shop^
+||pouffstoast.shop^
 ||persesdates.shop^
 ||peglessbath.shop^
 ||pangiumsulu.shop^
@@ -3670,6 +3673,7 @@
 ||ywusfyjhnpflr.top^
 ||xqwrdegbmdfrv.top^
 ||wywkwqzkavlvw.top^
+||wylmzwklkljwr.top^
 ||wwwwzerblvvqv.top^
 ||wwvqboerllqqz.top^
 ||wwaeljamkvayk.top^
@@ -26629,6 +26633,7 @@
 ||qirhpurtyo.com^
 ||load.pickle.qinshealth.com^
 ||qidnujocmf.com^
+||qibrhyfizc.com^
 ||qibkkioqqw.com^
 ||qfeadpmagq.com^
 ||qelqlunebz.com^

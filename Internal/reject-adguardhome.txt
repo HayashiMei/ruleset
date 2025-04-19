@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sat, 19 Apr 2025 06:47:23 GMT
+! Last modified: Sat, 19 Apr 2025 12:31:58 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -567,9 +567,11 @@
 ||data-84a0f3455d.transfermarkt.world^
 ||data-1c0a3d83e3.transfermarkt.world^
 ||rechenschieber.transfermarkt.world^
+||tgfkqpvxzcfxq.world^
 ||pdwdbsfgkxltg.world^
 ||nkdccsiwixvzj.world^
 ||mizytadpwfswa.world^
+||mciymtdlsatav.world^
 ||lwmpocteuzldy.world^
 ||kezesarijvytg.world^
 ||gdajuytgupptx.world^
@@ -1394,6 +1396,7 @@
 ||server.toca.site^
 ||frap.site^
 ||egoi.site^
+||drem.site^
 ||gg.divj.site^
 ||krill.far.site^
 ||thelastpicture.show^
@@ -1667,6 +1670,7 @@
 ||awunkse72.shop^
 ||al.amiami345.shop^
 ||yhderd69.shop^
+||teildult.shop^
 ||pungar85.shop^
 ||muntfd62.shop^
 ||ss.kamaltec.shop^
@@ -3655,6 +3659,7 @@
 ||xqwrdegbmdfrv.top^
 ||wywkwqzkavlvw.top^
 ||wylmzwklkljwr.top^
+||wyaoormajvwqj.top^
 ||wwwwzerblvvqv.top^
 ||wwvqboerllqqz.top^
 ||wwaeljamkvayk.top^
@@ -5316,6 +5321,7 @@
 ||info.protiviticg.org^
 ||procyoncoin.org^
 ||potrerocoin.org^
+||plewhocaabo.org^
 ||piratechain.org^
 ||phoenixcoin.org^
 ||panyofhisow.org^
@@ -5369,6 +5375,7 @@
 ||bitcoinflex.org^
 ||bitcoincore.org^
 ||metrics.billygraham.org^
+||atyoureatth.org^
 ||appstorrent.org^
 ||stats.appcessible.org^
 ||marketing.amerindrisk.org^
@@ -12400,6 +12407,7 @@
 ||framessemicolonought.com^
 ||fortpavilioncamomile.com^
 ||flyingsquirellsmooch.com^
+||flirtgirles-romances.com^
 ||tr.news.flandrintechnologies.com^
 ||marketing.firstchoicebrokerage.com^
 ||click.track.financialclaritydays.com^
@@ -17019,11 +17027,13 @@
 ||trusting-offer.com^
 ||trk.truesolarrates.com^
 ||trk-aspernatur.com^
+||tripsisvellums.com^
 ||analytics.tributaryfunds.com^
 ||app.tribeathletics.com^
 ||t.tribeathletics.com^
 ||treasurequarry.com^
 ||affiliates.treasureisland.com^
+||travelsplayboy.com^
 ||marketing.travelportland.com^
 ||ads.travelaudience.com^
 ||meta-events.trailrunnermag.com^
@@ -18173,6 +18183,7 @@
 ||d.bwt-industries.com^
 ||buy-briteblaze.com^
 ||buxomerrentage.com^
+||busjevtqiihkle.com^
 ||bushsurprising.com^
 ||bunjaraserumal.com^
 ||quokka.bulkbuyhosting.com^
@@ -18502,6 +18513,7 @@
 ||gybhmx.whateverworks.com^
 ||app.whartoncenter.com^
 ||t.whartoncenter.com^
+||wglvbmqaypjps.com^
 ||marketing.westwoodgroup.com^
 ||wellworn-lead.com^
 ||shgefd.week-end-turf.com^
@@ -19337,6 +19349,7 @@
 ||tracker.marinsoftware.com^
 ||oxtrmw.marinarinaldi.com^
 ||mktg.marceldigital.com^
+||manwaybawneen.com^
 ||jwvazl.mansurgavriel.com^
 ||sgsuya.manoutfitters.com^
 ||maniconclavis.com^
@@ -19734,6 +19747,7 @@
 ||7345023508.fxm9485766783.com^
 ||communication.futuresummits.com^
 ||fusoidactuate.com^
+||fundtraveller.com^
 ||ebis.funai-finance.com^
 ||fulheaddedfea.com^
 ||cgmbbp.fuertehoteles.com^
@@ -19766,6 +19780,7 @@
 ||forbidcrenels.com^
 ||forarchenchan.com^
 ||metrics.foodnavigator.com^
+||foldinsinuate.com^
 ||foldedaddress.com^
 ||fluingdulotic.com^
 ||fluffytracing.com^
@@ -19902,6 +19917,7 @@
 ||dmvbdfblevxvx.com^
 ||silverfish.djordjevanjek.com^
 ||sw88.disneyrewards.com^
+||disgustingmad.com^
 ||disguised-dad.com^
 ||ssa.discoveryplus.com^
 ||sa.discoveryplus.com^
@@ -19942,6 +19958,7 @@
 ||dedicatedpool.com^
 ||uhofbu.declicfitness.com^
 ||tr.lettre.dechets-infos.com^
+||debatabletent.com^
 ||stoat.death-to-ie11.com^
 ||track.dealextremist.com^
 ||ref.dealerinspire.com^
@@ -21183,6 +21200,7 @@
 ||connect.purebranding.com^
 ||app.purduesports.com^
 ||t.purduesports.com^
+||purchaselock.com^
 ||pumpmywallet.com^
 ||pulpybizarre.com^
 ||pugsgivehugs.com^
@@ -21917,6 +21935,7 @@
 ||mcuclf.hismileteeth.com^
 ||hikbzyfwomky.com^
 ||lmorsb.highstreettv.com^
+||hidlessonana.com^
 ||stats.hickoryfarms.com^
 ||hhorkypapnri.com^
 ||hfogzeaggalh.com^
@@ -22968,6 +22987,7 @@
 ||your-notice.com^
 ||log.yougameover.com^
 ||youdontcare.com^
+||youdloaners.com^
 ||yigvbmhqxwo.com^
 ||yieldselect.com^
 ||static-ssp.yidianzixun.com^
@@ -23128,9 +23148,11 @@
 ||vcommission.com^
 ||marketing.vcasoftware.com^
 ||vazticlkivi.com^
+||vastilymoid.com^
 ||imxfck.varusteleka.com^
 ||info.vaporstream.com^
 ||vapjcfgihnu.com^
+||vanwuqjujnf.com^
 ||mdws.valleyfirst.com^
 ||app.uticacomets.com^
 ||t.uticacomets.com^
@@ -24736,6 +24758,7 @@
 ||info.freedom-iot.com^
 ||freecontent.com^
 ||aviite.freaksstore.com^
+||fratstepefy.com^
 ||s.fraservotes.com^
 ||phhjak.frame-store.com^
 ||fpoongwzedu.com^
@@ -26214,6 +26237,7 @@
 ||aon.smartbrief.com^
 ||aom.smartbrief.com^
 ||hemcgm.smaphocase.com^
+||slwrozacmq.com^
 ||tr.slvrbullet.com^
 ||track.slimtricks.com^
 ||track.slickinbox.com^
@@ -26523,6 +26547,7 @@
 ||xml-v4.pubsfusion.com^
 ||filter.pubsfusion.com^
 ||publicsofa.com^
+||ptelastaxo.com^
 ||ptaphilera.com^
 ||psunseewhu.com^
 ||psoroumukr.com^
@@ -28915,6 +28940,7 @@
 ||0byv9mgbn0.com^
 ||0b74655a28.com^
 ||0b63fb1aad.com^
+||08082c0ad5.com^
 ||08031fef00.com^
 ||42a95337ac.07a243cfe3.com^
 ||d37586d118.054f8d0c5a.com^
@@ -30201,6 +30227,7 @@
 ||nmgassets.com^
 ||nkdgnsfsk.com^
 ||metrics.nissanusa.com^
+||nipechala.com^
 ||mine.ninjacoin.com^
 ||nimbocoin.com^
 ||marketing.nimblevox.com^
@@ -35066,6 +35093,7 @@
 ||fgekvn.el-homme.com^
 ||eitilbyr.com^
 ||eisnaisv.com^
+||eiotljxe.com^
 ||data-ab8e72b54c.einstieg.com^
 ||ohshmx.eightcap.com^
 ||metrics.ehstoday.com^
@@ -38732,6 +38760,7 @@
 ||btgmine.com^
 ||btcmine.com^
 ||aff.bstatic.com^
+||bsizoia.com^
 ||d.bruseco.com^
 ||load.ss.brunata.com^
 ||brulpha.com^

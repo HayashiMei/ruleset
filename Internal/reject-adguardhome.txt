@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sat, 19 Apr 2025 12:31:58 GMT
+! Last modified: Sat, 19 Apr 2025 12:51:43 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -4569,7 +4569,6 @@
 ||oakmn.top^
 ||ntdll.top^
 ||laoqo.top^
-||lamba.top^
 ||koauq.top^
 ||hruk.jjikk.top^
 ||jauql.top^
@@ -4716,7 +4715,6 @@
 ||lucky-work.pro^
 ||gruphuriju.pro^
 ||green-mark.pro^
-||googleplay.pro^
 ||glopsujuba.pro^
 ||dizzy-drag.pro^
 ||cryptomine.pro^
@@ -8108,7 +8106,6 @@
 ||tracking.hivecloud.net^
 ||client-telemetry.hingeprod.net^
 ||heejuchee.net^
-||hashncash.net^
 ||hashhorse.net^
 ||hapydatte.net^
 ||xyrccr.hana-yume.net^
@@ -21464,7 +21461,6 @@
 ||newslikemeds.com^
 ||hcjpbc.newschoolers.com^
 ||tr.news-ingerop.com^
-||newminersage.com^
 ||metrics.newequipment.com^
 ||imk.neweggimages.com^
 ||newartreview.com^
@@ -24267,7 +24263,6 @@
 ||xml-v4.mediataggus.com^
 ||xml.mediataggus.com^
 ||cdn.creative.medialytics.com^
-|c.medialytics.com^
 ||sherlock.mediaddress.com^
 ||lthbdc.mechakaitai.com^
 ||nxamsj.mecatechnic.com^
@@ -27257,7 +27252,6 @@
 ||ugzbsu.klimaworld.com^
 ||wsogqp.klikdokter.com^
 ||insights.kitestring.com^
-||kissdoujin.com^
 ||gtjjxn.kirbypaint.com^
 ||info.kirbybuilt.com^
 ||trk.kirbybuilt.com^
@@ -30462,8 +30456,6 @@
 ||marketing.mhe-demag.com^
 ||counter.mgronline.com^
 ||imp.mgronline.com^
-|adstats.mgc-games.com^
-|search.mgc-games.com^
 ||chui.tristes.mfisswger.com^
 ||mfcewkrob.com^
 ||s.metroland.com^
@@ -32212,6 +32204,7 @@
 ||amkaxhrti.com^
 ||teczbq.amicashop.com^
 ||info.amerprint.com^
+||amazonaws.com^
 ||alwvpaomv.com^
 ||altusfund.com^
 ||altcoinix.com^
@@ -46613,7 +46606,6 @@
 ||powerain.biz^
 ||cueohf.pit-lane.biz^
 ||goodkino.biz^
-||bitcoinn.biz^
 ||4finance.biz^
 ||delivery.sexyxxx.biz^
 ||serch26.biz^
@@ -46978,7 +46970,6 @@
 ||news.festafriends.us^
 ||vaporumpool.us^
 ||squishycoin.us^
-||hashforcash.us^
 ||mail.dolce-gusto.us^
 ||metrics.calvinklein.us^
 ||news.brasiljogos.us^
@@ -49645,7 +49636,6 @@
 ||counter.photopulse.ru^
 ||odnaknopka.ru^
 ||swkism.moon-trade.ru^
-||moneropool.ru^
 ||fkmdky.lifehacker.ru^
 ||jwduahujge.ru^
 ||icanmining.ru^
@@ -49678,7 +49668,6 @@
 ||vstat.rtr-vesti.ru^
 ||gnshwf.room-park.ru^
 ||moviead55.ru^
-||microsolt.ru^
 ||counter.megaindex.ru^
 ||counter.megagroup.ru^
 ||medialand.ru^
@@ -62460,7 +62449,6 @@
 ||utiq.tvspielfilm.de^
 ||tags.tvspielfilm.de^
 ||data-5cc6bee9f2.tu-dortmund.de^
-||trossmining.de^
 ||kqdqrj.traktorpool.de^
 ||eua.trailerplus.de^
 ||my.top4running.de^
@@ -66065,7 +66053,6 @@
 ||cloudcoins.co^
 ||bitconnect.co^
 ||gsrojm.apothekary.co^
-||webmining.co^
 ||hyena.wearegray.co^
 ||vectorium.co^
 ||ssvtez.thelovery.co^

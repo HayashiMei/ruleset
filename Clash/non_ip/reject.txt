@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-04-19T12:51:34.593Z
-# Size: 248
+# Last Updated: 2025-04-19T13:02:04.171Z
+# Size: 255
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -26,6 +26,7 @@ DOMAIN,this_rule_set_is_made_by_sukkaw.skk.moe
 DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,brightinitiative.com
 DOMAIN-SUFFIX,rubiconproject.com
+DOMAIN-SUFFIX,kanuassociates.com
 DOMAIN-SUFFIX,whatismyippro.com
 DOMAIN,httpdns.volcengineapi.com
 DOMAIN-SUFFIX,hola-shopping.com
@@ -51,10 +52,12 @@ DOMAIN,httpdns.yunxindns.com
 DOMAIN-SUFFIX,thecodeil.com
 DOMAIN,stun.smartgslb.com
 DOMAIN-SUFFIX,notifysrv.com
+DOMAIN-SUFFIX,newzgames.com
 DOMAIN-SUFFIX,brightvpn.com
 DOMAIN,httpdns.bilivideo.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,taxility.com
 DOMAIN-SUFFIX,proxyway.com
 DOMAIN,api-js.mixpanel.com
 DOMAIN-SUFFIX,lum-bext.com
@@ -74,11 +77,13 @@ DOMAIN-SUFFIX,classify-client.services.mozilla.com
 DOMAIN-SUFFIX,minexmr.com
 DOMAIN,httpdnsvip.meituan.com
 DOMAIN,httpdns.meituan.com
+DOMAIN-SUFFIX,luxxeeu.com
 DOMAIN-SUFFIX,lumtest.com
 DOMAIN-SUFFIX,lum-lpm.com
 DOMAIN-SUFFIX,holacdn.com
 DOMAIN-SUFFIX,histats.com
 DOMAIN-SUFFIX,earnapp.com
+DOMAIN-SUFFIX,choyoga.com
 DOMAIN,httpdns1.cc.cdnhwc5.com
 DOMAIN,httpdns.c.cdnhwc2.com
 DOMAIN-SUFFIX,brdtest.com
@@ -118,6 +123,8 @@ DOMAIN-SUFFIX,kimo.tw
 DOMAIN,doh.ptqy.gitv.tv
 DOMAIN-SUFFIX,hola.sk
 DOMAIN-SUFFIX,hola.com.sg
+DOMAIN-SUFFIX,shengen.ru
+DOMAIN-SUFFIX,hut1.ru
 DOMAIN-SUFFIX,hola.ph
 DOMAIN-SUFFIX,l-agent.me
 DOMAIN-SUFFIX,wakuwaku.ne.jp

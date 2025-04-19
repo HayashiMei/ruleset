@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sat, 19 Apr 2025 12:51:43 GMT
+! Last modified: Sat, 19 Apr 2025 13:02:13 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -1550,6 +1550,7 @@
 ||givingpokunt.shop^
 ||fulcraldongs.shop^
 ||firmedderere.shop^
+||feturequalms.shop^
 ||enointselety.shop^
 ||earningaerie.shop^
 ||duretbuffing.shop^
@@ -17672,6 +17673,7 @@
 ||images.portal.keppelelectric.com^
 ||marketing.kemperbenefits.com^
 ||sanalytics.kbdesignlondon.com^
+||kanuassociates.com^
 ||data.mktg.kansasspeedway.com^
 ||kaiu-marketing.com^
 ||ai.kaishabaikyaku.com^
@@ -17714,6 +17716,7 @@
 ||insightexpress.com^
 ||servedby.insideradverts.com^
 ||qri2r94eeajr.innovationcast.com^
+||innovatedating.com^
 ||a8-printing.ink-revolution.com^
 ||inherentdecide.com^
 ||analytics.infosysequinox.com^
@@ -18979,6 +18982,7 @@
 ||uwezxr.provenwinners.com^
 ||nsnomj.protur-hotels.com^
 ||tracking.protracknzone.com^
+||prosystemorgo.com^
 ||info.prontopilates.com^
 ||track.promoworldhub.com^
 ||jwtnmo.promovacances.com^
@@ -25053,6 +25057,7 @@
 ||load.ssgtm.cphgrooming.com^
 ||cozeswracks.com^
 ||images.learn.coxbusiness.com^
+||covidvcfund.com^
 ||covettunica.com^
 ||trac.couponandgo.com^
 ||marten.countertype.com^
@@ -30240,6 +30245,7 @@
 ||tk.nhlottery.com^
 ||go.ngtvalves.com^
 ||site.newzstand.com^
+||newzgames.com^
 ||stats2.newyorker.com^
 ||sstats.newyorker.com^
 ||ed1.newtekone.com^
@@ -32976,6 +32982,7 @@
 ||uilogging.tcdevops.com^
 ||ebis-tracking.tcb-mito.com^
 ||analytics.tbsperks.com^
+||taxility.com^
 ||somni.tatacard.com^
 ||tartator.com^
 ||tapsense.com^
@@ -37630,6 +37637,7 @@
 ||macdown.com^
 ||chromatography.mac-mod.com^
 ||app.go.maas360.com^
+||luxxeeu.com^
 ||kyompa.luxdeco.com^
 ||luunels.com^
 ||luuming.com^
@@ -38662,6 +38670,7 @@
 ||analytics.cincopa.com^
 ||sbpb1.chuiyue.com^
 ||bd3.chuiyue.com^
+||choyoga.com^
 ||a8.choomia.com^
 ||z371.chicoer.com^
 ||dxrkvm.cheryls.com^
@@ -49599,6 +49608,7 @@
 ||mining-help.ru^
 ||gmufag.marieclaire.ru^
 ||banner.hpmdnetwork.ru^
+||hoster-test.ru^
 ||ucswim.goldenpatch.ru^
 ||uzjjhl.fitnesslook.ru^
 ||mtbflj.elementaree.ru^
@@ -49783,6 +49793,7 @@
 ||widget.sparrow.ru^
 ||tags.soloway.ru^
 ||counter.smotrim.ru^
+||shengen.ru^
 ||stats.rustore.ru^
 ||rotaban.ru^
 ||cnt.ramlife.ru^
@@ -50016,6 +50027,7 @@
 ||r0.mail.ru^
 ||an.mail.ru^
 ||oufuqh.kant.ru^
+||hut1.ru^
 ||st.film.ru^
 ||cqvqov.elex.ru^
 ||top.elec.ru^

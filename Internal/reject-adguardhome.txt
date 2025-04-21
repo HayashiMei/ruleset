@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Mon, 21 Apr 2025 08:18:36 GMT
+! Last modified: Mon, 21 Apr 2025 12:42:23 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -1105,6 +1105,7 @@
 ||obvdcylwtpaaa.tech^
 ||nghlsfshnptix.tech^
 ||lxiapwwqfcbms.tech^
+||gsrctroclqloz.tech^
 ||gjjaefsketwgi.tech^
 ||ehlrxixabvzbo.tech^
 ||dxakvollzguju.tech^
@@ -3723,6 +3724,7 @@
 ||rmwzbombkqelv.top^
 ||rjzbvmbybvabv.top^
 ||rewaawokwmjba.top^
+||rbqlbokvorwoa.top^
 ||randieraortal.top^
 ||r5twojylmzsym.top^
 ||qyromjlyvzymz.top^
@@ -7230,6 +7232,7 @@
 ||pyowgv.tequipment.net^
 ||fcpszk.telestream.net^
 ||gemtvo.teflcourse.net^
+||teegluzahy.net^
 ||ebis-tracking.tcb-beauty.net^
 ||a8clkcv.tcb-beauty.net^
 ||lfercl.tcb-beauty.net^
@@ -14514,6 +14517,7 @@
 ||amazingbtcdeposit.com^
 ||learn.altsourcesoftware.com^
 ||elq-ic01.allthingsinsights.com^
+||allowwholikedtoco.com^
 ||allow-to-continue.com^
 ||trck.info.alliantfoundation.com^
 ||go.info.alliantfoundation.com^
@@ -17720,6 +17724,7 @@
 ||images.portal.keppelelectric.com^
 ||marketing.kemperbenefits.com^
 ||kcadxjoxkggcui.com^
+||kbrnghyurjxoxx.com^
 ||sanalytics.kbdesignlondon.com^
 ||kanuassociates.com^
 ||data.mktg.kansasspeedway.com^
@@ -19194,6 +19199,7 @@
 ||mksogv.oneclickdrive.com^
 ||marketing.onecallglobal.com^
 ||onclickgenius.com^
+||onclckmetrics.com^
 ||ma.omniaintranet.com^
 ||omegadblocker.com^
 ||metrics.olgaintimates.com^
@@ -19534,6 +19540,7 @@
 ||metrics.knowyourtrigs.com^
 ||kneeletromero.com^
 ||znmtka.kikocosmetics.com^
+||kikeqrozcupit.com^
 ||kfvjdvjzhddhc.com^
 ||tracker.keywordintent.com^
 ||keywordblocks.com^
@@ -20728,6 +20735,7 @@
 ||a8.uluwatutiger.com^
 ||data.comunicaciones.ultramotorhn.com^
 ||data.info.ultramotorhn.com^
+||ujjsiijbgxpk.com^
 ||info.uconnhuskies.com^
 ||t.uconnhuskies.com^
 ||images.ubmamgevents.com^
@@ -21440,6 +21448,7 @@
 ||o.otrestaurant.com^
 ||otqjfafreaxh.com^
 ||iwzspv.oswaldsupply.com^
+||ostekoocupee.com^
 ||ossshucklean.com^
 ||logistics.osmworldwide.com^
 ||exgrub.orthoticshop.com^
@@ -23007,6 +23016,7 @@
 ||aczqkeofzrag.com^
 ||actonservice.com^
 ||cpbain.activatedyou.com^
+||acoponposeur.com^
 ||tr.mp.aconclue-pro.com^
 ||m.acmgloballab.com^
 ||aclpitquxfad.com^
@@ -26835,7 +26845,7 @@
 ||onelivetra.com^
 ||onclickrev.com^
 ||onclickmax.com^
-||js.onclckinpg.com^
+||onclckinpg.com^
 ||yvdaeg.on-running.com^
 ||dkno.on-channel.com^
 ||fi.on-channel.com^
@@ -28334,6 +28344,7 @@
 ||cheetieaha.com^
 ||loggly.cheatsheet.com^
 ||chauxuzauy.com^
+||chaturbate.com^
 ||oms.chatelaine.com^
 ||chartboost.com^
 ||chaoyumiao.com^
@@ -30247,6 +30258,7 @@
 ||sstats.onelambda.com^
 ||js.onclckpsh.com^
 ||onclckpop.com^
+||onclckinp.com^
 ||onclckbnr.com^
 ||omnitagjs.com^
 ||omnhugquv.com^
@@ -33898,6 +33910,7 @@
 ||onclcktg.com^
 ||js.onclckpp.com^
 ||onclckmn.com^
+||onclckip.com^
 ||onclasrv.com^
 ||onclarck.com^
 ||onbxftrk.com^
@@ -34145,7 +34158,6 @@
 ||molepool.com^
 ||moksoxos.com^
 ||stats.mokeedev.com^
-||moengage.com^
 ||odepcf.modetour.com^
 ||metrics.modcloth.com^
 ||stats.modcloth.com^
@@ -34893,6 +34905,7 @@
 ||gishejuy.com^
 ||stats.girls1st.com^
 ||giqepofa.com^
+||ginhpozi.com^
 ||marketing.giantsrl.com^
 ||bqwfom.giannibg.com^
 ||ghyzubhr.com^

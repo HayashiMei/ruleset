@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-04-21T08:18:26.805Z
-# Size: 67665
+# Last Updated: 2025-04-21T12:42:13.039Z
+# Size: 67678
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -976,6 +976,7 @@ cwa.html.zone
 +.obvdcylwtpaaa.tech
 +.nghlsfshnptix.tech
 +.lxiapwwqfcbms.tech
++.gsrctroclqloz.tech
 +.gjjaefsketwgi.tech
 +.ehlrxixabvzbo.tech
 +.dxakvollzguju.tech
@@ -3363,6 +3364,7 @@ grs.dbankcloud.asia
 +.rmwzbombkqelv.top
 +.rjzbvmbybvabv.top
 +.rewaawokwmjba.top
++.rbqlbokvorwoa.top
 +.randieraortal.top
 +.r5twojylmzsym.top
 +.qyromjlyvzymz.top
@@ -6456,6 +6458,7 @@ proxyhog.prisma-data.net
 +.pyowgv.tequipment.net
 +.fcpszk.telestream.net
 +.gemtvo.teflcourse.net
++.teegluzahy.net
 +.ebis-tracking.tcb-beauty.net
 +.a8clkcv.tcb-beauty.net
 +.lfercl.tcb-beauty.net
@@ -13466,6 +13469,7 @@ fkp.samsungcloudsolution.com
 +.marketing.americanbathgroup.com
 +.learn.altsourcesoftware.com
 +.elq-ic01.allthingsinsights.com
++.allowwholikedtoco.com
 +.allow-to-continue.com
 +.trck.info.alliantfoundation.com
 +.go.info.alliantfoundation.com
@@ -16612,6 +16616,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.images.portal.keppelelectric.com
 +.marketing.kemperbenefits.com
 +.kcadxjoxkggcui.com
++.kbrnghyurjxoxx.com
 +.sanalytics.kbdesignlondon.com
 +.kanuassociates.com
 +.data.mktg.kansasspeedway.com
@@ -18041,6 +18046,7 @@ api-ads.tiantianqutao.com
 +.mksogv.oneclickdrive.com
 +.marketing.onecallglobal.com
 +.onclickgenius.com
++.onclckmetrics.com
 +.ma.omniaintranet.com
 +.omegadblocker.com
 +.metrics.olgaintimates.com
@@ -18368,6 +18374,7 @@ api-ads.tiantianqutao.com
 +.metrics.knowyourtrigs.com
 +.kneeletromero.com
 +.znmtka.kikocosmetics.com
++.kikeqrozcupit.com
 +.kfvjdvjzhddhc.com
 +.tracker.keywordintent.com
 +.keywordblocks.com
@@ -19521,6 +19528,7 @@ badjs.weixinbridge.com
 +.a8.uluwatutiger.com
 +.data.comunicaciones.ultramotorhn.com
 +.data.info.ultramotorhn.com
++.ujjsiijbgxpk.com
 +.info.uconnhuskies.com
 +.t.uconnhuskies.com
 +.images.ubmamgevents.com
@@ -20219,6 +20227,7 @@ js.partnerstack.com
 +.o.otrestaurant.com
 +.otqjfafreaxh.com
 +.iwzspv.oswaldsupply.com
++.ostekoocupee.com
 +.ossshucklean.com
 +.logistics.osmworldwide.com
 +.exgrub.orthoticshop.com
@@ -21722,6 +21731,7 @@ a.dounanhuahui.com
 +.aczqkeofzrag.com
 +.actonservice.com
 +.cpbain.activatedyou.com
++.acoponposeur.com
 +.tr.mp.aconclue-pro.com
 +.m.acmgloballab.com
 +.aclpitquxfad.com
@@ -25380,7 +25390,7 @@ httpdns.push.oppomobile.com
 +.onelivetra.com
 +.onclickrev.com
 +.onclickmax.com
-+.js.onclckinpg.com
++.onclckinpg.com
 +.yvdaeg.on-running.com
 +.dkno.on-channel.com
 +.fi.on-channel.com
@@ -26810,6 +26820,7 @@ simple.cloudsmith.com
 +.cheetieaha.com
 +.loggly.cheatsheet.com
 +.chauxuzauy.com
++.chaturbate.com
 +.oms.chatelaine.com
 +.chartboost.com
 +.chaoyumiao.com
@@ -28638,6 +28649,7 @@ samsungeurope.eu.qualtrics.com
 +.sstats.onelambda.com
 +.js.onclckpsh.com
 +.onclckpop.com
++.onclckinp.com
 +.onclckbnr.com
 +.omnitagjs.com
 +.omnhugquv.com
@@ -32124,6 +32136,7 @@ geolocation.onetrust.com
 +.onclcktg.com
 +.js.onclckpp.com
 +.onclckmn.com
++.onclckip.com
 +.onclasrv.com
 +.onclarck.com
 +.onbxftrk.com
@@ -32357,7 +32370,6 @@ vali.cp31.ott.cibntv.net.302.myalicdn.com
 +.swa.monabanq.com
 +.moksoxos.com
 +.stats.mokeedev.com
-+.moengage.com
 +.odepcf.modetour.com
 +.metrics.modcloth.com
 +.stats.modcloth.com
@@ -33064,6 +33076,7 @@ ads.gmodules.com
 +.gishejuy.com
 +.stats.girls1st.com
 +.giqepofa.com
++.ginhpozi.com
 +.marketing.giantsrl.com
 +.bqwfom.giannibg.com
 +.ghyzubhr.com

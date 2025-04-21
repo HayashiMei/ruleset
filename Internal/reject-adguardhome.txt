@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Mon, 21 Apr 2025 12:42:23 GMT
+! Last modified: Mon, 21 Apr 2025 13:10:47 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -330,6 +330,7 @@
 ||bwhuyauklndvt.online^
 ||lp.bemestarunido.online^
 ||bczmrdfjkesgf.online^
+||awaidxotovdoe.online^
 ||apdcekrulrpjd.online^
 ||maintenant.votre-succes.online^
 ||tycell.trycellucare.online^
@@ -1002,6 +1003,7 @@
 ||livxlilsq.click^
 ||bindirect.click^
 ||afiliapub.click^
+||adservice.click^
 ||pnwrs5xz.click^
 ||pheegoab.click^
 ||aleksa.mtxbreak.click^
@@ -1922,6 +1924,7 @@
 ||mpool.live^
 ||stats.doors.live^
 ||avads.live^
+||xham.live^
 ||tracker.uira.live^
 ||cheese.guac.live^
 ||ingress-comporellon.ewp.live^
@@ -2077,6 +2080,7 @@
 ||leopard.joytotheworld.info^
 ||getrunkhomuto.info^
 ||experianmatch.info^
+||xhamsterlive.info^
 ||usinesmycete.info^
 ||trustzonevpn.info^
 ||spotscenered.info^
@@ -2401,6 +2405,7 @@
 ||69v.club^
 ||pig.notion.chat^
 ||xtube.chat^
+||strp.chat^
 ||stellite.cash^
 ||gopool.cash^
 ||kotia.cash^
@@ -3696,6 +3701,7 @@
 ||wkvvzeqybmmlv.top^
 ||wkmorvzawmryv.top^
 ||wkamwqeoqozzm.top^
+||wjebboljovowm.top^
 ||wewlorozwolyz.top^
 ||wevrwqjqemkyj.top^
 ||welbljlvmmyzw.top^
@@ -3780,6 +3786,7 @@
 ||jiggledanezeh.top^
 ||jelokerrvvjoq.top^
 ||jekzyyyljvyww.top^
+||hijackscovido.top^
 ||hellerraucous.top^
 ||hchus5739dmew.top^
 ||hardishyallow.top^
@@ -3895,6 +3902,7 @@
 ||zamiasbrass.top^
 ||wacapousoth.top^
 ||voltoishime.top^
+||tritmapwise.top^
 ||tombaltiled.top^
 ||tessaragair.top^
 ||tagaloanger.top^
@@ -4719,6 +4727,7 @@
 ||tr.buenasofertas.pro^
 ||woeful-trash.pro^
 ||wheptostethy.pro^
+||webbedattack.pro^
 ||relievedsong.pro^
 ||nathanaeldan.pro^
 ||mediocrerope.pro^
@@ -5878,6 +5887,7 @@
 ||polarbear.codeday.org^
 ||ces2007.org^
 ||connect.centura.org^
+||cdnlogs.org^
 ||ccminer.org^
 ||stats.carrot2.org^
 ||bitcoin.org^
@@ -11331,6 +11341,7 @@
 ||stressfulproperlyrestrain.com^
 ||metrics.sportsnutritionsummit-usa.com^
 ||somethingprecursorfairfax.com^
+||sinisteruniversityharmful.com^
 ||shoutmandatoryimplication.com^
 ||news.scmanufacturingconference.com^
 ||lcfhyh.rejuvenation-therapeutics.com^
@@ -17251,6 +17262,7 @@
 ||analytics.sixtmiddleeast.com^
 ||analytics.sixfigureswine.com^
 ||axp.siouxlandproud.com^
+||sinwardwethers.com^
 ||sincerebuffalo.com^
 ||cnameadebisu.sincere-vision.com^
 ||stats.simplinetworks.com^
@@ -17871,6 +17883,7 @@
 ||pstat.goodremotejobs.com^
 ||tagging.weightloss.goodbodyclinic.com^
 ||insights.goodandprosper.com^
+||gonakiecullies.com^
 ||goldfishgrowth.com^
 ||rtk.trk.goldencarepath.com^
 ||golden-gateway.com^
@@ -18813,6 +18826,7 @@
 ||supersonicads.com^
 ||gobeyond.superiorgroup.com^
 ||vomiyt.superimmoneuf.com^
+||superchatlive.com^
 ||stats.suncityherald.com^
 ||summerhamster.com^
 ||stylish-knife.com^
@@ -18842,6 +18856,7 @@
 ||sqypavgncjcyh.com^
 ||tbgzda.spyassociates.com^
 ||sst.spoiltsociety.com^
+||splendidsugar.com^
 ||spirteddvaita.com^
 ||marketing.spinnakermgmt.com^
 ||specificmedia.com^
@@ -19747,6 +19762,7 @@
 ||googlevads-cn.com^
 ||ctr.goldtreetoday.com^
 ||track.goldenconcept.com^
+||goaptaideeshi.com^
 ||glum-mortgage.com^
 ||glowedhyalins.com^
 ||load.gtmus.globe-trotter.com^
@@ -20496,6 +20512,7 @@
 ||2473april2024.com^
 ||2469april2024.com^
 ||2467april2024.com^
+||2465april2024.com^
 ||2463april2024.com^
 ||2449march2024.com^
 ||2443march2024.com^
@@ -20843,6 +20860,7 @@
 ||tilesmuzarab.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
 ||sst.tiktakevents.com^
+||tiiytaekjajw.com^
 ||ticketszones.com^
 ||metrics.ticketmaster.com^
 ||yptqys.tianqistatic.com^
@@ -21924,6 +21942,7 @@
 ||eu.ironmountain.com^
 ||marketing.iriworldwide.com^
 ||acton.iriworldwide.com^
+||ipsokaphaush.com^
 ||rce.iperceptions.com^
 ||irs.iperceptions.com^
 ||iro.iperceptions.com^
@@ -22231,6 +22250,7 @@
 ||flatepicbats.com^
 ||flashtalking.com^
 ||fklgndklbngg.com^
+||fixesnetwork.com^
 ||clck.fivetuesdays.com^
 ||forms.fitchratings.com^
 ||app.email.fitchratings.com^
@@ -23286,6 +23306,7 @@
 ||uejntsxdffp.com^
 ||app.ucsdtritons.com^
 ||t.ucsdtritons.com^
+||uceplwvwxrm.com^
 ||images.service.ubmsinoexpo.com^
 ||media.ubmamevents.com^
 ||info.ubmamevents.com^
@@ -23719,8 +23740,10 @@
 ||wolf.samarasousa.com^
 ||hmsgdw.sailerstyle.com^
 ||seniorliving.sagewoodlcs.com^
+||sagcoreedge.com^
 ||clk.safexinsure.com^
 ||safebrowsdv.com^
+||sacdnssedge.com^
 ||ofkqel.sabinastore.com^
 ||stats.ryanchmelir.com^
 ||rwuruwrufmp.com^
@@ -24858,6 +24881,7 @@
 ||fpojmiamnfa.com^
 ||ad.foxnetworks.com^
 ||metrics.foxbusiness.com^
+||fotiveearns.com^
 ||track.fosterbucks.com^
 ||cueohf.forummotion.com^
 ||cueohf.forumattivo.com^
@@ -24878,6 +24902,7 @@
 ||fmipurdtuta.com^
 ||fmiafsohcku.com^
 ||flylikeaguy.com^
+||fluidplayer.com^
 ||stats.flowphantom.com^
 ||flimsy-beat.com^
 ||sst.flexfunding.com^
@@ -28695,6 +28720,7 @@
 ||aqcxudtisa.com^
 ||apxratqisc.com^
 ||digital.aptaracorp.com^
+||apstrfanba.com^
 ||oek7.april-moto.com^
 ||appcloud.appyreward.com^
 ||apptornado.com^
@@ -29623,6 +29649,7 @@
 ||eulerian.structube.com^
 ||gi7a.structube.com^
 ||stroveiks.com^
+||stripcash.com^
 ||track.rdtk.strip2tip.com^
 ||dog.streameon.com^
 ||log.strawpoll.com^
@@ -29700,6 +29727,7 @@
 ||track.solventum.com^
 ||analytics.soluforce.com^
 ||adebis.sokamocka.com^
+||sogropidy.com^
 ||metrics.sofygirls.com^
 ||gdnzwa.sofftshoe.com^
 ||sodenneyg.com^
@@ -31465,6 +31493,7 @@
 ||info.fdbhealth.com^
 ||fd5orie8e.com^
 ||tracking.fcmtravel.com^
+||fastlgtrk.com^
 ||fascespro.com^
 ||kfqcok.farmstore.com^
 ||gwoxhe.farmasius.com^
@@ -31500,6 +31529,7 @@
 ||exilelink.com^
 ||gbeqya.exehotels.com^
 ||marketing.execshape.com^
+||execpukka.com^
 ||analytics.ewpratten.com^
 ||dgbwya.evyapshop.com^
 ||connect.evocalize.com^
@@ -34325,6 +34355,7 @@
 ||jtracking-gate.lulusoft.com^
 ||jtracking.lulusoft.com^
 ||lufydapo.com^
+||lufavevu.com^
 ||metrics.lucentis.com^
 ||t-s.lucentis.com^
 ||t.lucentis.com^
@@ -35028,6 +35059,7 @@
 ||lwlbtf.florajet.com^
 ||acv.fletsntt.com^
 ||fleraprt.com^
+||flepquix.com^
 ||marketing.fleetone.com^
 ||flatjeep.com^
 ||flat-ads.com^
@@ -39748,6 +39780,7 @@
 ||w-pool.com^
 ||vvpool.com^
 ||vungle.com^
+||vscdns.com^
 ||track.vscash.com^
 ||vrtcal.com^
 ||vrelai.com^
@@ -42136,7 +42169,7 @@
 ||asrety.com^
 ||asonno.com^
 ||ashcdn.com^
-||cdn.asdfix.com^
+||asdfix.com^
 ||asccdn.com^
 ||asacdn.com^
 ||as5000.com^

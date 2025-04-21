@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Mon, 21 Apr 2025 14:47:38 GMT
+! Last modified: Mon, 21 Apr 2025 15:49:50 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -4254,6 +4254,7 @@
 ||svcnmtb.top^
 ||suresdb.top^
 ||sunpool.top^
+||sucnwtb.top^
 ||stimiyb.top^
 ||ssylieb.top^
 ||ssydquy.top^
@@ -9737,7 +9738,7 @@
 |iadmusicmatvideo.music.126.net^
 |iadmusicmat.music.126.net^
 |admusicpic.music.126.net^
-|statistic.live.126.net^
+||live.126.net^
 ||img3.126.net^
 ||img2.126.net^
 ||img1.126.net^
@@ -16914,6 +16915,7 @@
 ||data.alhambraventure.com^
 ||tracking.alexanderstreet.com^
 ||ageyvj.alaskankingcrab.com^
+||aisiteanalytics.com^
 ||sstats.airfarewatchdog.com^
 ||stats.airfarewatchdog.com^
 ||trk.aircharterguide.com^
@@ -38457,6 +38459,7 @@
 ||cspmkl.gruppal.com^
 ||gruponn.com^
 ||taplytics-umami.grubhub.com^
+||sensor.grubhub.com^
 ||mi.grubhub.com^
 ||marketing.grplans.com^
 ||images.em.groupon.com^
@@ -38667,6 +38670,7 @@
 ||fadsipz.com^
 ||oms.factiva.com^
 ||metrics.faceipf.com^
+||faamhel.com^
 ||f11-ads.com^
 ||response.ez-dock.com^
 ||pages.exterro.com^
@@ -46544,6 +46548,7 @@
 ||netapm.music.163.com^
 |crash.163.com^
 |adgeo.163.com^
+||look.163.com^
 ||timejs.game.163.com^
 ||nex.163.com^
 ||fp-upload.dun.163.com^
@@ -67411,6 +67416,7 @@
 ||vwvj.cn^
 ||vuhf.cn^
 ||vqle.cn^
+||vnwu.cn^
 ||vmjr.cn^
 ||vhje.cn^
 ||vhid.cn^

@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 22 Apr 2025 11:55:36 GMT
+! Last modified: Tue, 22 Apr 2025 15:02:57 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -2000,6 +2000,7 @@
 ||vnbrcfmdndguz.life^
 ||vauphwgisneug.life^
 ||sukspcwrnqpbs.life^
+||shvsrrpkgjcuk.life^
 ||rgavvimsecmbo.life^
 ||qepytatzudtum.life^
 ||myuyxesrktrmz.life^
@@ -2680,6 +2681,7 @@
 ||zhibo128x1.xyz^
 ||workable1x.xyz^
 ||uysladebgu.xyz^
+||twaglurtuh.xyz^
 ||turbostats.xyz^
 ||tr-rollers.xyz^
 ||topdisplay.xyz^
@@ -3589,6 +3591,7 @@
 ||trk.get.watchfreevideo.vip^
 ||zanvpkmdslnvg.vip^
 ||xctoquhnalqgn.vip^
+||rzxxflvdnvtws.vip^
 ||qazjpdzhatxaw.vip^
 ||pqkpmqrzrrjrb.vip^
 ||pidsnbtigntdi.vip^
@@ -5253,6 +5256,7 @@
 ||seniorliving.thechesapeake.org^
 ||sumcoinmining.org^
 ||outreach.successforall.org^
+||tr.standardadmin.org^
 ||connect.care.sheppardpratt.org^
 ||web.care.sheppardpratt.org^
 ||seoyoperseduc.org^
@@ -11895,6 +11899,7 @@
 ||parkthis.parkplaceinstallations.com^
 ||sgtm.panneauxsandwichdirect.com^
 ||pangolin-sdk-toutiao-b.com^
+||pagerrentablespotlight.com^
 ||outrightstifflyvending.com^
 ||optout.oracle-zoominfo-notice.com^
 ||ouyyua.odalys-vacation-rental.com^
@@ -24552,6 +24557,7 @@
 ||med.myandroderm.com^
 ||my1elitclub.com^
 ||info.mwhccareers.com^
+||muyusaitcze.com^
 ||track.mustforhome.com^
 ||utiq.mundoxiaomi.com^
 ||multstorage.com^
@@ -30169,6 +30175,7 @@
 ||tkgaws.seokplant.com^
 ||delivery.senvangvn.com^
 ||utiq.sensacine.com^
+||semygruja.com^
 ||app.seminoles.com^
 ||t.seminoles.com^
 ||9884.selornews.com^
@@ -32094,6 +32101,7 @@
 ||dhulzehgk.com^
 ||dhorzivnn.com^
 ||dhonphehr.com^
+||dhimphits.com^
 ||dhaaralzz.com^
 ||dgcyyabks.com^
 ||dftoutiao.com^
@@ -34324,6 +34332,7 @@
 ||join.opencare.com^
 ||logs.openbank.com^
 ||tagger.opecloud.com^
+||opcqrorr.com^
 ||ootchoft.com^
 ||oostotsu.com^
 ||ookroush.com^
@@ -39287,6 +39296,7 @@
 ||bd3.chuiyue.com^
 ||choyoga.com^
 ||a8.choomia.com^
+||cholurd.com^
 ||z371.chicoer.com^
 ||dxrkvm.cheryls.com^
 ||checkm8.com^
@@ -47372,6 +47382,7 @@
 ||online.bid^
 ||newrrb.bid^
 ||aj2635.bid^
+||aj2627.bid^
 ||aj2555.bid^
 ||aj2550.bid^
 ||aj2532.bid^
@@ -67768,6 +67779,7 @@
 ||vmjr.cn^
 ||vhje.cn^
 ||vhid.cn^
+||uypg.cn^
 ||urkt.cn^
 ||uoqc.cn^
 ||uojx.cn^

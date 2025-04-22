@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2025-04-21T14:47:28.934Z
-# Size: 1075
+# Last Updated: 2025-04-22T15:02:47.531Z
+# Size: 1085
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1060,10 +1060,20 @@ sydgs2speed4.wireline.com.au
 +.speedtest.vodafone.com.au
 speedtest-tdc3.tasmanet.com.au
 speedtest-limestonecoast-sa.optusnet.com.au
+speedtest-limestonecoast.optusnet.com.au
+speedtest-eastburwood.optusnet.com.au
+speedtest-townsville.optusnet.com.au
 speedtest-newcastle.optusnet.com.au
+speedtest-melbourne.optusnet.com.au
+speedtest-goldcoast.optusnet.com.au
 speedtest-darwin-nt.optusnet.com.au
 speedtest-blacktown.optusnet.com.au
+speedtest-sunshine.optusnet.com.au
+speedtest-moorooka.optusnet.com.au
+speedtest-brisbane.optusnet.com.au
+speedtest-geelong.optusnet.com.au
 speedtest-sydney.optusnet.com.au
+speedtest-hobart.optusnet.com.au
 speedtest-syd.optusnet.com.au
 speedtest-ebw.optusnet.com.au
 speedtest-bri.optusnet.com.au

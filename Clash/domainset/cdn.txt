@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-04-22T11:55:26.842Z
-# Size: 3405
+# Last Updated: 2025-04-22T15:02:48.967Z
+# Size: 3407
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -57,6 +57,7 @@ files.mastodon.ktachibana.party
 townsquare.media
 cms.therecord.media
 files.smashing.media
+images.github.media
 jssdk.opin.media
 +.icon.horse
 assets.buttondown.email
@@ -1156,6 +1157,7 @@ media.istockphoto.com
 content.invisioncic.com
 media.invisioncic.com
 +.intercomcdn.com
+static.hugedomains.com
 media.graphassets.com
 static.gettyimages.com
 media.gettyimages.com

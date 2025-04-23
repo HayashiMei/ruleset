@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Wed, 23 Apr 2025 06:01:18 GMT
+! Last modified: Wed, 23 Apr 2025 12:44:51 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -2322,6 +2322,7 @@
 ||zbmzkxmensplm.club^
 ||xdrlthfhikvgm.club^
 ||track.viewitquickly.club^
+||ucgfvdrdbqajh.club^
 ||skdjppgwnfune.club^
 ||shbqitjfwhhge.club^
 ||pcktmkfjnkfqm.club^
@@ -2810,6 +2811,7 @@
 ||58686728.xyz^
 ||57473094.xyz^
 ||55876234.xyz^
+||4863232c.xyz^
 ||47235645.xyz^
 ||47206262.xyz^
 ||38167473.xyz^
@@ -4070,6 +4072,7 @@
 ||qouvxliy.top^
 ||qgidskiy.top^
 ||qdipsumy.top^
+||qdasflqe.top^
 ||push1000.top^
 ||polyfill.top^
 ||owurserk.top^
@@ -6302,6 +6305,7 @@
 ||tracking.axis.onl^
 ||stats.ksr.onl^
 ||ztlcrzmjshgfc.one^
+||tzsxqxxjvzfeq.one^
 ||tqlqfhmvainmn.one^
 ||masogjmltljhl.one^
 ||lugwzalsqvacb.one^
@@ -6745,6 +6749,7 @@
 ||ok88okg.infinityscans.net^
 ||igouthoatsord.net^
 ||ichowhushoubi.net^
+||hugroomsaipho.net^
 ||hotboysnearby.net^
 ||hashingcrypto.net^
 ||grugnampouksi.net^
@@ -11462,6 +11467,7 @@
 ||ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com^
 ||franchising.yourfranchiseopportunity.com^
 ||news.world-nuclear-exhibition.com^
+||welcomingaccompanyeffort.com^
 ||metrics.vivirconfibrosispulmonar.com^
 ||somni.vikingrivercruisescanada.com^
 ||viewedspurtdysfunctional.com^
@@ -17557,6 +17563,7 @@
 ||idlqzb.puntoscolombia.com^
 ||pages.mail.puntoscolombia.com^
 ||data.txn.puntoscolombia.com^
+||punkierdetruck.com^
 ||pulseadnetwork.com^
 ||ptifaustounsaz.com^
 ||senthg.prxperformance.com^
@@ -18497,6 +18504,7 @@
 ||bespakerubbles.com^
 ||go.besavvyseniors.com^
 ||stats.benjaminmorris.com^
+||bemiresunlevel.com^
 ||track.bemestardavida.com^
 ||marketing.bellwethercorp.com^
 ||belfrycaptured.com^
@@ -18600,6 +18608,7 @@
 ||i.americanblinds.com^
 ||ambiliarcarwin.com^
 ||metrics.ambetterhealth.com^
+||amargumtounaih.com^
 ||bgfmvc.amandalindroth.com^
 ||alwaysinprofit.com^
 ||altitude-arena.com^
@@ -21253,6 +21262,7 @@
 ||web.mailing.storz-bickel.com^
 ||stoopsellers.com^
 ||stonierteddy.com^
+||stnyirechxxi.com^
 ||stitthappens.com^
 ||stingerfound.com^
 ||perch.stefangasser.com^
@@ -25091,6 +25101,7 @@
 ||lmpadebis.gala-series.com^
 ||gaitcubicle.com^
 ||app.gaincapital.com^
+||gagepicaras.com^
 ||nwfkjx.gadventures.com^
 ||omni.gadventures.com^
 ||track.gaconnector.com^
@@ -26062,6 +26073,7 @@
 ||sgtm.yesinglese.com^
 ||metrics.yellowbook.com^
 ||info.yankeehome.com^
+||xygliwhawu.com^
 ||xxxx96xxxx.com^
 ||xxxx88xxxx.com^
 ||xxxx68xxxx.com^
@@ -28467,7 +28479,7 @@
 |adx-dre.op.dbankcloud.com^
 |adx-dra.op.dbankcloud.com^
 ||dt.dbankcloud.com^
-||7b455af0a3.dba1bc1fdf.com^
+||dba1bc1fdf.com^
 ||db0a4b4eb7.com^
 ||ridmvd.dazzystore.com^
 ||dav.davrontech.com^
@@ -29058,6 +29070,7 @@
 ||fuwn782kk.alphaporno.com^
 ||alpha-cash.com^
 ||alohamiles.com^
+||alnbriaslr.com^
 ||almareepom.com^
 ||allskillon.com^
 ||alloystart.com^
@@ -29205,7 +29218,7 @@
 ||abluvdiscr.com^
 ||qvmucs.abluestore.com^
 ||abbyychina.com^
-||4fc2d0c0e2.abb030d6a7.com^
+||abb030d6a7.com^
 ||swebstats.abajournal.com^
 ||webstats.abajournal.com^
 ||aba9e4d25f.com^
@@ -29570,6 +29583,7 @@
 ||obkwzi.waa-ultra.com^
 ||vugnubier.com^
 ||secure.vspdirect.com^
+||vrinqaell.com^
 ||vrevvaids.com^
 ||vraqnathr.com^
 ||vragridsn.com^
@@ -35688,6 +35702,7 @@
 ||data.marketing.doitbest.com^
 ||data.web.doitbest.com^
 ||info.doigcorp.com^
+||dogicgqi.com^
 ||dogepool.com^
 ||dogecoin.com^
 ||dodopool.com^
@@ -40919,6 +40934,7 @@
 ||metrics.polivy.com^
 ||poke88.com^
 ||poflix.com^
+||po18ad.com^
 ||pnsqsv.com^
 ||pnperf.com^
 ||sentry.pnblab.com^
@@ -47259,6 +47275,7 @@
 ||go.bktracksit.art^
 ||dragon.codemakes.art^
 ||pl.kis-nagy.art^
+||ieyipznx.art^
 ||10k8ovyv.art^
 ||mosquito.birbs.art^
 ||gtm.nyoa.art^

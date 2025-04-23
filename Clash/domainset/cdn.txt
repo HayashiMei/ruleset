@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-04-22T15:02:48.967Z
-# Size: 3407
+# Last Updated: 2025-04-23T06:01:08.644Z
+# Size: 3409
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1660,6 +1660,7 @@ bundler.wix-code.com
 assets.wikiwand.com
 cdn.wikiwand.com
 cdn.wccftech.com
+apps.voxmedia.com
 +.vimeocdn.com
 icons.veryicon.com
 crl.verisign.com
@@ -2689,6 +2690,7 @@ g-static.ap4r.com
 accounts-cdn.9gag.com
 oss.1p3a.com
 pbc.wsj.com
+platform.vox.com
 +.cdn.ubi.com
 embed.ted.com
 static.okx.com

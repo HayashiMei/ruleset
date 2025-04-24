@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2025-04-24T12:45:32.917Z
-# Size: 66493
+# Last Updated: 2025-04-24T15:15:15.347Z
+# Size: 66476
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -7559,7 +7559,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.sorningdaroo.top
 +.skaldmishara.top
 +.shoeinggrimy.top
-+.sheepcovings.top
 +.satorisccoya.top
 +.ryaqlybvobjw.top
 +.ruggyscallop.top
@@ -8884,7 +8883,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.tapixesa.pro
 +.stiffeat.pro
 +.soupytry.pro
-+.sotetahe.pro
 +.solopool.pro
 +.sieumomo.pro
 +.setafawo.pro
@@ -9489,7 +9487,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.fbhackonline.org
 +.faceit-cases.org
 +.ergoplatform.org
-+.ereandhthrew.org
 +.electrum-xrp.org
 +.ecipientconc.org
 +.downloadtime.org
@@ -10512,7 +10509,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.botnet.shadow.onl
 +.chn-allegroshopac.one
 +.fpttrolynhansu.one
-+.xfjptlrwocfkx.one
 +.wktyyxtvwthxp.one
 +.tttcraukuyqff.one
 +.steamunlocked.one
@@ -23527,7 +23523,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.caymanluxurycars.com
 +.cautiouscherries.com
 +.cattishinquiries.com
-+.cartrigepromised.com
 +.tm-out.cardinalcommerce.com
 +.carbonrebate-gov.com
 +.go.captainofallseas.com
@@ -26080,7 +26075,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.qualityadverse.com
 +.qrroyrdbjeeffw.com
 +.qorbnalwihvhbp.com
-+.qojrlxsbxvfqqx.com
 +.qclruwltqxojpo.com
 +.pyrroylceriums.com
 +.putanapartners.com
@@ -26493,7 +26487,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.killerwebstats.com
 +.killconvincing.com
 +.kiemtratindung.com
-+.kiapxorbpuesfv.com
 +.keygenandcrack.com
 +.kerrysexchange.com
 +.kaurieseluxate.com
@@ -27234,7 +27227,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.ceilingcatcoin.com
 +.cedric-crispin.com
 +.ceaslesswisely.com
-+.ceandtheremade.com
 +.cautiouscredit.com
 +.cautiouscamera.com
 +.cautionpursued.com
@@ -27326,7 +27318,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.browsesentinel.com
 +.brotherslocket.com
 +.brothersincash.com
-+.bronze-leather.com
 +.bromoilnapalms.com
 +.broidensordini.com
 +.broadstreetads.com
@@ -28049,7 +28040,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.spotchannel02.com
 +.sponsoradulto.com
 +.splittingpick.com
-+.spitefulmotor.com
 +.spillvacation.com
 +.spiffymachine.com
 +.specificclick.com
@@ -28839,7 +28829,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.kopeukasrsiha.com
 +.konradsheriff.com
 +.kmnvwjrbskybh.com
-+.kjqsnxibegvue.com
 +.tmcdn.kiwistreasure.com
 +.kismetguzelim.com
 +.kisekichikara.com
@@ -29433,7 +29422,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.ecerpgqnohelf.com
 +.ebonizerebake.com
 +.eatablesquare.com
-+.easytomessage.com
 +.imgpromo.easyrencontre.com
 +.easyadservice.com
 +.eallywasnothy.com
@@ -32241,7 +32229,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.eversioneweb.com
 +.everifymatch.com
 +.app.evaluanom035.com
-+.eurosexcuses.com
 +.europagerank.com
 +.euniverseads.com
 +.etobepartouk.com
@@ -33259,7 +33246,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.vinpearl1.vingroupsny.com
 +.vinacombank.com
 +.share-us.viktor-rolf.com
-+.vikawjobtar.com
 +.vihbuposxci.com
 +.vietnamkdam.com
 +.vietnaminsc.com
@@ -38012,7 +37998,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.idolsstars.com
 +.idealhacks.com
 +.iddeyrdpgq.com
-+.icvidofjsx.com
 +.icodecrypt.com
 +.icloudhelp.com
 +.icetraffic.com
@@ -39191,7 +39176,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.cb61190372.com
 +.8472fcb80c.cb57b3bd09.com
 +.cb3251add6.com
-+.cb260f4651.com
 +.cb-content.com
 +.cavebummer.com
 +.cau1aighae.com
@@ -50333,7 +50317,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.3lucosy.com
 +.3dsvita.com
 +.3dstats.com
-+.fc.3dmgame.com
 +.35hacks.com
 +.33lotte.com
 +.2miners.com

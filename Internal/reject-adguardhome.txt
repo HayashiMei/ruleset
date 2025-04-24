@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Thu, 24 Apr 2025 12:06:59 GMT
+! Last modified: Thu, 24 Apr 2025 15:15:24 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -1037,6 +1037,7 @@
 ||bindirect.click^
 ||afiliapub.click^
 ||adservice.click^
+||pljohkmh.click^
 ||pheegoab.click^
 ||aleksa.mtxbreak.click^
 ||garsneck.click^
@@ -1152,6 +1153,7 @@
 ||cogesrtordlwm.tech^
 ||projectagora.tech^
 ||a8.personalfile.tech^
+||spininitial.tech^
 ||insights.personified.tech^
 ||egret.legislative.tech^
 ||miningpool.tech^
@@ -4119,6 +4121,7 @@
 ||sorterswinch.top^
 ||soordpulayan.top^
 ||skryerbecame.top^
+||sheepcovings.top^
 ||sharedhabble.top^
 ||clk.secretritual.top^
 ||scyphaesedge.top^
@@ -5208,6 +5211,7 @@
 ||vodobyve.pro^
 ||tiradafi.pro^
 ||tr.news.teklifim.pro^
+||sotetahe.pro^
 ||solopool.pro^
 ||richpool.pro^
 ||reklamko.pro^
@@ -5719,6 +5723,7 @@
 ||ssc.europalibera.org^
 ||etobeasasile.org^
 ||ergoplatform.org^
+||ereandhthrew.org^
 ||info.epworthvilla.org^
 ||my.debtalliance.org^
 ||dating2cloud.org^
@@ -6683,6 +6688,7 @@
 ||tracking.axis.onl^
 ||stats.ksr.onl^
 ||ztlcrzmjshgfc.one^
+||xfjptlrwocfkx.one^
 ||wmtbivpifywrc.one^
 ||tzsxqxxjvzfeq.one^
 ||tqlqfhmvainmn.one^
@@ -16033,6 +16039,7 @@
 ||cdnweb2analytics.com^
 ||acvdmv.catalogfavorites.com^
 ||casumoaffiliates.com^
+||cartrigepromised.com^
 ||go.cartraxsolutions.com^
 ||sanalytics.cartoonnetworkme.com^
 ||sanalytics.cartoonnetworkla.com^
@@ -17444,6 +17451,7 @@
 ||ecvvkg.alterego-design.com^
 ||allvideometrika.com^
 ||images.go.alightsolutions.com^
+||mum.alibabachengdun.com^
 ||sadbmetrics.alhambraventure.com^
 ||data.alhambraventure.com^
 ||tracking.alexanderstreet.com^
@@ -17986,6 +17994,7 @@
 ||marketing.quickencompare.com^
 ||questionmarket.com^
 ||icare.quantum-health.com^
+||qojrlxsbxvfqqx.com^
 ||qijpoaplprskvo.com^
 ||metrics.purina-petcare.com^
 ||pupilarouranos.com^
@@ -18323,6 +18332,7 @@
 ||images.ma.kikusuiamerica.com^
 ||target.kidsfootlocker.com^
 ||rpt.kidsfootlocker.com^
+||kiapxorbpuesfv.com^
 ||rodent.kevindendievel.com^
 ||track.ketogummiespro.com^
 ||images.portal.keppelelectric.com^
@@ -18572,6 +18582,7 @@
 ||now.fintechfutures.com^
 ||response.fintechconnect.com^
 ||trk.findusasavings.com^
+||find-lovedates.com^
 ||app.fightingillini.com^
 ||t.fightingillini.com^
 ||marketing.fiduciaryfirst.com^
@@ -18839,6 +18850,7 @@
 ||crow.centresustains.com^
 ||ceilingcatcoin.com^
 ||cedric-crispin.com^
+||ceandtheremade.com^
 ||tracker.cdn-moneysmart.com^
 ||cautommityring.com^
 ||gtag.catellanismith.com^
@@ -18888,6 +18900,7 @@
 ||go.brunswickgroup.com^
 ||brothersbucket.com^
 ||metrics.brooksbrothers.com^
+||bronze-leather.com^
 ||tagman.britishairways.com^
 ||metrics.brighthorizons.com^
 ||brighteroption.com^
@@ -19490,6 +19503,7 @@
 ||map.sprecherschuh.com^
 ||sst.spoiltsociety.com^
 ||splendidsugar.com^
+||spitefulmotor.com^
 ||spirteddvaita.com^
 ||marketing.spinnakermgmt.com^
 ||specificmedia.com^
@@ -20199,6 +20213,7 @@
 ||koacucooptour.com^
 ||metrics.knowyourtrigs.com^
 ||kneeletromero.com^
+||kjqsnxibegvue.com^
 ||znmtka.kikocosmetics.com^
 ||kikeqrozcupit.com^
 ||kfvjdvjzhddhc.com^
@@ -23018,6 +23033,7 @@
 ||info.evergagecorp.com^
 ||trk.everestturbo.com^
 ||tgcxtq.eveniahotels.com^
+||eurosexcuses.com^
 ||load.ss.europe-books.com^
 ||euizhltcd6ih.com^
 ||ethaistoothi.com^
@@ -23961,6 +23977,7 @@
 ||load.tracking.villeteikko.com^
 ||prism.villageneva.com^
 ||irqewz.vilebrequin.com^
+||vikawjobtar.com^
 ||videosworks.com^
 ||video-serve.com^
 ||geoip.viamichelin.com^
@@ -28315,6 +28332,7 @@
 ||iegservers.com^
 ||qgumjp.idol-chart.com^
 ||insights.idispharma.com^
+||icvidofjsx.com^
 ||ichaosheng.com^
 ||tbancs.icebreaker.com^
 ||marketing.ibermatica.com^
@@ -28934,6 +28952,7 @@
 ||dfanalytics.dealerfire.com^
 ||zefpks.dealdonkey.com^
 ||dcuovgobkv.com^
+||dcssptrack.com^
 ||dcff90fa75.com^
 ||dc-rotator.com^
 ||images.logisticsnews.dbschenker.com^
@@ -29166,7 +29185,7 @@
 ||app.cbulancers.com^
 ||t.cbulancers.com^
 ||cbdbda0256.com^
-||7c9215c578.cb260f4651.com^
+||cb260f4651.com^
 ||catsnthing.com^
 ||catch-pool.com^
 ||marketing.catamarans.com^
@@ -30807,6 +30826,7 @@
 |samsungeurope.eu.qualtrics.com^
 ||raspnd.quadratec.com^
 ||marketing.quadramed.com^
+||qtthehnor.com^
 ||a.qsjiajiao.com^
 ||qrlmining.com^
 ||qogonsuqq.com^
@@ -40319,6 +40339,7 @@
 ||3profit.com^
 ||acc.3gbizhi.com^
 ||ga1.3dmgame.com^
+||fc.3dmgame.com^
 ||indiyo.38-8931.com^
 ||bd1.365qilu.com^
 ||update.360safe.com^
@@ -40895,6 +40916,7 @@
 ||diypxh.tillys.com^
 ||analytics-sg.tiktok.com^
 ||analytics.tiktok.com^
+||analytics.us.tiktok.com^
 ||affilbox.tikoki.com^
 ||c.tienda.com^
 ||b.tienda.com^
@@ -40964,6 +40986,7 @@
 |eco.taobao.com^
 |h-adashx4yt.ut.taobao.com^
 ||h-adashx4ae.ut.taobao.com^
+||adashx4id.ut.taobao.com^
 ||adashx4ae.ut.taobao.com^
 ||h-adashx.ut.taobao.com^
 ||adashxgc.ut.taobao.com^
@@ -43695,10 +43718,13 @@
 ||gtm.udemy.com^
 ||udbaa.com^
 |iflow.uczzd.com^
+||adtrack-intl.ucweb.com^
+||intlsucus.ucweb.com^
 ||gjapplog.ucweb.com^
 ||px-intl.ucweb.com^
 ||insight.ucweb.com^
 |adtrack.ucweb.com^
+||bts-la.ucweb.com^
 ||puds.ucweb.com^
 ||uc.ucweb.com^
 ||px.ucweb.com^
@@ -68144,6 +68170,7 @@
 ||vxky.cn^
 ||vwvj.cn^
 ||vuhf.cn^
+||vtbe.cn^
 ||vqle.cn^
 ||vnwu.cn^
 ||vmjr.cn^

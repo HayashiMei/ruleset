@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-04-24T15:15:15.347Z
-# Size: 68833
+# Last Updated: 2025-04-24T16:52:01.727Z
+# Size: 68835
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -25182,6 +25182,7 @@ hd.xiaojukeji.com
 +.wuzbhjpvsf.com
 +.wuqttehuhs.com
 +.wufodfojfm.com
++.wucbtiahka.com
 +.app.wsucougars.com
 +.t.wsucougars.com
 +.wsmntbroul.com
@@ -25971,6 +25972,7 @@ gpm.samsungqbe.com
 +.qituduwios.com
 +.qirhpurtyo.com
 +.load.pickle.qinshealth.com
++.qighodetfg.com
 +.qidnujocmf.com
 +.qibrhyfizc.com
 +.qibkkioqqw.com

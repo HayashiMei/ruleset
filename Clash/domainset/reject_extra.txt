@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2025-04-24T12:06:49.238Z
-# Size: 66468
+# Last Updated: 2025-04-24T12:45:32.917Z
+# Size: 66493
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -6745,6 +6745,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.abpnow.xyz
 +.a67d12.xyz
 +.a49ebd.xyz
++.dow.895628.xyz
 +.582582.xyz
 +.4iazoa.xyz
 +.3haiaz.xyz
@@ -9460,7 +9461,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.securedlogin.org
 +.roundyearfun.org
 +.robbiblubber.org
-+.resourceedge.org
 +.psnfreecodes.org
 +.proofofmemes.org
 +.premiumtools.org
@@ -9815,7 +9815,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.jtkjixnmj.org
 +.jointings.org
 +.avpa.javalobby.org
-+.inspirepk.org
 +.icloudmap.org
 +.reload.hotscopes.org
 +.homewares.org
@@ -11534,7 +11533,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.gaireegroahy.net
 +.fx640b4a8v2n.net
 +.fukugyou2022.net
-+.fuckedserver.net
 +.friend-cards.net
 +.freexboxgold.net
 +.freexblcodes.net
@@ -13451,6 +13449,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.darkcoin.kicks-ass.net
 +.keymetric.net
 +.karisimbi.net
++.quanly.jxmienphi.net
 +.jtqqzvqrd.net
 +.jsfactory.net
 +.ads.its-newid.net
@@ -15340,6 +15339,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.7cnq.net
 +.3qqq.net
 +.3322.net
++.static.3001.net
 +.web-ads.10sq.net
 +.xq1.net
 +.informers.ukr.net
@@ -15705,11 +15705,13 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.check.togis.icu
 +.check.togez.icu
 +.check.tisof.icu
++.timov.icu
 +.check.tidag.icu
 +.check.ticyb.icu
 +.check.tevoh.icu
 +.check.telyv.icu
 +.check.tefee.icu
++.tazaz.icu
 +.check.taxiz.icu
 +.check.taxaq.icu
 +.check.talup.icu
@@ -15740,6 +15742,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.check.rulix.icu
 +.check.rozox.icu
 +.check.roqoi.icu
++.rocyg.icu
 +.check.rlcbb.icu
 +.check.rikez.icu
 +.check.riced.icu
@@ -15785,6 +15788,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.check.pivyt.icu
 +.check.pivum.icu
 +.check.pivuf.icu
++.piver.icu
 +.check.piqcz.icu
 +.check.pipyq.icu
 +.check.pilod.icu
@@ -15794,6 +15798,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.check.pidal.icu
 +.check.peqoz.icu
 +.check.peqah.icu
++.pepuq.icu
 +.check.pekyy.icu
 +.check.pejel.icu
 +.check.pedyg.icu
@@ -15872,6 +15877,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.check.lymum.icu
 +.check.lybuk.icu
 +.check.luzog.icu
++.lupuj.icu
 +.check.lukus.icu
 +.check.luboz.icu
 +.check.ltxgh.icu
@@ -15949,6 +15955,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.check.jebir.icu
 +.check.jaxim.icu
 +.check.jakoc.icu
++.jahoc.icu
 +.check.jaceq.icu
 +.check.jabyk.icu
 +.check.iyyye.icu
@@ -15964,6 +15971,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.check.ieooy.icu
 +.check.iauyy.icu
 +.check.hysuz.icu
++.hylur.icu
 +.check.hyjaz.icu
 +.check.hydod.icu
 +.check.huwaq.icu
@@ -15975,6 +15983,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.check.hotuv.icu
 +.check.hosam.icu
 +.check.hoqud.icu
++.hobir.icu
 +.check.hmccl.icu
 +.check.hixya.icu
 +.check.hivrv.icu
@@ -15996,16 +16005,20 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.check.gytat.icu
 +.check.gytas.icu
 +.check.gyqav.icu
++.gyner.icu
 +.check.gykem.icu
 +.check.gyhxr.icu
 +.check.gxswc.icu
++.gutom.icu
 +.check.guqev.icu
 +.check.gulov.icu
++.gubuj.icu
 +.check.gozun.icu
 +.check.goccb.icu
 +.check.givus.icu
 +.check.givoh.icu
 +.check.giriq.icu
++.ginoz.icu
 +.check.gimyh.icu
 +.check.gijuz.icu
 +.check.gihua.icu
@@ -16020,6 +16033,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.check.gefeq.icu
 +.check.gedub.icu
 +.check.gaxfd.icu
++.fyquc.icu
 +.check.fykut.icu
 +.check.fyjig.icu
 +.check.fyfib.icu
@@ -16086,6 +16100,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.check.cybaf.icu
 +.check.cuzon.icu
 +.check.cuxor.icu
++.cuxer.icu
 +.check.cuved.icu
 +.check.cumys.icu
 +.check.cudol.icu
@@ -17938,7 +17953,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.consecutionwrigglesinge.com
 +.conquestfashionedstatus.com
 +.compositeclauseviscount.com
-+.compltheroomchngnotific.com
 +.complaintbasscounsellor.com
 +.complainfriendshipperry.com
 +.compellingtremblegenial.com
@@ -20193,6 +20207,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.coconutfieryreferee.com
 +.cdn.coastcapitalsavings.com
 +.coarseauthorization.com
++.api.co-operativefinance.com
 +.cleanplentifulnomad.com
 +.clashofclansgemhack.com
 +.clashofclanscheatsx.com
@@ -20739,6 +20754,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.laserdandelionhelp.com
 +.laptoprewardsgroup.com
 +.cpcalendars.landoradebalthazar.com
++.cpcontacts.landoradebalthazar.com
 +.cpanel.landoradebalthazar.com
 +.mail.landoradebalthazar.com
 +.laisuatkiemtiencao.com
@@ -27495,6 +27511,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.danger-phentermine.allforyourlife.com
 +.aljurqbdsxhcgh.com
 +.alightbornbell.com
++.alien-training.com
 +.alibabatraffic.com
 +.algocashmaster.com
 +.aletrenhegenmi.com
@@ -29465,7 +29482,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.uu.domainforlite.com
 +.dollarsponsor.com
 +.dolefulcaller.com
-+.doge-electrum.com
 +.dodgyvertical.com
 +.doctorhousing.com
 +.dns-analytics.com
@@ -31452,7 +31468,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.minhngocc789.com
 +.minerstation.com
 +.minercountry.com
-+.miner-tolken.com
 +.minecraftget.com
 +.minecraftgen.com
 +.mindenegyben.com
@@ -32215,11 +32230,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.existingpass.com
 +.executionago.com
 +.exampleshake.com
-+.cpcalendars.ewsaustraila.com
-+.cpanel.ewsaustraila.com
-+.mail.ewsaustraila.com
-+.bx.ewsaustraila.com
-+.5d.ewsaustraila.com
++.ewsaustraila.com
 +.ewruuqe5p8ca.com
 +.evzhzppj5kel.com
 +.evolvenation.com
@@ -33984,7 +33995,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.readysnails.com
 +.readirectly.com
 +.reacherinst.com
-+.re-botcheck.com
 +.rcestershir.com
 +.razor-games.com
 +.razerscreen.com
@@ -34051,7 +34061,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.w3.providerpay.com
 +.provenperch.com
 +.protestcopy.com
-+.protek-tech.com
 +.protectcrev.com
 +.protecmedia.com
 +.prospecteye.com
@@ -34758,6 +34767,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.innovateads.com
 +.innocentwax.com
 +.inkingleran.com
++.ingonherbal.com
 +.infragantes.com
 +.informereng.com
 +.inflictgive.com
@@ -34796,7 +34806,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.gate.hyperpaysys.com
 +.hyperdonkey.com
 +.rtb-useast-v4.hb.hyperbrainz.com
-+.loader.hxsoftwares.com
 +.refer.hushpuppies.com
 +.hurriedboob.com
 +.cdn.hunteryvely.com
@@ -41557,7 +41566,9 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.cpcalendars.ralvinetp.com
 +.cpcontacts.ralvinetp.com
 +.webmail.ralvinetp.com
++.webdisk.ralvinetp.com
 +.cpanel.ralvinetp.com
++.mail.ralvinetp.com
 +.rals4alum.com
 +.raisegame.com
 +.rainyrule.com
@@ -43167,6 +43178,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.eesnfoxhh.com
 +.educrated.com
 +.cpcalendars.edistrami.com
++.cpcontacts.edistrami.com
 +.visioplan.edistrami.com
 +.alignable.edistrami.com
 +.copilot.edistrami.com
@@ -43247,7 +43259,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.dloadgame.com
 +.dizzcloud.com
 +.dizyhackz.com
-+.divvanews.com
 +.ditdotsol.com
 +.distribeo.com
 +.distiltag.com
@@ -43655,6 +43666,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.bomb-hack.com
 +.boltfiles.com
 +.bolt8snap.com
++.mail.boldmorre.com
 +.bolayaros.com
 +.bogrodius.com
 +.boatsvest.com
@@ -44944,7 +44956,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.senopaee.com
 +.sendovip.com
 +.sendmini.com
-+.f6qt9.r.ag.d.sendibm3.com
 +.sendhack.com
 +.send2url.com
 +.t.senaluno.com
@@ -47615,6 +47626,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.3lr67y45.com
 +.l.3djuegos.com
 +.365acute.com
++.softdl.360tpcdn.com
 +.3604free.com
 +.333lotte.com
 +.2znp09oa.com
@@ -47889,6 +47901,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.vmkoqak.com
 +.vmayman.com
 +.persimmon-turquoise344028.vm-host.com
++.update.vlnguba.com
 +.prod.html5-ads.vk-apps.com
 +.vivocha.com
 +.visibli.com
@@ -48418,6 +48431,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.runwaff.com
 +.run4app.com
 +.ruinjan.com
++.down.ruanmei.com
 +.rtzbpsy.com
 +.filter.rtbzone.com
 +.xml.rtbzone.com
@@ -48479,7 +48493,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.tm.regions.com
 +.regflow.com
 +.hooru.regence.com
-+.device.redirec.com
 +.rediads.com
 +.share.redding.com
 +.recoset.com
@@ -49113,6 +49126,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.jsckjqr.com
 +.js2json.com
 +.jrtbjai.com
++.jrqh-hk.com
 +.jpkinki.com
 +.search-ads-api.joongna.com
 +.ad.jokeroo.com
@@ -49358,6 +49372,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.giosany.com
 +.gigarho.com
 +.ghtk247.com
++.shqdown.ggzuhao.com
 +.ggwcash.com
 +.gghacks.com
 +.ggepiay.com
@@ -50408,6 +50423,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.z-pool.com
 +.yycjho.com
 +.yxgfcj.com
++.qiniuyunxz.yxflzs.com
 +.yvoria.com
 +.yuzuni.com
 +.ytzihf.com
@@ -52674,6 +52690,7 @@ mpush-api.aliyun.com
 +.105app.com
 +.101com.com
 +.100btc.com
++.1717.1000uc.com
 +.1-hash.com
 +.1-9-90.com
 +.1-1ads.com
@@ -52769,6 +52786,7 @@ mpush-api.aliyun.com
 +.wy213.com
 +.wwija.com
 +.wvzhj.com
++.soft.wsyhn.com
 +.wsbnk.com
 +.wrgov.com
 +.woevr.com
@@ -52961,6 +52979,7 @@ mpush-api.aliyun.com
 +.sb3.shble.com
 +.sb2.shble.com
 +.sb1.shble.com
++.ini.sh-pp.com
 +.content.sfbli.com
 +.sf14g.com
 +.sextf.com
@@ -53181,6 +53200,7 @@ mpush-api.aliyun.com
 +.n0355.com
 +.n0299.com
 +.myway.com
++.230.sub-166-166-188.myvzw.com
 +.iwantcoins.myvnc.com
 +.reklam.mynet.com
 +.metrics.myfrs.com
@@ -55989,6 +56009,7 @@ kma.biz
 +.soccergamesunblocked.us
 +.freebrazzersaccounts.us
 +.getminecraftpremium.us
++.valleypreptutoring.us
 +.telechargement-fr.us
 +.giaodichdaquocgia.us
 +.virus-exe-server.us
@@ -56889,7 +56910,6 @@ kma.biz
 +.csgojackpot-winning.su
 +.csgocasino-winning.su
 +.ouhfuosuoosrhfzr.su
-+.eoufaoeuhoauengi.su
 +.ffn.theeyefirewall.su
 +.snaggy-screen.su
 +.quicksaledeal.su
@@ -57663,7 +57683,6 @@ kma.biz
 +.dota2money.ru
 +.doprodavec.ru
 +.daast.digitalbox.ru
-+.crystalpvp.ru
 +.cryptopool.ru
 +.contextbar.ru
 +.banner.consultant.ru
@@ -58256,6 +58275,8 @@ kma.biz
 +.cpcalendars.brazenf.ru
 +.tfvlo.brazenf.ru
 +.bxozc.brazenf.ru
++.rafv.brazenf.ru
++.b5zo.brazenf.ru
 +.asd.brazenf.ru
 +.bobjobe.ru
 +.beetraf.ru
@@ -58271,6 +58292,7 @@ kma.biz
 +.cpcalendars.auiesce.ru
 +.cpcontacts.auiesce.ru
 +.webdisk.auiesce.ru
++.gc8b8.auiesce.ru
 +.mail.auiesce.ru
 +.ask-gps.ru
 +.arikado.ru
@@ -58541,6 +58563,7 @@ kma.biz
 +.clcktm.ru
 +.cipane.ru
 +.chaser.ru
++.webdisk.ceiba6.ru
 +.mail.ceiba6.ru
 +.caxega.ru
 +.camasi.ru
@@ -58989,7 +59012,6 @@ jhf.ru
 +.clickmedia.ro
 +.freeproxy.ro
 +.burstcoin.ro
-+.poloplus.ro
 +.weather.fixitpro.ro
 +.best-top.ro
 +.xchange.ro
@@ -59682,7 +59704,6 @@ jhf.ru
 +.content002.bet365.nl
 +.adworx.nl
 +.adswag.nl
-+.83-87-76-41.cable.dynamic.v4.ziggo.nl
 +.smitt.nl
 +.images.mbuyu.nl
 +.ads.tripod.lycos.nl
@@ -61514,6 +61535,7 @@ jhf.ru
 +.parity.io
 +.p2pool.io
 +.sentry.outbid.io
++.opolis.io
 +.notiks.io
 +.notebc.io
 +.win-rtb2-uswest.n-data.io
@@ -64924,6 +64946,7 @@ jhf.ru
 +.semnicneposilejte.cz
 +.bannery.navratdoreality.cz
 +.impressionmedia.cz
++.petrjanicek.savana-hosting.cz
 +.contentproxy10.cz
 +.monkeytracker.cz
 +.authedwebmine.cz
@@ -65155,7 +65178,6 @@ jhf.ru
 +.wegotmedia.co
 +.web-hoster.co
 +.weatherapi.co
-+.telegramcn.co
 +.teknologia.co
 +.takemydesk.co
 +.survey4you.co
@@ -65537,6 +65559,7 @@ jhf.ru
 +.m.gongzhilian.com.cn
 +.datamaster.com.cn
 +.daliantong.com.cn
++.down.qqfarmer.com.cn
 +.synad2.nuffnang.com.cn
 +.helloeos.com.cn
 +.ipinyou.com.cn
@@ -66097,6 +66120,7 @@ jhf.ru
 +.apicorporativops.portoseguro.com.br
 +.share.openenglish.com.br
 +.maispremium.com.br
++.grupobramam.com.br
 +.fazendachia.com.br
 +.navegador.telefonica.com.br
 +.shoptarget.com.br
@@ -66404,6 +66428,7 @@ jhf.ru
 +.pools.e-scavo.net.ar
 +.implantesdentalesjmartinezr.com.ar
 +.serviciosrosario.com.ar
++.flechabusretiro.com.ar
 +.worldsport.com.ar
 +.publi.elliberal.com.ar
 +.cdaonline.com.ar

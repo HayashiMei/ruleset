@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Fri, 25 Apr 2025 14:09:36 GMT
+! Last modified: Fri, 25 Apr 2025 14:22:38 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -1513,6 +1513,7 @@
 ||lactifyfabraea.shop^
 ||jurantsepinine.shop^
 ||jelliconitrate.shop^
+||insteamdentata.shop^
 ||imperilgustard.shop^
 ||hiphaltlauroyl.shop^
 ||hardishdrostdy.shop^
@@ -7546,6 +7547,7 @@
 ||go.noveltynook.net^
 ||noapsovochu.net^
 ||bjdqbl.nippn-kenko.net^
+||nichaithikr.net^
 ||neeceeglogu.net^
 ||naistophoje.net^
 ||rqyxdk.myanimelist.net^
@@ -18547,6 +18549,7 @@
 ||dw7u.hotelsbarriere.com^
 ||bijkep.hotelesestelar.com^
 ||hostadsmarkets.com^
+||horsiergrassed.com^
 ||telemetry.horizonfitness.com^
 ||hoopersnonpoet.com^
 ||oms.hometownhockey.com^
@@ -18641,6 +18644,7 @@
 ||genesis-mining.com^
 ||gemworkbakairi.com^
 ||net.gelirortaklari.com^
+||geishastending.com^
 ||load.tagging.gehirnsoftware.com^
 ||analytics.gebhardt-group.com^
 ||info.garveyproducts.com^
@@ -25465,6 +25469,7 @@
 ||karlsencoin.com^
 ||go.karajjaipur.com^
 ||dwtpxq.karaca-home.com^
+||kalpasbyron.com^
 ||jwuazngiqap.com^
 ||justpremium.com^
 ||ynaanj.justestudio.com^
@@ -25575,6 +25580,7 @@
 ||marketing.imagexmedia.com^
 ||jbezdi.ilsole24ore.com^
 ||ctrkd.ilsole24ore.com^
+||ileumoctant.com^
 ||my.iheartradio.com^
 ||images.share.iheartmedia.com^
 ||join.ifsecglobal.com^
@@ -27166,6 +27172,7 @@
 ||targetspot.com^
 ||monirt.taposheebd.com^
 |ackee.tangly1024.com^
+||tammycooly.com^
 ||resources.talentrise.com^
 ||kzutbh.takeappeal.com^
 |glores2.taisantech.com^
@@ -27681,6 +27688,7 @@
 ||powerlinks.com^
 ||forms.poweritpro.com^
 ||sub.powerapple.com^
+||potentymoa.com^
 ||portoteamo.com^
 ||stats.popupmaker.com^
 ||inmuzp.popsockets.com^

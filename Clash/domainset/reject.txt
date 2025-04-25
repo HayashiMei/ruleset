@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-04-25T14:09:26.997Z
-# Size: 69143
+# Last Updated: 2025-04-25T14:22:28.616Z
+# Size: 69151
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1350,6 +1350,7 @@ bad.third-party.site
 +.lactifyfabraea.shop
 +.jurantsepinine.shop
 +.jelliconitrate.shop
++.insteamdentata.shop
 +.imperilgustard.shop
 +.hiphaltlauroyl.shop
 +.hardishdrostdy.shop
@@ -6785,6 +6786,7 @@ proxyhog.prisma-data.net
 +.go.noveltynook.net
 +.noapsovochu.net
 +.bjdqbl.nippn-kenko.net
++.nichaithikr.net
 +.neeceeglogu.net
 +.naistophoje.net
 +.rqyxdk.myanimelist.net
@@ -17437,6 +17439,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.dw7u.hotelsbarriere.com
 +.bijkep.hotelesestelar.com
 +.hostadsmarkets.com
++.horsiergrassed.com
 +.telemetry.horizonfitness.com
 +.hoopersnonpoet.com
 +.oms.hometownhockey.com
@@ -17529,6 +17532,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.securetags.geotecnologias.com
 +.gemworkbakairi.com
 +.net.gelirortaklari.com
++.geishastending.com
 +.load.tagging.gehirnsoftware.com
 +.analytics.gebhardt-group.com
 +.info.garveyproducts.com
@@ -24116,6 +24120,7 @@ visitors.thingiverse.com
 +.images.on.karnovgroup.com
 +.go.karajjaipur.com
 +.dwtpxq.karaca-home.com
++.kalpasbyron.com
 +.jwuazngiqap.com
 +.justpremium.com
 +.ynaanj.justestudio.com
@@ -24221,6 +24226,7 @@ visitors.thingiverse.com
 +.marketing.imagexmedia.com
 +.jbezdi.ilsole24ore.com
 +.ctrkd.ilsole24ore.com
++.ileumoctant.com
 +.my.iheartradio.com
 +.images.share.iheartmedia.com
 +.join.ifsecglobal.com
@@ -25732,6 +25738,7 @@ adx-bid.tianzhuobj.com
 +.targetspot.com
 +.monirt.taposheebd.com
 ackee.tangly1024.com
++.tammycooly.com
 +.resources.talentrise.com
 +.kzutbh.takeappeal.com
 glores2.taisantech.com
@@ -26229,6 +26236,7 @@ gpm.samsungqbe.com
 +.powerlinks.com
 +.forms.poweritpro.com
 +.sub.powerapple.com
++.potentymoa.com
 +.portoteamo.com
 +.stats.popupmaker.com
 +.inmuzp.popsockets.com

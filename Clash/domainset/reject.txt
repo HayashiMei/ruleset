@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-04-25T06:42:57.210Z
-# Size: 69089
+# Last Updated: 2025-04-25T06:57:10.493Z
+# Size: 69095
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -4221,6 +4221,7 @@ grs.dbankcloud.asia
 +.uweriot.top
 +.uweizat.top
 +.uweisit.top
++.uwcnmtt.top
 +.uvcnmtt.top
 +.uuresdt.top
 +.uucnwtt.top
@@ -4377,6 +4378,7 @@ grs.dbankcloud.asia
 +.lweizal.top
 +.lvcnmtl.top
 +.luresdl.top
++.lucnwtl.top
 +.lucnmtl.top
 +.ltimiyl.top
 +.lsyliel.top
@@ -4611,6 +4613,7 @@ grs.dbankcloud.asia
 +.pqnonh.top
 +.pflwta.top
 +.nrlupu.top
++.nlnlrn.top
 +.ngjcvn.top
 +.mito03.top
 +.lubrzh.top
@@ -9753,6 +9756,7 @@ msgv6.qy.net
 +.tnlixn.icu
 +.tmvirr.icu
 +.tmjzlr.icu
++.tljrvn.icu
 +.tghrfv.icu
 +.tezlpl.icu
 +.tbbfdr.icu
@@ -30413,6 +30417,7 @@ tracking.klickthru.com
 +.log.hypebeast.com
 +.imcfkz.hyeminwon.com
 +.hwyghetrk.com
++.hvrunsqqy.com
 +.huwaczntu.com
 +.learn.huthwaite.com
 +.na-pages.husqvarna.com
@@ -65320,6 +65325,7 @@ adlaunch.qtfm.cn
 +.okvt.cn
 +.ojmv.cn
 +.oieo.cn
++.ohqp.cn
 +.oelj.cn
 +.odxh.cn
 +.oajv.cn

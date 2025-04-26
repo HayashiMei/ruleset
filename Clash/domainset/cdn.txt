@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-04-26T15:40:53.741Z
-# Size: 3481
+# Last Updated: 2025-04-26T18:40:50.463Z
+# Size: 3482
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3060,6 +3060,7 @@ cdn.plot.ly
 cdn.img.ly
 i.mt.lv
 media.webtoo.ls
++.xascdn.li
 pomf2.lain.la
 +.ipfs.lain.la
 static.pfrt.yna.co.kr

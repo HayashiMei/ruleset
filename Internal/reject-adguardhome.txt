@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sat, 26 Apr 2025 15:41:02 GMT
+! Last modified: Sat, 26 Apr 2025 18:40:59 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -4987,6 +4987,7 @@
 ||hsylieu.top^
 ||hrtlisu.top^
 ||houbliu.top^
+||hnwuamu.top^
 ||hjimtyu.top^
 ||hfjsliu.top^
 ||hewrutu.top^
@@ -9984,7 +9985,7 @@
 ||csp.yandex.net^
 ||abt.s3.yandex.net^
 ||xmlppc.net^
-|sec.resource.xiaomi.net^
+||sec.resource.xiaomi.net^
 |phonecallapi.micloud.xiaomi.net^
 |contactapi.micloud.xiaomi.net^
 |micardapi.micloud.xiaomi.net^
@@ -9992,7 +9993,7 @@
 |sfsapi.micloud.xiaomi.net^
 |pdc.micloud.xiaomi.net^
 |api.g.micloud.xiaomi.net^
-|sec-cdn.static.xiaomi.net^
+||sec-cdn.static.xiaomi.net^
 |global.search.xiaomi.net^
 |mlog.search.xiaomi.net^
 |lxcdn.dl.files.xiaomi.net^
@@ -42054,7 +42055,7 @@
 |ime.api.xiaomi.com^
 ||ads.xiaomi.com^
 ||ad1.xiaomi.com^
-||resolver.mi.xiaomi.com^
+|resolver.mi.xiaomi.com^
 |hd02.lg.xiaomi.com^
 |fe05.lg.xiaomi.com^
 |fe02.lg.xiaomi.com^
@@ -47597,7 +47598,7 @@
 ||api.newsfeed.intl.miui.com^
 ||api.setting.intl.miui.com^
 ||activity.browser.intl.miui.com^
-|api.collect.data.intl.miui.com^
+||data.intl.miui.com^
 ||avlyun.sec.intl.miui.com^
 ||authbe.sec.intl.miui.com^
 ||flash.sec.intl.miui.com^
@@ -69842,7 +69843,7 @@
 ||ajoqu.cn^
 ||aiknx.cn^
 ||afopr.cn^
-|fota4.adups.cn^
+||adups.cn^
 ||adpro.cn^
 ||adhvz.cn^
 ||adbxb.cn^

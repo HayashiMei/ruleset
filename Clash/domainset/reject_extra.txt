@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2025-04-26T15:40:52.372Z
-# Size: 57465
+# Last Updated: 2025-04-26T18:40:49.182Z
+# Size: 57473
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1052,6 +1052,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.mmnajttjehrhx.today
 +.medbzvejdlkxe.today
 +.kokflrflwarlx.today
++.guqeeflwaxjec.today
 +.bzddpjcutxcvk.today
 +.bumidpuaraodp.today
 +.agxpzsgyklgmg.today
@@ -2924,6 +2925,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.56wdf7avyu1.kliplytd.shop
 +.kiserman.shop
 +.iudleaky.shop
++.haedbink.shop
 +.gededewe.shop
 +.dustglow.shop
 +.dottysur.shop
@@ -4720,6 +4722,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.youtuber-cash.buzz
 +.vufqinbxihvvf.buzz
 +.ntmreohudibfo.buzz
++.njmhnurksjktt.buzz
 +.zmmlllpjxvxl.buzz
 +.zfvsnpir-cxx.buzz
 +.sjetnf-oizyo.buzz
@@ -8504,6 +8507,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.friends.uvacreditunion.org
 +.unblocktheship.org
 +.typicalstudent.org
++.tillstayhereab.org
 +.templatesearch.org
 +.solaranalytics.org
 +.sjsmartcontent.org
@@ -27020,6 +27024,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.hammamfehmic.com
 +.hallanjerbil.com
 +.hafhwagagswy.com
++.hactifawlgro.com
 +.hacktaikhoan.com
 +.h8brccv4zf5h.com
 +.gzihfaatdohk.com
@@ -30475,6 +30480,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.ypp-studio.com
 +.yourdailytrailer.yournewtab.com
 +.youfiletor.com
++.yotedroumy.com
 +.devices.yondercard.com
 +.yollamedia.com
 +.ynlfpyeifc.com
@@ -32681,6 +32687,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.8ced4d3c11.dc5cede8fb.com
 +.92d088622c.dc4ea4b8c7.com
 +.dbrtkwaa81.com
++.dblowthrou.com
 +.07d69990c8.dbb94182a0.com
 +.6e7966fcaf.db8a63af00.com
 +.36f0cfe37d.db770a49df.com
@@ -35360,6 +35367,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.page-info.com
 +.paehceman.com
 +.padma-fed.com
++.pacteaten.com
 +.p6qf8cqa0.com
 +.p2pmining.com
 +.p23hxejm1.com
@@ -40590,7 +40598,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.visibli.com
 +.visiads.com
 +.visa-mb.com
-+.p.viowrel.com
++.viowrel.com
 +.vionito.com
 +.vinlens.com
 +.viirift.com

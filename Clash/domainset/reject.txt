@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-04-26T12:39:00.786Z
-# Size: 70531
+# Last Updated: 2025-04-26T15:40:52.372Z
+# Size: 70567
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1291,6 +1291,7 @@ bad.third-party.site
 +.hreso.site
 +.gymea.site
 +.gimes.site
++.gimea.site
 +.fynil.site
 +.fidar.site
 +.fhldb.site
@@ -1369,6 +1370,7 @@ bad.third-party.site
 +.lactifyfabraea.shop
 +.jurantsepinine.shop
 +.jelliconitrate.shop
++.jacquesmodally.shop
 +.insteamdentata.shop
 +.inlacesglisten.shop
 +.imperilgustard.shop
@@ -1581,6 +1583,7 @@ bad.third-party.site
 +.duretbuffing.shop
 +.daffishrenky.shop
 +.curvedtobies.shop
++.cristavoider.shop
 +.colleeniambi.shop
 +.clumpykupper.shop
 +.a8.classicalelf.shop
@@ -2042,8 +2045,10 @@ miniapp.qiluyidian.mobi
 +.myuyxesrktrmz.life
 +.mxjwznfcryxli.life
 +.lnevgpyqncwpj.life
++.lknvksrvlawsh.life
 +.knfeiikyojdib.life
 +.iaisvasxruxqv.life
++.fkzmvsmbnblvu.life
 +.elfnuhdfebphr.life
 +.cnwafglwlbcro.life
 +.ss.rockandroses.life
@@ -2589,6 +2594,7 @@ grs.dbankcloud.asia
 +.jqpuqbkbauung.xyz
 +.hedungirgassi.xyz
 +.grauckoonsaul.xyz
++.gqmacifyutqtx.xyz
 +.gecodbchclick.xyz
 +.gaifutaishede.xyz
 +.equirekeither.xyz
@@ -2600,6 +2606,7 @@ grs.dbankcloud.asia
 +.um5xcgngmart.xyz
 +.todseenegnie.xyz
 +.ticaframeofm.xyz
++.tdmnbijnrlyu.xyz
 +.survrhostngs.xyz
 +.staerlcmplks.xyz
 +.smikqbwrgttx.xyz
@@ -3486,6 +3493,7 @@ grs.dbankcloud.asia
 +.kcdn.xyz
 +.hhit.xyz
 +.hdat.xyz
++.gecl.xyz
 +.eeco.xyz
 +.dogt.xyz
 +.cank.xyz
@@ -3684,6 +3692,7 @@ grs.dbankcloud.asia
 +.wmmrbwiyztgeg.top
 +.wmlollmkvybzm.top
 +.wmeqoborqboyv.top
++.wllebozbzjjbj.top
 +.wkwqljwjvovoj.top
 +.wkmorvzawmryv.top
 +.wkamwqeoqozzm.top
@@ -3716,6 +3725,7 @@ grs.dbankcloud.asia
 +.td86hsmlmggym.top
 +.tablinarovers.top
 +.sundryturbith.top
++.squdgyclavier.top
 +.spitouspowter.top
 +.spitinggigant.top
 +.sjqgmtyxlrjlc.top
@@ -3801,6 +3811,7 @@ grs.dbankcloud.asia
 +.jiggledanezeh.top
 +.jelokerrvvjoq.top
 +.jekzyyyljvyww.top
++.jbbyyryolqvby.top
 +.idolismsupari.top
 +.hydrialocklet.top
 +.hoppetunshore.top
@@ -4024,6 +4035,7 @@ grs.dbankcloud.asia
 +.leumatawsed.top
 +.larchenwood.top
 +.kochiayaboo.top
++.inkosistond.top
 +.iminesextol.top
 +.ijeujkdhnvb.top
 +.hoolillamon.top
@@ -4954,6 +4966,7 @@ collect.foresightnews.pro
 +.phiduvuka.pro
 +.phenidudo.pro
 +.nacontent.pro
++.meristana.pro
 +.mepyjishu.pro
 +.mbvndspl1.pro
 +.kigaphuby.pro
@@ -6661,6 +6674,7 @@ ads.weilitoutiao.net
 +.tm.tradetracker.net
 +.tl.tradetracker.net
 +.ti.tradetracker.net
++.towhadsoxith.net
 +.logger.torimochi-ad.net
 +.go.topbetbrasil.net
 +.toojeestoone.net
@@ -7574,6 +7588,7 @@ samsungotn.net
 +.d2b4jmuffp1l21.cloudfront.net
 +.d2b12e9gh7m9il.cloudfront.net
 +.d2a4qm4se0se0m.cloudfront.net
++.d2a0tn74luqqde.cloudfront.net
 +.d29mxewlidfjg1.cloudfront.net
 +.d29mhxfd390ueb.cloudfront.net
 +.d29lduyskr59p4.cloudfront.net
@@ -11374,6 +11389,7 @@ sashimi.royli.dev
 +.track.portalnoticiasdebemestar.com
 +.politicallyartisticsocks.com
 +.playgroundordinarilymess.com
++.perfoliateratchetspecial.com
 +.outletfishingrestoration.com
 +.noxiousrecklesssuspected.com
 +.data.emailinfo.novonordiskemailprograms.com
@@ -12122,6 +12138,7 @@ sashimi.royli.dev
 +.tr.devisminute-operateur.com
 +.secure.detailsinventivegroup.com
 +.deskboundprelawwinner.com
++.defeatedtulipcogitate.com
 +.z89yxner8h.datsumou-beauty-times.com
 +.tr.cyprusparadiseestates.com
 +.cuisineenvoyadvertise.com
@@ -12280,6 +12297,7 @@ sashimi.royli.dev
 +.studyunharmedupscale.com
 +.steroidbazaarbalance.com
 +.gozncj.stealthangelsurvival.com
++.stayedfrozenproduced.com
 +.slaunch.spectrumtherapeutics.com
 +.information.specialoccasionlinen.com
 +.spacecatholicpalmful.com
@@ -12630,6 +12648,7 @@ fkp.samsungcloudsolution.com
 +.alterassumeaggravate.com
 +.alreadyballetrenting.com
 +.alonehepatitisenough.com
++.allycurrantliability.com
 +.strack.apps.allianzworldwidecare.com
 +.t.aircompressorsdirect.com
 +.aggravatingcomplaint.com
@@ -12858,6 +12877,7 @@ fkp.samsungcloudsolution.com
 +.marketing.milesfinancialgroup.com
 +.michiganrobotflower.com
 +.news.metalheadconvention.com
++.meshsensorcuriosity.com
 +.ttn.menshealthguidebook.com
 +.tracking.maticnic-direprimee.com
 +.marketingcloudqaops.com
@@ -13927,6 +13947,7 @@ fkp.samsungcloudsolution.com
 +.superficialspring.com
 +.ccteax.sunglasswarehouse.com
 +.suitedeatercrutch.com
++.successesstudents.com
 +.trk.strongerfuturenow.com
 +.hi.streetworkoutlist.com
 +.partner.streetinteractive.com
@@ -14038,6 +14059,7 @@ fkp.samsungcloudsolution.com
 +.rtk.portalnoticias-g2.com
 +.load.sst.polonious-systems.com
 +.rt.policyfamilyquote.com
++.pointcontinentrtb.com
 +.trk.pneumaticproducts.com
 +.marketing.plazahomemortgage.com
 +.ea.placedestendances.com
@@ -15068,6 +15090,7 @@ fkp.samsungcloudsolution.com
 +.cp.official-coupons.com
 +.tr.offerta-companeo.com
 +.load.zahyqcrd.oceancollectives.com
++.nutritious-month.com
 +.metrics.nutraingredients.com
 +.look-ahead.nurturemarketing.com
 +.hbxiol.numberingwebsite.com
@@ -16257,6 +16280,7 @@ otn.samsungcloudcdn.com
 +.activate.pacificsandiego.com
 +.shop.overstockcostco.com
 +.sagor.ovation-designs.com
++.ouyoohwfpphakwe.com
 +.outwhirlipedeer.com
 +.outoctillerytor.com
 +.data-ad8351f80c.outdoor-magazin.com
@@ -17126,6 +17150,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.wealthsgraphis.com
 +.weakcompromise.com
 +.tsuubf.waysidegardens.com
++.waverdejection.com
 +.watchheeddandy.com
 +.metrics.washingtonpost.com
 +.ny77jj.washingtonpost.com
@@ -17912,6 +17937,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.kaiu-marketing.com
 +.ai.kaishabaikyaku.com
 +.jygotubvpyguak.com
++.justicebracket.com
 +.stehly.justfashionnow.com
 +.justactivedeal.com
 +.junmediadirect.com
@@ -18105,6 +18131,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.srepdata.gannettdigital.com
 +.traxex.gannettdigital.com
 +.analytics.gamedatacrunch.com
++.fzyvmvomphvvws.com
 +.fyobbmzhbftmsa.com
 +.futureofcoffee.com
 +.st.fussballreisen.com
@@ -18510,7 +18537,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.bilifeetcheets.com
 +.rtrack.bigsolar-power.com
 +.d.bifrost-studio.com
-+.ads.betweendigital.com
++.betweendigital.com
 +.betteradsystem.com
 +.bettentacruela.com
 +.go.betbonusbrasil.com
@@ -20280,6 +20307,7 @@ api-ads.tiantianqutao.com
 +.load.has-ticket.dgtl-festival.com
 +.tracking.dfinsolutions.com
 +.info.dfinsolutions.com
++.devyqrdqrhncv.com
 +.dethijohoagra.com
 +.detachedbates.com
 +.vlgstb.destinationxl.com
@@ -20298,6 +20326,7 @@ api-ads.tiantianqutao.com
 +.iguana.delbaoliveira.com
 +.uhofbu.declicfitness.com
 +.tr.lettre.dechets-infos.com
++.decastebonise.com
 +.debatabletent.com
 +.stoat.death-to-ie11.com
 +.track.dealextremist.com
@@ -22379,6 +22408,7 @@ httpdns-ocloud.heytapmobile.com
 +.hartnessintl.com
 +.trck.info.harpumbrella.com
 +.thegreatesthits.harleybenton.com
++.hareburfilet.com
 +.track.happymammoth.com
 +.load.g.happygutlife.com
 +.log.happyapkdown.com
@@ -23638,6 +23668,7 @@ in.vipliangmei.com
 +.analytics.underarmour.com
 +.analytic.underarmour.com
 +.under2given.com
++.uncotorture.com
 +.unblitzlean.com
 +.umpedshumal.com
 +.umedadelemp.com
@@ -25275,6 +25306,7 @@ httpdns.huaweicloud.com
 +.web.email.farrow-ball.com
 +.bee.farmaciavdg.com
 +.faquirrelot.com
++.fake-square.com
 +.ydjrew.fairplay142.com
 +.fairfeeling.com
 +.facisespess.com
@@ -27568,6 +27600,7 @@ ads2.mediaarmor.com
 +.swa.m6boutique.com
 +.tk.m6boutique.com
 +.lzxdx24yib.com
++.lzwscugghs.com
 +.lz-pub-ads.com
 +.lyricshook.com
 +.lyonthrill.com
@@ -29305,6 +29338,7 @@ simple.cloudsmith.com
 +.77b0d74a17.com
 +.777bb111ww.com
 +.777aa888bb.com
++.76359a95dd.com
 +.760a131226.com
 +.73fa81c29d.com
 +.73be0a6d8a.com
@@ -29375,6 +29409,7 @@ simple.cloudsmith.com
 +.331f7bf198.com
 +.30e7ff2c41.com
 +.12159c9c0b.3009e36989.com
++.2f44166f35.com
 +.2cba2742a4.com
 +.1cbd637d10.2c8eb505eb.com
 +.2bc533c900.com
@@ -36315,6 +36350,7 @@ log.b612kaji.com
 +.fwkwtw.amorossa.com
 +.amoochaw.com
 +.stape.amodamaa.com
++.amkzzela.com
 +.metrics.amgfunds.com
 +.cookie.amerigas.com
 +.amdkmamc.com

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-04-27T04:04:04.685Z
-# Size: 71728
+# Last Updated: 2025-04-27T12:39:27.712Z
+# Size: 71732
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -35682,6 +35682,7 @@ pushapi.lenovomm.com
 susapi.lenovomm.com
 adcore.lenovomm.com
 +.lemouwee.com
++.analytics.lemoolah.com
 +.track.legitxit.com
 +.stats.lefthoek.com
 +.leezeept.com
@@ -39335,6 +39336,7 @@ adapi.izuiyou.com
 +.marketing.itshome.com
 +.marketing.itsavvy.com
 +.dg.its-ats.com
++.itoqals.com
 +.marketing.itiball.com
 +.xgefvi.iteshop.com
 +.tr.news.itancia.com
@@ -39520,6 +39522,7 @@ adx-dra.op.hicloud.com
 +.tags.hickies.com
 +.gbvrgf.hibarai.com
 +.hgreils.com
++.hfc195b.com
 +.hetapus.com
 +.hetaint.com
 +.tr.news.heredis.com
@@ -40796,6 +40799,7 @@ httpdns.zybang.com
 +.1.zou114.com
 +.vdc.zoomph.com
 +.zononi.com
++.jumbo.zomato.com
 +.zodoth.com
 +.zmonei.com
 +.zlinkp.com

@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sun, 27 Apr 2025 04:04:15 GMT
+! Last modified: Sun, 27 Apr 2025 12:39:37 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -37483,6 +37483,7 @@
 |susapi.lenovomm.com^
 |adcore.lenovomm.com^
 ||lemouwee.com^
+||analytics.lemoolah.com^
 ||track.legitxit.com^
 ||stats.lefthoek.com^
 ||leezeept.com^
@@ -41308,6 +41309,7 @@
 ||mail.itseasy.com^
 ||marketing.itsavvy.com^
 ||dg.its-ats.com^
+||itoqals.com^
 ||marketing.itiball.com^
 ||xgefvi.iteshop.com^
 ||tr.news.itancia.com^
@@ -41499,6 +41501,7 @@
 ||tags.hickies.com^
 ||gbvrgf.hibarai.com^
 ||hgreils.com^
+||hfc195b.com^
 ||hetapus.com^
 ||hetaint.com^
 ||tr.news.heredis.com^
@@ -42855,6 +42858,7 @@
 ||1.zou114.com^
 ||vdc.zoomph.com^
 ||zononi.com^
+||jumbo.zomato.com^
 ||zodoth.com^
 ||zmonei.com^
 ||zlinkp.com^

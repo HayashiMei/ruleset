@@ -466,6 +466,10 @@ dns:
       - system://
       - system
       - dhcp://system
+    "*.local":
+      - system://
+      - system
+      - dhcp://system
     "*.localdomain":
       - system://
       - system

@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-04-28T12:36:04.680Z
+// # Build 2025-04-28T12:38:39.930Z
 
 declare(strict_types=1);
 
@@ -2441,6 +2441,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,ui.direct,DIRECT',
         'DOMAIN,unifi,DIRECT',
         'DOMAIN,ntt.setup,DIRECT',
+        'DOMAIN-SUFFIX,local,DIRECT',
         'DOMAIN-SUFFIX,bogon,DIRECT',
         'DOMAIN-SUFFIX,52pt.site,DIRECT',
         'DOMAIN-SUFFIX,concertos.live,DIRECT',

@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 29 Apr 2025 13:55:53 GMT
+! Last modified: Tue, 29 Apr 2025 14:13:02 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -5753,6 +5753,7 @@
 ||ildrendreaminger.org^
 ||edm.healthroundtable.org^
 ||t.hartfordsymphony.org^
+||getclashvergerev.org^
 ||reton.free-porn-videos.org^
 ||marketing.discoversaratoga.org^
 ||iguana.cypressridge-pca.org^
@@ -5823,6 +5824,8 @@
 ||dhertouchingthe.org^
 ||metrics.consumerreports.org^
 ||commercialvalue.org^
+||clashforwindows.org^
+||clashforandroid.org^
 ||statistik.changing-cities.org^
 ||seniorliving.canterburycourt.org^
 ||seahorse.brightwayhealth.org^
@@ -6127,6 +6130,7 @@
 ||mrpandabear.org^
 ||miningocean.org^
 ||minershaven.org^
+||mihomoparty.org^
 ||metrics.michaeljfox.org^
 ||strack.mercycareaz.org^
 ||stats.memberdrive.org^
@@ -6510,6 +6514,7 @@
 ||cominers.org^
 ||coinhive.org^
 ||cnnected.org^
+||clashfor.org^
 ||marketing.cheyenne.org^
 ||pubstr.chemrxiv.org^
 ||info.chaplain.org^
@@ -6746,6 +6751,7 @@
 ||bitcoin.dashjr.org^
 ||cminer.org^
 ||clktds.org^
+||clashx.org^
 ||ckpool.org^
 ||w6.chabad.org^
 ||marketing.centra.org^
@@ -7259,6 +7265,7 @@
 ||demtuftoodsacmy.net^
 ||coushewitalouti.net^
 ||coashoohathaija.net^
+||clashforwindows.net^
 ||chicheecmaungee.net^
 ||chekrilsoumpoab.net^
 ||chatsuptocachee.net^
@@ -7872,6 +7879,7 @@
 ||moumaiphuch.net^
 ||moowhaufipt.net^
 ||moograwhire.net^
+||mihomoparty.net^
 ||mihaivibsaz.net^
 ||mickosijacm.net^
 ||t.melhorplano.net^
@@ -26964,6 +26972,7 @@
 ||millerspool.com^
 ||eloqua.military2pm.com^
 ||chickadee.mikebifulco.com^
+||mihomoparty.com^
 ||marketing.midwestbath.com^
 ||economicadvantage.midamerican.com^
 ||metrics.michaelkors.com^
@@ -51057,6 +51066,7 @@
 ||auroraveil.bid^
 ||popunder.bid^
 |ga.utilapi.bid^
+||clashcn.bid^
 ||ads2550.bid^
 ||rotarb.bid^
 ||online.bid^

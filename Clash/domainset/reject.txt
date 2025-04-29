@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-04-29T12:48:02.592Z
-# Size: 72451
+# Last Updated: 2025-04-29T13:55:27.354Z
+# Size: 72453
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -36209,7 +36209,7 @@ api.e.kuaishou.com
 +.gcm.ksmobile.com
 +.cfg.cml.ksmobile.com
 +.web-trace.ksapisrv.com
-log-sdk.ksapisrv.com
++.log-sdk.ksapisrv.com
 +.ulogjs.ksapisrv.com
 +.kruraits.com
 +.krinkred.com
@@ -42618,7 +42618,7 @@ ads.data.pplive.com
 +.nws.naltis.com
 +.zzz.nafnaf.com
 +.jlffeu.nadula.com
-+.ads.mythad.com
++.mythad.com
 +.metrics.myride.com
 +.tag.myplay.com
 +.esa-reg-eup.myoppo.com
@@ -56853,7 +56853,9 @@ coconuts.boy.jp
 +.aa-metrics.arg.x.recruit.co.jp
 +.aa-metrics.handy.arg.x.recruit.co.jp
 +.log.affiliate.rakuten.co.jp
++.event.notifier.rakuten.co.jp
 +.tracker.adsales.rakuten.co.jp
++.ashiato.travel.rakuten.co.jp
 +.count.upc.rakuten.co.jp
 +.log.rmp.rakuten.co.jp
 +.rat.rakuten.co.jp

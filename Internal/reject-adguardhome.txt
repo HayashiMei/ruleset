@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 29 Apr 2025 12:48:13 GMT
+! Last modified: Tue, 29 Apr 2025 13:55:53 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -38012,7 +38012,7 @@
 ||gcm.ksmobile.com^
 ||cfg.cml.ksmobile.com^
 ||web-trace.ksapisrv.com^
-|log-sdk.ksapisrv.com^
+||log-sdk.ksapisrv.com^
 ||ulogjs.ksapisrv.com^
 ||kruraits.com^
 ||krinkred.com^
@@ -44730,7 +44730,7 @@
 ||zzz.nafnaf.com^
 ||jlffeu.nadula.com^
 ||n3rd3d.com^
-||ads.mythad.com^
+||mythad.com^
 ||metrics.myride.com^
 ||tag.myplay.com^
 ||esa-reg-eup.myoppo.com^
@@ -59540,7 +59540,9 @@
 ||aa-metrics.arg.x.recruit.co.jp^
 ||aa-metrics.handy.arg.x.recruit.co.jp^
 ||log.affiliate.rakuten.co.jp^
+||event.notifier.rakuten.co.jp^
 ||tracker.adsales.rakuten.co.jp^
+||ashiato.travel.rakuten.co.jp^
 ||count.upc.rakuten.co.jp^
 ||log.rmp.rakuten.co.jp^
 ||rat.rakuten.co.jp^

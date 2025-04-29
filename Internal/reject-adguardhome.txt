@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 29 Apr 2025 08:54:52 GMT
+! Last modified: Tue, 29 Apr 2025 12:48:13 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -25656,6 +25656,7 @@
 ||xameleonads.com^
 ||xaloxfnusha.com^
 ||wwwpromoter.com^
+||wwok04291kl.com^
 ||wwok04281kl.com^
 ||clownfish.wrestlingiq.com^
 ||wreathabble.com^
@@ -30030,6 +30031,7 @@
 ||max-adserv.com^
 ||events.matterport.com^
 ||metrics.matlabexpo.com^
+||maticooads.com^
 ||mathneedle.com^
 ||stats.mastermeup.com^
 ||eloquamarketing.masterlock.com^
@@ -30710,6 +30712,7 @@
 ||a.fxnetworks.com^
 ||7345023508.fxmconnect.com^
 ||fwtracking.com^
+||fvitteilse.com^
 ||futseerdoa.com^
 ||community.fusesource.com^
 ||form.fusesource.com^
@@ -61166,6 +61169,7 @@
 ||event.hackle.io^
 ||cc.gofile.io^
 ||s.gofile.io^
+||mihoutao1868.github.io^
 ||techhome-js.github.io^
 ||googleads.github.io^
 ||rat.gimlet.io^

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2025-04-30T12:43:10.469Z
-# Size: 56417
+# Last Updated: 2025-04-30T14:24:59.531Z
+# Size: 56415
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -25304,7 +25304,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.topcashvibes.com
 +.topbestgames.com
 +.top-bloggers.com
-+.tooreldretpl.com
 +.tools-affil2.com
 +.tookcheckout.com
 +.tongqing2015.com
@@ -28354,7 +28353,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.omgwowgirls.com
 +.olxxugltoku.com
 +.share.olivegarden.com
-+.okpl04301ai.com
 +.okkywctpvfu.com
 +.okhrtusmuod.com
 +.oinkedbowls.com

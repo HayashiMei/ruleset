@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2025-04-30T14:24:59.534Z
-# Size: 1105
+# Last Updated: 2025-05-01T07:37:12.000Z
+# Size: 1106
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -151,6 +151,7 @@ mtcspeedtest.catskill.net
 open.cachefly.net
 sp7.atcc-gns.net
 sp3.atcc-gns.net
+speedtest.as214199.net
 speedtest.as210667.net
 speedtest.thn.lon.network.as201838.net
 speedtest.pa5.as198831.net

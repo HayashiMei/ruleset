@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Thu, 01 May 2025 11:59:50 GMT
+! Last modified: Thu, 01 May 2025 17:16:56 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -333,6 +333,7 @@
 ||shwfxrbsrifhx.online^
 ||rdfeesvsxhsyn.online^
 ||qxozluyvvyabw.online^
+||qqsfafvkgsyto.online^
 ||plorvexmoon13.online^
 ||pajbmenfaridd.online^
 ||paihfzqlznxdn.online^
@@ -725,6 +726,7 @@
 ||load.analytics.airback.store^
 ||rejco2.store^
 ||a.mysalo.store^
+||mayads.store^
 ||partner.forkys.store^
 ||obblewha.agglet.store^
 ||a8.shizq.store^
@@ -1696,6 +1698,7 @@
 ||acetylsbrocht.shop^
 ||acamarjinchao.shop^
 ||yarranpyrope.shop^
+||widthsteeler.shop^
 ||weightypikas.shop^
 ||verdiiceless.shop^
 ||vastymeropic.shop^
@@ -2632,6 +2635,7 @@
 ||zbmzkxmensplm.club^
 ||xdrlthfhikvgm.club^
 ||track.viewitquickly.club^
+||uwnytpkxxpueh.club^
 ||ucgfvdrdbqajh.club^
 ||skdjppgwnfune.club^
 ||shbqitjfwhhge.club^
@@ -3838,6 +3842,7 @@
 ||zambiandirexit.top^
 ||yeastedbushpig.top^
 ||whammedknavess.top^
+||waukingmuriate.top^
 ||warrandoutrake.top^
 ||wanhornuntaint.top^
 ||vesuvinaqueity.top^
@@ -4155,6 +4160,7 @@
 ||lalabaos1020.top^
 ||kloshambaris.top^
 ||kaphsfruiter.top^
+||jowyylklbvmz.top^
 ||jivedwahabit.top^
 ||jewbushpisay.top^
 ||jaygeeceibas.top^
@@ -4818,6 +4824,7 @@
 ||hsylieu.top^
 ||hrtlisu.top^
 ||houbliu.top^
+||hnwucnu.top^
 ||hnwuamu.top^
 ||hjimtyu.top^
 ||hfjsliu.top^
@@ -7828,6 +7835,7 @@
 ||raikijausa.net^
 ||pushprofit.net^
 ||purpleflag.net^
+||ptuceeroaw.net^
 ||ptoulraiph.net^
 ||ptootutseh.net^
 ||ptelsudsew.net^
@@ -12495,6 +12503,7 @@
 ||secure.startyourfashionbusiness.com^
 ||staggeredravehospitality.com^
 ||go.squirtingorgasmshortcuts.com^
+||snuff-brownsprintcountry.com^
 ||simmeringsuitableunwoven.com^
 ||info.sherriffhealthcaresearch.com^
 ||sarcasticnotarycontrived.com^
@@ -16799,6 +16808,7 @@
 ||eac0823ca94e3c07.com^
 ||jygslk.dynamiteclothing.com^
 ||dunderaffiliates.com^
+||dstoppedtotalkto.com^
 ||drsmediaexchange.com^
 ||paxtrz.dreamplacehotels.com^
 ||downloadfreemium.com^
@@ -19067,6 +19077,7 @@
 ||propertyofnews.com^
 ||propellerclick.com^
 ||static.pronivydigital.com^
+||progenyaimless.com^
 ||profusesupport.com^
 ||ofawjl.profitablenews.com^
 ||profitablegate.com^
@@ -23550,6 +23561,7 @@
 ||omshedinjaor.com^
 ||omnjpeakvwwo.com^
 ||omarcheopson.com^
+||olxapgciwffu.com^
 ||olkcihpavrky.com^
 ||evupmg.olehenriksen.com^
 ||a8.okamotogroup.com^
@@ -24764,6 +24776,7 @@
 ||target.champssports.com^
 ||sanl.champssports.com^
 ||chaipoodrort.com^
+||cesarebientt.com^
 ||ceryldelaine.com^
 ||analytics.certifriedit.com^
 ||cerillairfan.com^
@@ -25070,6 +25083,7 @@
 ||ardawhwhylur.com^
 ||cdn.arcstudiopro.com^
 ||aqcwzaossxti.com^
+||apptdinsteps.com^
 ||appserver-cp.com^
 ||appserver-ap.com^
 ||appollo-plus.com^
@@ -25180,6 +25194,7 @@
 ||affiliate-wg.com^
 ||stape.aetherclinic.com^
 ||aerodynomach.com^
+||aeinkailrupe.com^
 ||adviralmedia.com^
 ||t7baxp1xmw00.boxoffice.adventuretix.com^
 ||1eusy6.boxoffice.adventuretix.com^
@@ -25309,6 +25324,7 @@
 ||ss.zavattishop.com^
 ||zatloudredr.com^
 ||zapotasmoot.com^
+||zalwlraoazu.com^
 ||uat1-dc.zalesoutlet.com^
 ||metrics.zalesoutlet.com^
 ||dc.zalesoutlet.com^
@@ -26425,6 +26441,7 @@
 ||oldgyhogola.com^
 ||okueroskynt.com^
 ||oktranhfyfa.com^
+||okpl05011ai.com^
 ||okpl05010ai.com^
 ||okpl04301ai.com^
 ||okjkidtajoh.com^
@@ -26570,6 +26587,7 @@
 ||u652.myplainview.com^
 ||axp.mypanhandle.com^
 ||mynewmining.com^
+||mob2.mymusic2025.com^
 ||ddooll.mykindkorea.com^
 ||srepdata.mydestinate.com^
 ||track.myclipstone.com^
@@ -26773,6 +26791,7 @@
 ||twn36gx4109r.loveisblank.com^
 ||lousefodgel.com^
 ||loozubaitoa.com^
+||loopflavour.com^
 ||a8.looop-denki.com^
 ||loomdeviate.com^
 ||loobyfleyed.com^
@@ -26907,6 +26926,7 @@
 ||jscoinminer.com^
 ||jpaolbtfyoh.com^
 ||jpalmowraat.com^
+||joorqfiyzti.com^
 ||jollyspring.com^
 ||jolecyclist.com^
 ||xrnyhc.jokwangilbo.com^
@@ -27001,6 +27021,7 @@
 ||jbezdi.ilsole24ore.com^
 ||ctrkd.ilsole24ore.com^
 ||ileumoctant.com^
+||ikxwupdcidp.com^
 ||my.iheartradio.com^
 ||images.share.iheartmedia.com^
 ||join.ifsecglobal.com^
@@ -28256,6 +28277,7 @@
 ||sgtm.yesinglese.com^
 ||metrics.yellowbook.com^
 ||info.yankeehome.com^
+||yaltchoaiz.com^
 ||xygliwhawu.com^
 ||xxxx96xxxx.com^
 ||xxxx88xxxx.com^
@@ -29604,6 +29626,7 @@
 ||track.mtraq127sa.com^
 ||track.mtraq121ps.com^
 ||mtgglobals.com^
+||mtdzxyfhzn.com^
 ||app.msubobcats.com^
 ||t.msubobcats.com^
 ||data.dttp-test.msccruises.com^
@@ -31623,7 +31646,7 @@
 ||a9684972c2.com^
 ||1ca6e3e357.a8ca394de0.com^
 ||0eab70c429.a567dda4c2.com^
-||2f7cae6ec9.a41ffeba4a.com^
+||a41ffeba4a.com^
 ||c92a8a2de1.a0d3dd0c89.com^
 ||a0b5779711.com^
 ||a07ccac956.com^
@@ -31782,6 +31805,7 @@
 ||marketing.1edisource.com^
 ||1c7cf19baa.com^
 ||1c0c3fde9d.com^
+||1be953d1cc.com^
 ||198636861c.com^
 ||171c856581.com^
 ||17180d187e.com^
@@ -32730,6 +32754,7 @@
 ||data.news.riyadhair.com^
 ||rixengine.com^
 ||beacon.riskified.com^
+||ripeorder.com^
 ||xml-eu-v4.ripamatic.com^
 ||xml-v4.ripamatic.com^
 ||filter.ripamatic.com^
@@ -48441,6 +48466,7 @@
 ||g.3lian.com^
 |ad.360in.com^
 ||m1.27com.com^
+||264dy.com^
 ||cdn93d99x0e.23bei.com^
 ||f-g-l-j.22yy6.com^
 ||21wiz.com^
@@ -61502,6 +61528,7 @@
 ||engage.3mmagyarorszag.hu^
 ||landing.wolterskluwer.hu^
 ||rum.marquardmedia.hu^
+||adat.ingatlanbazar.hu^
 ||s.gyorgyteabolt.hu^
 ||partner.eshop-gyorsan.hu^
 ||my.11team-sports.hu^
@@ -61584,6 +61611,7 @@
 ||analytics.pipelife.hu^
 ||ad.netmedia.hu^
 ||minepool.hu^
+||adat.metropol.hu^
 ||load.gtm.manucafe.hu^
 ||sstats.libresse.hu^
 ||adat.koponyeg.hu^
@@ -61669,11 +61697,13 @@
 ||stats.tork.hu^
 ||konv.tasz.hu^
 ||lalqoc.lyke.hu^
+||adat.she.life.hu^
 ||bwmetrics.jegy.hu^
 ||illuzio.jegy.hu^
 ||ldugvf.bolf.hu^
 ||metrics.one.hu^
 ||ot.obi.hu^
+||kib.hu^
 ||email-cm.jll.hu^
 ||email-am.jll.hu^
 ||cookies.jll.hu^
@@ -71462,6 +71492,7 @@
 ||tpkv.cn^
 ||tpjw.cn^
 |ad.thsi.cn^
+||svnf.cn^
 ||svjj.cn^
 ||7011.stia.cn^
 ||spoh.cn^

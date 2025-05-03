@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-05-03T02:16:08.669Z
+// # Build 2025-05-03T02:19:57.473Z
 
 declare(strict_types=1);
 
@@ -1850,6 +1850,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,soundcloud.com,Global',
         'DOMAIN-SUFFIX,serviporno.com,Global',
         'DOMAIN-SUFFIX,redditmail.com,Global',
+        'DOMAIN-SUFFIX,quotemedia.com,Global',
         'DOMAIN-SUFFIX,dnsleak.privadovpn.com,Global',
         'DOMAIN-SUFFIX,pixeldrain.com,Global',
         'DOMAIN-SUFFIX,obsproject.com,Global',
@@ -1975,6 +1976,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,iloveimg.com,Global',
         'DOMAIN-SUFFIX,iboysoft.com,Global',
         'DOMAIN-SUFFIX,huffpost.com,Global',
+        'DOMAIN-SUFFIX,hqporner.com,Global',
         'DOMAIN-SUFFIX,gofundme.com,Global',
         'DOMAIN-SUFFIX,gmodules.com,Global',
         'DOMAIN-SUFFIX,ghostery.com,Global',
@@ -2213,6 +2215,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,lingq.com,Global',
         'DOMAIN-SUFFIX,lihkg.com,Global',
         'DOMAIN-SUFFIX,ko-fi.com,Global',
+        'DOMAIN-SUFFIX,kinja.com,Global',
         'DOMAIN-SUFFIX,kakao.com,Global',
         'DOMAIN-SUFFIX,jsbin.com,Global',
         'DOMAIN-SUFFIX,javhd.com,Global',
@@ -2329,6 +2332,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,wp.com,Global',
         'DOMAIN-SUFFIX,vk.com,Global',
         'DOMAIN-SUFFIX,ui.com,Global',
+        'DOMAIN-SUFFIX,qz.com,Global',
         'DOMAIN-SUFFIX,nj.com,Global',
         'DOMAIN-SUFFIX,c.mi.com,Global',
         'DOMAIN-SUFFIX,gv.com,Global',

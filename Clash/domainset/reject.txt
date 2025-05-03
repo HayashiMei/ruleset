@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-05-03T12:39:50.584Z
-# Size: 82165
+# Last Updated: 2025-05-03T14:55:00.812Z
+# Size: 82167
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -37809,6 +37809,7 @@ tracking.klickthru.com
 +.etym6cero.com
 +.nasi.etherscan.com
 eas.etherscan.com
++.ban.etherscan.com
 +.f1.estilomma.com
 +.bwhelm.essixhome.com
 +.ao-marketing.essendant.com
@@ -77907,6 +77908,7 @@ dd.iask.cn
 +.gqoi.cn
 +.ghrs.cn
 +.fqbr.cn
++.ffxe.cn
 +.exoh.cn
 +.ewvz.cn
 +.ewdk.cn

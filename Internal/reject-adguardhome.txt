@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sat, 03 May 2025 12:40:00 GMT
+! Last modified: Sat, 03 May 2025 14:55:10 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -39456,6 +39456,7 @@
 ||eticapool.com^
 ||nasi.etherscan.com^
 |eas.etherscan.com^
+||ban.etherscan.com^
 ||f1.estilomma.com^
 ||bwhelm.essixhome.com^
 ||ao-marketing.essendant.com^
@@ -81080,6 +81081,7 @@
 ||gqoi.cn^
 ||ghrs.cn^
 ||fqbr.cn^
+||ffxe.cn^
 ||exoh.cn^
 ||ewvz.cn^
 ||ewdk.cn^

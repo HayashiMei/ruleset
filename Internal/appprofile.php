@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-05-03T12:39:52.529Z
+// # Build 2025-05-03T14:55:02.717Z
 
 declare(strict_types=1);
 
@@ -2386,7 +2386,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,re,Global',
         'DOMAIN-SUFFIX,jav.pw,Global',
         'DOMAIN-SUFFIX,ps,Global',
-        'DOMAIN-SUFFIX,booth.pm,Global',
+        'DOMAIN-SUFFIX,pm,Global',
         'DOMAIN-SUFFIX,pl,Global',
         'DOMAIN-SUFFIX,ph,Global',
         'DOMAIN-SUFFIX,pe,Global',
@@ -2414,11 +2414,11 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,fb.me,Global',
         'DOMAIN-SUFFIX,t.me,Global',
         'DOMAIN-SUFFIX,m.me,Global',
-        'DOMAIN-SUFFIX,archive.md,Global',
+        'DOMAIN-SUFFIX,md,Global',
         'DOMAIN-SUFFIX,ly,Global',
         'DOMAIN-SUFFIX,la,Global',
         'DOMAIN-SUFFIX,kr,Global',
-        'DOMAIN-SUFFIX,lih.kg,Global',
+        'DOMAIN-SUFFIX,kg,Global',
         'DOMAIN-SUFFIX,jp,Global',
         'DOMAIN-SUFFIX,it,Global',
         'DOMAIN-SUFFIX,is,Global',

@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-05-03T02:03:06.431Z
+// # Build 2025-05-03T02:16:08.669Z
 
 declare(strict_types=1);
 
@@ -1519,6 +1519,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,github.media,Global',
         'DOMAIN-SUFFIX,discourse.group,Global',
         'DOMAIN-SUFFIX,sketch.cloud,Global',
+        'DOMAIN-SUFFIX,wiki,Global',
         'DOMAIN-SUFFIX,matters.town,Global',
         'DOMAIN-SUFFIX,notion.site,Global',
         'DOMAIN-SUFFIX,nextra.site,Global',
@@ -2059,6 +2060,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,javwind.com,Global',
         'DOMAIN-SUFFIX,javmost.com,Global',
         'DOMAIN-SUFFIX,intodns.com,Global',
+        'DOMAIN-SUFFIX,imgflip.com,Global',
         'DOMAIN-SUFFIX,hsforms.com,Global',
         'DOMAIN-SUFFIX,hostloc.com,Global',
         'DOMAIN-SUFFIX,hetzner.com,Global',
@@ -2128,6 +2130,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,pinimg.com,Global',
         'DOMAIN-SUFFIX,phncdn.com,Global',
         'DOMAIN-SUFFIX,oracle.com,Global',
+        'DOMAIN-SUFFIX,okcoin.com,Global',
         'DOMAIN-SUFFIX,odysee.com,Global',
         'DOMAIN-SUFFIX,oculus.com,Global',
         'DOMAIN-SUFFIX,nypost.com,Global',
@@ -2149,6 +2152,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,ifixit.com,Global',
         'DOMAIN-SUFFIX,idrive.com,Global',
         'DOMAIN-SUFFIX,hwinfo.com,Global',
+        'DOMAIN-SUFFIX,heroku.com,Global',
         'DOMAIN-SUFFIX,grindr.com,Global',
         'DOMAIN-SUFFIX,glitch.com,Global',
         'DOMAIN-SUFFIX,gitlab.com,Global',
@@ -2205,6 +2209,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,nytco.com,Global',
         'DOMAIN-SUFFIX,npmjs.com,Global',
         'DOMAIN-SUFFIX,naver.com,Global',
+        'DOMAIN-SUFFIX,mixer.com,Global',
         'DOMAIN-SUFFIX,lingq.com,Global',
         'DOMAIN-SUFFIX,lihkg.com,Global',
         'DOMAIN-SUFFIX,ko-fi.com,Global',
@@ -2245,6 +2250,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN,ccmdl.adobe.com,Global',
         'DOMAIN-SUFFIX,500px.com,Global',
         'DOMAIN-SUFFIX,3movs.com,Global',
+        'DOMAIN-SUFFIX,123rf.com,Global',
         'DOMAIN-SUFFIX,xnxx.com,Global',
         'DOMAIN-SUFFIX,xing.com,Global',
         'DOMAIN-SUFFIX,waze.com,Global',

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2025-05-03T02:03:04.768Z
-# Size: 56464
+# Last Updated: 2025-05-03T02:16:06.900Z
+# Size: 56475
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10051,6 +10051,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.pawnauctions.net
 +.xxo.colo.oystergarden.net
 +.ounsissoadry.net
++.otomoto-h229.net
 +.orbitnetwork.net
 +.cat.onlinepeople.net
 +.omegaadblock.net
@@ -18927,6 +18928,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.valleysrelyfiend.com
 +.valentinosverige.com
 +.v2-o-p-e-n-s-e-a.com
++.uwelldeutschland.com
 +.uttermosthobbies.com
 +.cdn.usabilitytracker.com
 +.urlpage-redirect.com
@@ -19406,6 +19408,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.loyalracingelder.com
 +.lovehiccuppurple.com
 +.louisedistanthat.com
++.lossless-scaling.com
 +.loserwentsignify.com
 +.loosenpuppetnone.com
 +.loginlockssignal.com
@@ -24514,6 +24517,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.drawingwheels.com
 +.dramaticsalad.com
 +.downloadsbeta.com
++.lossless-scaling.download-fast.com
 +.dowhatyouneed.com
 +.doucheraisiny.com
 +.doublepimpads.com
@@ -29098,8 +29102,10 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.notificationbyfacebook.firebaseapp.com
 +.webmailrupdatekorea.firebaseapp.com
 +.affiliate-script-pr.firebaseapp.com
++.emta-ee-authst.firebaseapp.com
 +.ads-game-187f4.firebaseapp.com
 +.stockbook-ads.firebaseapp.com
++.socgeneralist.firebaseapp.com
 +.fipzammizac.com
 +.share.fingercheck.com
 +.finestpiece.com
@@ -30107,6 +30113,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.api.useinsider.com
 +.usdtupdate.com
 +.img4.uscellular.com
++.mercado-livre.produtos.usacomment.com
 +.urlupdates.com
 +.url-hoster.com
 +.urethaneai.com
@@ -38774,6 +38781,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.clloudia.com
 +.clixtrac.com
 +.loc.cliv2508.com
++.telus.signup.clik2pay.com
 +.clictrck.com
 +.clickyab.com
 +.clicksor.com
@@ -41573,6 +41581,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.aneorwd.com
 +.intm.amwager.com
 +.amserva.com
++.amezpay.com
 +.ameowli.com
 +.amcmuhu.com
 +.amboya6.com
@@ -48898,6 +48907,7 @@ kma.biz
 +.nasimke.ru
 +.mywhite.ru
 +.mytizer.ru
++.mymokki.ru
 +.mobdrom.ru
 +.minidoc.ru
 +.dhcp-232-249-59-5.metro86.ru
@@ -54831,6 +54841,7 @@ jhf.ru
 +.za-ads.de
 +.cicfbo.yt-hgs.de
 +.x-stat.de
++.damoh.welect.de
 +.vtracy.de
 +.vgwort.de
 +.usemax.de

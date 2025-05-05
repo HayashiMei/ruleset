@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Mon, 05 May 2025 10:02:53 GMT
+! Last modified: Mon, 05 May 2025 13:09:58 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -136,19 +136,16 @@
 ||utiq.staging--wiwo.hmg.systems^
 ||browsers.support^
 ||yoiku-sub.yoiku.support^
-||pool.support^
 ||marketing.et.support^
 ||miners.science^
 ||gdumfy.home-design.schmidt^
 ||aa.get.realtor^
 ||cv.hikari.organic^
 ||cleanbrowser.network^
-||ethersocial.network^
 ||boldprivate.network^
 ||hoxha.nieuwspaal.network^
 ||fuertecoin.network^
 ||ravencoin.network^
-||proxynode.network^
 ||moonicorn.network^
 ||cpaoffers.network^
 ||webchain.network^
@@ -3269,7 +3266,6 @@
 ||crlsxny.xyz^
 ||bpxbzps.xyz^
 ||boxthis.xyz^
-||bignode.xyz^
 ||beauty1.xyz^
 ||baijs08.xyz^
 ||baijs07.xyz^
@@ -7912,7 +7908,6 @@
 ||mediasolutions.netinsight.net^
 ||nengeetcha.net^
 ||cv-adebis.my-studies.net^
-||multi-pool.net^
 ||mordeegroo.net^
 ||cdnjs.mopair-erm.net^
 ||vik-analytics.moonactive.net^
@@ -7969,7 +7964,6 @@
 ||heefothust.net^
 ||marketing.healthtech.net^
 ||hauwoopauy.net^
-||hashinvest.net^
 ||groostaupy.net^
 ||groobsusso.net^
 ||greerogloo.net^
@@ -10273,7 +10267,6 @@
 ||hiveon.net^
 ||hellay.net^
 ||t.hantha.net^
-||hacash.net^
 ||beacon.gu-web.net^
 ||xrnyhc.golfor.net^
 ||gigsis.net^
@@ -10370,8 +10363,6 @@
 ||andohs.net^
 ||amntx1.net^
 ||dsp.ali213.net^
-|spyneteurope.microsoft.akadns.net^
-|schemas.microsoft.akadns.net^
 ||nycp-hlb.dvgtm.akadns.net^
 |onecollector.cloudapp.aria.akadns.net^
 ||ak-is2.net^
@@ -18124,7 +18115,6 @@
 ||gi-client-tracking.goodgamestudios.com^
 ||logging.goodgamestudios.com^
 ||good-ads-online.com^
-||goldennoncepool.com^
 ||load.ssgtm.goettigclothing.com^
 ||app.godrakebulldogs.com^
 ||t.godrakebulldogs.com^
@@ -20656,7 +20646,6 @@
 ||metrics.tractorsupply.com^
 ||ro2.ro.trackrocasino.com^
 ||trk.trackingnutra.com^
-||trackclickers.com^
 ||tr.track-myleads.com^
 ||tovespiquener.com^
 ||admin.totalpolitics.com^
@@ -21043,7 +21032,6 @@
 ||pseexauboorsu.com^
 ||uwezxr.provenwinners.com^
 ||nsnomj.protur-hotels.com^
-||prosystemorgo.com^
 ||propgoservice.com^
 ||propellerpops.com^
 ||info.prontopilates.com^
@@ -22620,7 +22608,6 @@
 ||688de7b3822de.com^
 ||redtrack.4futureagency.com^
 ||utiq.3djuegosguias.com^
-||2hoursbitcoin.com^
 ||2cnjuh34jbman.com^
 ||24x7adservice.com^
 ||metrics.24hourfitness.com^
@@ -27066,7 +27053,6 @@
 ||lator308aoe.com^
 ||privacy.latitudepay.com^
 ||metrics.latitudepay.com^
-||latinminers.com^
 ||redtrack.latar88quen.com^
 ||mktg.laresdental.com^
 ||squirrel.laravel-mix.com^
@@ -29210,7 +29196,6 @@
 ||sdbvveonb1.com^
 ||scyrudomqs.com^
 ||bxumze.scsuntimes.com^
-||scryptpool.com^
 ||scrorlaets.com^
 ||metrics.mobilebanking.scotiabank.com^
 ||somniture.scotiabank.com^
@@ -32217,6 +32202,7 @@
 ||cdn.wolf-327b.com^
 ||stats2.wmagazine.com^
 ||sstats.wmagazine.com^
+||wlberlaiw.com^
 ||wlafx4trk.com^
 ||wjct3s8at.com^
 ||srepdata.wisfarmer.com^
@@ -33710,9 +33696,7 @@
 |feedback.search.microsoft.com^
 |choice.microsoft.com^
 |win1710.ipv6.microsoft.com^
-|teredo.ipv6.microsoft.com^
 |win10.ipv6.microsoft.com^
-|win8.ipv6.microsoft.com^
 ||data.microsoft.com^
 ||pipe.aria.microsoft.com^
 ||telemetry.urs.microsoft.com^
@@ -42613,7 +42597,6 @@
 ||coinive.com^
 ||coinimp.com^
 ||tracking.cognyte.com^
-||codpool.com^
 ||codezap.com^
 ||1.codesdq.com^
 ||qzfxcf.coastal.com^
@@ -44575,7 +44558,6 @@
 ||analytics.paddle.com^
 ||metrics.pacsun.com^
 ||p2pool.com^
-||p1pool.com^
 ||sstats.oyster.com^
 ||stats.oyster.com^
 ||ijaabm.oxygen.com^
@@ -46962,7 +46944,6 @@
 ||adlc-exchange.toast.com^
 ||adx-exchange.toast.com^
 ||cm-exchange.toast.com^
-||to-kr.com^
 ||tneca.com^
 ||tracking.health.tmcaz.com^
 ||page.health.tmcaz.com^
@@ -60745,7 +60726,6 @@
 ||analytics.zoomit.ir^
 ||analytics.metrix.ir^
 ||analyt.ir^
-||upool.ir^
 ||mineo.ir^
 ||banner.dabi.ir^
 ||analytics.rev.iq^
@@ -60848,7 +60828,6 @@
 ||app.crossengage.io^
 ||classicpool.io^
 ||stats.boringproxy.io^
-||bitexplorer.io^
 ||bitcoinmono.io^
 ||bitcoinatom.io^
 ||metrics.beyondwords.io^
@@ -74489,7 +74468,6 @@
 ||leo.goplay.be^
 ||gtm.fugare.be^
 ||sstats.fintro.be^
-||ethash.be^
 ||sw88.disney.be^
 ||load.gtm.digiti.be^
 ||securedata.dats24.be^

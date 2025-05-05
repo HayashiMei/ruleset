@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-05-05T13:09:50.719Z
+// # Build 2025-05-05T13:59:18.345Z
 
 declare(strict_types=1);
 
@@ -1775,6 +1775,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,thaiheadlines.com,Global',
         'DOMAIN-SUFFIX,stackoverflow.com,Global',
         'DOMAIN-SUFFIX,stackexchange.com,Global',
+        'DOMAIN-SUFFIX,redbullracing.com,Global',
         'DOMAIN-SUFFIX,prowritingaid.com,Global',
         'DOMAIN-SUFFIX,packagephobia.com,Global',
         'DOMAIN-SUFFIX,nbclosangeles.com,Global',
@@ -2045,6 +2046,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,scpwiki.com,Global',
         'DOMAIN-SUFFIX,reuters.com,Global',
         'DOMAIN-SUFFIX,redtube.com,Global',
+        'DOMAIN-SUFFIX,redbull.com,Global',
         'DOMAIN-SUFFIX,proxmox.com,Global',
         'DOMAIN-SUFFIX,pornoxo.com,Global',
         'DOMAIN-SUFFIX,pornhub.com,Global',
@@ -5061,15 +5063,14 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,120.72.32.0/19,Domestic',
         'IP-CIDR,120.72.160.0/24,Domestic',
         'IP-CIDR,120.72.162.0/23,Domestic',
-        'IP-CIDR,120.72.164.0/22,Domestic',
+        'IP-CIDR,120.72.166.0/23,Domestic',
         'IP-CIDR,120.72.168.0/24,Domestic',
         'IP-CIDR,120.72.170.0/23,Domestic',
         'IP-CIDR,120.72.172.0/23,Domestic',
-        'IP-CIDR,120.72.174.0/24,Domestic',
         'IP-CIDR,120.72.177.0/24,Domestic',
         'IP-CIDR,120.72.178.0/24,Domestic',
         'IP-CIDR,120.72.180.0/24,Domestic',
-        'IP-CIDR,120.72.182.0/23,Domestic',
+        'IP-CIDR,120.72.182.0/24,Domestic',
         'IP-CIDR,120.72.184.0/22,Domestic',
         'IP-CIDR,120.72.188.0/23,Domestic',
         'IP-CIDR,120.72.190.0/24,Domestic',

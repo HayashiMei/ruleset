@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-05-05T13:09:49.859Z
-# Size: 3538
+# Last Updated: 2025-05-05T13:59:18.253Z
+# Size: 3542
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1127,6 +1127,7 @@ store-images.s-microsoft.com
 c.s-microsoft.com
 +.dataplane.rudderstack.com
 +.redditmedia.com
+assets.redbullshop.com
 assets.raspberrypi.com
 +.qooqlevideo.com
 api.producthunt.com
@@ -2063,6 +2064,8 @@ ocsp.sectigo.com
 +.cdn.rollbar.com
 tools.refokus.com
 userpic.redgifs.com
+rbds-static.redbull.com
+img.redbull.com
 js.recurly.com
 cdn-rdstaticassets.readdle.com
 +.ravenjs.com
@@ -3515,6 +3518,7 @@ static.k2s.cc
 +.1passwordusercontent.ca
 +.abc-cdn.net.au
 res.abc.net.au
+styleguide-assets.shannons.com.au
 +.newscdn.com.au
 tags.news.com.au
 +.ipfs.greyh.at

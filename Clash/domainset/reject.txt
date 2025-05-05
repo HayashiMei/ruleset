@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-05-05T14:32:34.377Z
-# Size: 72986
+# Last Updated: 2025-05-05T15:00:41.248Z
+# Size: 72989
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -19915,6 +19915,7 @@ api-ads.tiantianqutao.com
 +.redtrackkerio.com
 +.redirectingat.com
 +.activate.redeyechicago.com
+qm.redbullracing.com
 +.xyimai.redbirdshouse.com
 +.recyclingbees.com
 +.info.recoverypoint.com
@@ -43617,6 +43618,7 @@ ad.hzyoka.com
 +.px.gfycat.com
 +.biz.gexing.com
 +.data-26d7316678.gewinn.com
++.hhapk777.getehu.com
 +.tracking.getapp.com
 +.getadx.com
 +.incs.get-go.com
@@ -44626,6 +44628,7 @@ cps.360buy.com
 +.206ads.com
 +.u1.2048sj.com
 +.1.201980.com
++.txdy.2016os.com
 +.1winpb.com
 +.adebis1.1rnavi.com
 +.ssgtm.1rebel.com

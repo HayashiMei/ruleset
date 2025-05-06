@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2025-05-06T12:47:31.207Z
-# Size: 56417
+# Last Updated: 2025-05-06T14:56:24.602Z
+# Size: 56423
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3491,7 +3491,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.yelads2.life
 +.thepool.life
 +.nanthou.life
-+.config.sdk.kochava.dewrain.life
 +.bittrex.life
 +.vn-scl.life
 +.vn-iy.life
@@ -6552,6 +6551,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.trumcltx.vip
 +.tomo5963.vip
 +.tomo5933.vip
++.tkshopvn.vip
 +.tikishop.vip
 +.shoppe85.vip
 +.shoppe81.vip
@@ -7269,6 +7269,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.verspicary.top
 +.vayshinhan.top
 +.uzbeknisse.top
++.tbaovn-cms.top
 +.taposalett.top
 +.sutmopanel.top
 +.support-bc.top
@@ -9459,6 +9460,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.dogpool.one
 +.mp-pop.barryto.one
 +.nice.tranny.one
++.pixoff.one
 +.app.gayapp.one
 +.backcb.one
 +.amaeex.one
@@ -11305,6 +11307,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.vizisense.net
 +.vipadvert.net
 +.vip-salon.net
++.vinmarket.net
 +.videoroll.net
 +.ver-pelis.net
 +.vaultcord.net
@@ -19083,6 +19086,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.skatingpenitence.com
 +.cdn.siteswithcontent.com
 +.singulardisplace.com
++.singtelmyconnect.com
 +.sinceresubstance.com
 +.simplehitcounter.com
 +.share.simonandschuster.com
@@ -23428,6 +23432,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.shopgamelq247.com
 +.shopgamedaquy.com
 +.shopeesmarket.com
++.shopeesallers.com
 +.shopeemission.com
 +.shopeekingden.com
 +.shopeehethong.com
@@ -25118,6 +25123,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.sess.vippreferred.com
 +.vipfastmoney.com
 +.vip1-droppii.com
++.vingroupfund.com
 +.oascentral.villagevoice.com
 +.oas.villagevoice.com
 +.vilagfigyelo.com
@@ -28637,6 +28643,7 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.threatmetrix.lendingclub.com
 +.refer.lendingclub.com
 +.leavehomego.com
++.lazaoffices.com
 +.lazadamallz.com
 +.lazadamallc.com
 +.lazadabrand.com
@@ -40408,7 +40415,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.c7e935.netlify.com
 +.tracker.netklix.com
 +.secured.netflix.com
-+.customerevents.dradis.netflix.com
 +.ichnaea-web.dradis.netflix.com
 +.customerevents.us-west-2.internal.dradis.netflix.com
 +.ichnaea-web.us-west-2.internal.dradis.netflix.com
@@ -40425,7 +40431,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.customerevents.dflt.internal.dradis.netflix.com
 +.ichnaea-web.dflt.internal.dradis.netflix.com
 +.ichnaea.dflt.internal.dradis.netflix.com
-+.ichnaea.dradis.netflix.com
 +.hubble.netease.com
 +.netbina.com
 +.analytics01.cisco.netacad.com
@@ -41129,7 +41134,6 @@ this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.eight85.com
 +.egykofo.com
 +.egisela.com
-+.effirst.com
 +.efdjelx.com
 +.efcinfo.com
 +.eelpool.com
@@ -44888,6 +44892,7 @@ mpush-api.aliyun.com
 +.amoad.com
 +.amhen.com
 +.ads.amdmb.com
++.alwix.com
 +.ads.alive.com
 +.alfie.com
 +.alaot.com
@@ -46246,6 +46251,7 @@ kma.biz
 +.www-facebook-com.vn
 +.vongquaylienminh.vn
 +.vietnamairslines.vn
++.vienthongviettel.vn
 +.analytics.ungdungtructuyen.vn
 +.shopplaytogether.vn
 +.shopcuaminhchill.vn

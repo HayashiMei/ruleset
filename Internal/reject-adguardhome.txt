@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Tue, 06 May 2025 12:47:49 GMT
+! Last modified: Tue, 06 May 2025 14:56:34 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -2256,6 +2256,7 @@
 ||dealsfor.life^
 ||thepool.life^
 ||shrekis.life^
+||config.sdk.kochava.dewrain.life^
 ||int.dewrain.life^
 ||co.dewrain.life^
 ||bittrex.life^
@@ -2894,6 +2895,7 @@
 ||dddashasledopyt.xyz^
 ||yinteukrestina.xyz^
 ||worldglobalssp.xyz^
+||spumvgltasdrjg.xyz^
 ||rilseessinipto.xyz^
 ||pushmaster-cdn.xyz^
 ||partion-ricism.xyz^
@@ -3636,6 +3638,7 @@
 ||60jxn4.xyz^
 ||609999.xyz^
 ||591520.xyz^
+||558158.xyz^
 ||303365.xyz^
 ||100kia.xyz^
 ||033ajy.xyz^
@@ -4036,6 +4039,7 @@
 ||jkajyrkqaoyjl.top^
 ||jeoawamqybkeb.top^
 ||jekzyyyljvyww.top^
+||jekzyyyljvrbl.top^
 ||jbbyyryolqvby.top^
 ||idolismsupari.top^
 ||hydrialocklet.top^
@@ -4070,6 +4074,7 @@
 ||cynipidskurry.top^
 ||cupheashagbag.top^
 ||cryonicstaged.top^
+||croupsdorsals.top^
 ||cppopmfbsoohj.top^
 ||corjlougqaicc.top^
 ||colentkeruing.top^
@@ -7403,6 +7408,7 @@
 ||oardaptaunga.net^
 ||oagroucestou.net^
 ||nozoakamsaun.net^
+||noudounaigri.net^
 ||noowoochuveb.net^
 ||nemtoorgeeps.net^
 ||neesihoothak.net^
@@ -7575,6 +7581,7 @@
 ||rookuvabege.net^
 ||roharoagloh.net^
 ||metrics.rocheonline.net^
+||roawhuchoow.net^
 ||roastedvolt.net^
 ||roapsoogaiz.net^
 ||ripheeksirg.net^
@@ -7961,6 +7968,7 @@
 ||groostaupy.net^
 ||groobsusso.net^
 ||greerogloo.net^
+||gredraupse.net^
 ||aa-metrics.golf-jalan.net^
 ||glolsoarti.net^
 ||glodsidrik.net^
@@ -10137,8 +10145,7 @@
 |pdc.micloud.xiaomi.net^
 |api.g.micloud.xiaomi.net^
 ||sec-cdn.static.xiaomi.net^
-|global.search.xiaomi.net^
-|mlog.search.xiaomi.net^
+||search.xiaomi.net^
 |lxcdn.dl.files.xiaomi.net^
 |api.chat.xiaomi.net^
 |resolver.msg.xiaomi.net^
@@ -13015,6 +13022,7 @@
 ||gtm.implantologiafrustagli.com^
 ||impatientlyastonishing.com^
 ||ietyofedinj89yewtburgh.com^
+||hypnotizebaseballjesus.com^
 ||huntersaturateunbeaten.com^
 ||humilityslammedslowing.com^
 ||fbu8.hoteldeparismontecarlo.com^
@@ -15246,6 +15254,7 @@
 ||rtk.trk.updatehealthtoday.com^
 ||path.unitedautosavings.com^
 ||secure-wa-na.unileversolutions.com^
+||unheadedsouptotal.com^
 ||unfairgenelullaby.com^
 ||metrics.undercovertourist.com^
 ||jutubu.ultraforeclosures.com^
@@ -23964,6 +23973,7 @@
 ||muragetunnel.com^
 ||touch.multitaction.com^
 ||rranyl.muchachomalo.com^
+||conduit-beacon.mtvnservices.com^
 ||track.mtraq138uae2.com^
 ||track.mtraq136uae2.com^
 ||track.mtraq132uae2.com^
@@ -24432,6 +24442,7 @@
 ||da.hoerner-gmbh.com^
 ||hmazuxhikosj.com^
 ||hlfuwsiayson.com^
+||hkiqfjkqswwa.com^
 ||hixtzumpygmi.com^
 ||joe.hitaniceberg.com^
 ||track.historictalk.com^
@@ -24469,6 +24480,7 @@
 ||om.healthgrades.com^
 ||track.hg.healthgrades.com^
 ||go.healthgrades.com^
+||hcimixnajojl.com^
 ||hatlesswhsle.com^
 ||hashrefinery.com^
 ||hashitmining.com^
@@ -26148,6 +26160,7 @@
 ||steakeffort.com^
 ||steadydonut.com^
 ||stdirection.com^
+||staupauptou.com^
 ||statsforads.com^
 ||sgtm.stationdeus.com^
 ||metrics.statestreet.com^
@@ -28633,6 +28646,7 @@
 ||yieldscale.com^
 ||yieldbuild.com^
 ||yibivacaji.com^
+||yghalathio.com^
 ||ans.yesnetwork.com^
 ||an.yesnetwork.com^
 ||sgtm.yesinglese.com^
@@ -30451,6 +30465,7 @@
 ||isteetashy.com^
 ||go.isbamutual.com^
 ||bkprmw.ironyporno.com^
+||iqtucudfff.com^
 ||tr.voeux-wishes.ipsilon-ip.com^
 ||ipromcloud.com^
 ||c81.ipanocloud.com^
@@ -31214,7 +31229,7 @@
 ||dcuovgobkv.com^
 ||dcssptrack.com^
 ||dcff90fa75.com^
-||edc588f8b9.dc7dad4603.com^
+||dc7dad4603.com^
 ||dc-rotator.com^
 ||images.logisticsnews.dbschenker.com^
 ||internalcomms.dbschenker.com^
@@ -31732,6 +31747,7 @@
 ||85dcec5317.b8763ae795.com^
 ||b7dff0913b.com^
 ||cd037385e0.b67f1b04e9.com^
+||b4ced3abcd.com^
 ||708ec1c33c.b4a03471a7.com^
 ||b3z29k1uxb.com^
 ||b3mxnuvcer.com^
@@ -36096,6 +36112,7 @@
 ||vcs.zijieapi.com^
 ||mon.zijieapi.com^
 ||mcs.zijieapi.com^
+|log.zijieapi.com^
 ||ad.zijieapi.com^
 ||zijaipse.com^
 ||zidojrol.com^
@@ -39952,7 +39969,7 @@
 |httpdns-sc.aliyuncs.com^
 ||beacon-api.aliyuncs.com^
 ||adash.man.aliyuncs.com^
-|jsadsdisplay.cn-beijing.log.aliyuncs.com^
+||log.aliyuncs.com^
 ||metrics.alecensa.com^
 ||waaf1.aldilife.com^
 ||akutapro.com^
@@ -41160,6 +41177,7 @@
 ||redtram.com^
 ||vdrn.redplum.com^
 ||pixel.redgifs.com^
+||redfast.com^
 ||srepdata.redding.com^
 ||sxjfhh.redding.com^
 ||sp.redding.com^
@@ -41552,6 +41570,8 @@
 ||ichnaea-web.netflix.com^
 ||nmtracking.netflix.com^
 ||ichnaea.netflix.com^
+||customerevents.dradis.netflix.com^
+||ichnaea.dradis.netflix.com^
 ||beacon.netflix.com^
 ||aidsvc.netflix.com^
 ||logs.netflix.com^
@@ -42638,7 +42658,7 @@
 ||metrics.egencia.com^
 ||marketing.efleets.com^
 ||perf.af.eficads.com^
-||px.effirst.com^
+||effirst.com^
 ||efcinfo.com^
 ||test.efaging.com^
 ||eelpool.com^
@@ -49763,6 +49783,7 @@
 |goblin.hupu.com^
 |adx.hupu.com^
 ||api.distribution.hulu.com^
+||views-dual.hulu.com^
 ||vortex.hulu.com^
 ||metcon.hulu.com^
 ||views.hulu.com^
@@ -61166,6 +61187,7 @@
 ||gwt.businessheroes.io^
 ||becomeapartner.io^
 ||elq.banyansecurity.io^
+||ap.attainplatform.io^
 ||analytics-data.io^
 ||pixel.thoughtmetric.io^
 ||rtb-uswest-v4.strongmetrics.io^

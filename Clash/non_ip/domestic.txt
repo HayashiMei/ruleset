@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-05-06T14:56:25.088Z
-# Size: 796
+# Last Updated: 2025-05-06T16:12:35.355Z
+# Size: 797
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -217,6 +217,7 @@ DOMAIN-SUFFIX,camera360.com
 DOMAIN-SUFFIX,caiyunapp.com
 DOMAIN-SUFFIX,bytegoofy.com
 DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytecdntp.com
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,bilicomic.com
 DOMAIN-SUFFIX,alikunlun.com
